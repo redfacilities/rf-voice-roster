@@ -12875,7 +12875,7 @@
       "name": "Max Howarth",
       "accent": "Scottish Generic",
       "gender": "male",
-      "age": "30s",
+      "age": "50s",
       "accentGroup": [
         "english",
         "irish",
@@ -12886,11 +12886,17 @@
       ],
       "genres": [
         "commercial",
-        "corporate"
+        "corporate",
+        "documentary",
+        "character",
+        "elearning"
       ],
       "genreLabels": [
         "Commercial",
-        "Corporate"
+        "Corporate",
+        "Documentary",
+        "Character",
+        "E-Learning"
       ],
       "demos": [
         {

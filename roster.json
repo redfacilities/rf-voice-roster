@@ -480,7 +480,7 @@
     {
       "name": "Camille Marmié",
       "accent": "English RP · Icelandic",
-      "gender": null,
+      "gender": "female",
       "age": null,
       "accentGroup": [
         "english",
@@ -4102,7 +4102,7 @@
     {
       "name": "Stewart Blythe",
       "accent": "Scottish West Coast",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -4183,7 +4183,7 @@
     {
       "name": "Steve Corrall",
       "accent": "Scottish",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [],
       "languages": [],
@@ -4370,7 +4370,7 @@
     {
       "name": "Silvia Garcia Martinez",
       "accent": "Scottish · Spanish",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [],
       "languages": [
@@ -4940,7 +4940,7 @@
     {
       "name": "Robert Williamson",
       "accent": "Scottish Shetland",
-      "gender": null,
+      "gender": "male",
       "age": "40s",
       "accentGroup": [
         "scottish"
@@ -4968,7 +4968,7 @@
     {
       "name": "Robert Moyes",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -5250,7 +5250,7 @@
     {
       "name": "Rachel Colles",
       "accent": "English Southern",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "english"
@@ -5358,7 +5358,7 @@
     {
       "name": "Pauline Lockhart",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -5441,7 +5441,7 @@
     {
       "name": "Paul Nivison",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "40s",
       "accentGroup": [
         "scottish"
@@ -5688,7 +5688,7 @@
     {
       "name": "Nicola Roy",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -5715,7 +5715,7 @@
     {
       "name": "Nicola Jo Cully",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -6324,7 +6324,7 @@
     {
       "name": "Mary Wells",
       "accent": "English Northern",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "english"
@@ -6551,7 +6551,7 @@
     {
       "name": "Luke Houston",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -6743,7 +6743,7 @@
     {
       "name": "Lilja O’Brien",
       "accent": "American · German / Icelandic",
-      "gender": null,
+      "gender": "female",
       "age": null,
       "accentGroup": [
         "american",
@@ -6880,7 +6880,7 @@
     {
       "name": "Leigh Biagi",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "40s",
       "accentGroup": [
         "scottish"
@@ -7364,7 +7364,7 @@
     {
       "name": "Kat Folan",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -7970,7 +7970,7 @@
     {
       "name": "John Henderson",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "50s",
       "accentGroup": [
         "scottish"
@@ -8633,7 +8633,7 @@
     {
       "name": "James Rottger",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -8713,7 +8713,7 @@
     {
       "name": "James Frame",
       "accent": "Scottish North West",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -8741,7 +8741,7 @@
     {
       "name": "James Dinsmore",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -8878,7 +8878,7 @@
     {
       "name": "Isolde James-Griffiths",
       "accent": "Scottish · French / German",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [],
       "languages": [
@@ -9071,7 +9071,7 @@
     {
       "name": "Ian Andrew",
       "accent": "Scottish West Coast",
-      "gender": null,
+      "gender": "male",
       "age": "40s",
       "accentGroup": [
         "scottish"
@@ -9156,7 +9156,7 @@
     {
       "name": "Iain Armstrong",
       "accent": "English Generic",
-      "gender": null,
+      "gender": "male",
       "age": "50s",
       "accentGroup": [
         "english"
@@ -9429,7 +9429,7 @@
     {
       "name": "Heather Dewar",
       "accent": "English RP",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "english"
@@ -11017,7 +11017,7 @@
     {
       "name": "Deborah Arnott",
       "accent": "Scottish West Coast",
-      "gender": null,
+      "gender": "female",
       "age": "40s",
       "accentGroup": [
         "scottish"
@@ -11466,7 +11466,7 @@
     {
       "name": "Clare O’Donnell",
       "accent": "Scottish West Coast",
-      "gender": null,
+      "gender": "female",
       "age": null,
       "accentGroup": [
         "scottish"
@@ -11550,7 +11550,7 @@
     {
       "name": "Chris Martin",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -11810,7 +11810,7 @@
     {
       "name": "Brian James O’Sullivan",
       "accent": "Scottish West Coast",
-      "gender": null,
+      "gender": "male",
       "age": null,
       "accentGroup": [
         "scottish"
@@ -11924,7 +11924,7 @@
     {
       "name": "Beth Marshall",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -12230,7 +12230,7 @@
     {
       "name": "Ann O’Neill",
       "accent": "Irish Southern",
-      "gender": null,
+      "gender": "female",
       "age": null,
       "accentGroup": [
         "irish"
@@ -12285,7 +12285,7 @@
     {
       "name": "Angela Ness",
       "accent": "Scottish Generic",
-      "gender": null,
+      "gender": "female",
       "age": "30s",
       "accentGroup": [
         "scottish"
@@ -12321,7 +12321,7 @@
     {
       "name": "Angela Duthie",
       "accent": "English RP",
-      "gender": null,
+      "gender": "female",
       "age": "40s",
       "accentGroup": [
         "english"
@@ -12527,7 +12527,7 @@
     {
       "name": "Andrew Hally",
       "accent": "Scottish East Coast",
-      "gender": null,
+      "gender": "male",
       "age": "20s",
       "accentGroup": [
         "scottish"
@@ -12816,7 +12816,7 @@
     {
       "name": "Alec Westwood",
       "accent": "Scottish North East",
-      "gender": null,
+      "gender": "male",
       "age": "30s",
       "accentGroup": [
         "scottish"

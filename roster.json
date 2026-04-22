@@ -6985,7 +6985,7 @@
       "name": "Layla Howarth",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": null,
+      "age": "20s",
       "accentGroup": [
         "scottish"
       ],
@@ -12135,7 +12135,7 @@
       "name": "Ben Howarth",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": null,
+      "age": "20s",
       "accentGroup": [
         "english",
         "scottish"
@@ -12157,7 +12157,6 @@
           "trackId": "723713707"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ben-Howarth.jpg",
       "description": "A natural East Coast Scots male with a warm, engaging quality across documentary and e-learning content."
     },
     {

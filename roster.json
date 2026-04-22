@@ -25,7 +25,7 @@
           "trackId": "2271691802"
         }
       ],
-      "description": "Youthful, upbeat and vibrant.",
+      "description": "A bright, bouncy East Coast voice with genuine warmth and energy to spare. Well suited to commercial and corporate work that needs a youthful, relatable quality.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rachel-Moyle.jpg"
     },
     {
@@ -65,7 +65,7 @@
           "trackId": "2246675690"
         }
       ],
-      "description": "Fun and full of energy.",
+      "description": "A grounded West Country male with real personality and an easy, conversational delivery. Works well across documentary narration, e-learning, and consumer brands.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Oakley.jpg"
     },
     {
@@ -93,7 +93,8 @@
           "trackId": "2246167589"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Campbell.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Campbell.jpg",
+      "description": "A confident East Coast Scots male in his 30s with a natural, unfussy delivery and a knack for character work. Strong instincts across commercial and creative briefs."
     },
     {
       "name": "Ali Halkett",
@@ -132,7 +133,7 @@
           "trackId": "2184134331"
         }
       ],
-      "description": "Gentle, characterful and engaging.",
+      "description": "A gentle, thoughtful East Coast male voice with real character and a measured pace that draws listeners in. Equally at home narrating or selling.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ali-Halkett.jpg"
     },
     {
@@ -160,7 +161,7 @@
           "trackId": "2155044600"
         }
       ],
-      "description": "Warm, confident and a little bit husky.",
+      "description": "A warm, slightly husky East Coast female with confident delivery and a natural intimacy that works particularly well in e-learning and consumer advertising.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/penny-cobham.jpg"
     },
     {
@@ -200,12 +201,12 @@
           "trackId": "2120473338"
         }
       ],
-      "description": "Bright, bubbly and full of energy.",
+      "description": "A bright, energetic West Coast Scots female with a bubbly, infectious quality. Ideal for consumer brands, health campaigns, and anything that needs genuine positivity.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jenni-Wales.jpg"
     },
     {
       "name": "Donald Sinclair",
-      "accent": "Scottish North West · Gaelic",
+      "accent": "Scottish North West \u00b7 Gaelic",
       "gender": "male",
       "age": "40s",
       "accentGroup": [
@@ -240,7 +241,7 @@
           "trackId": "2110365642"
         }
       ],
-      "description": "Authentic, gritty and down to earth.",
+      "description": "A rugged, authentic North West Scots male voice with real grit and a natural Gaelic lilt. Ideal for whisky, heritage, documentary, and distinctly Scottish briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/donald-sinclair.jpg"
     },
     {
@@ -280,7 +281,7 @@
           "trackId": "2106868248"
         }
       ],
-      "description": "Warm, rich and caring.",
+      "description": "A warm, rich North East Scots male voice in his 20s with a caring, unhurried quality. Works well for health campaigns, narration, and anything needing sincerity.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Finlay-Allan.jpg"
     },
     {
@@ -320,12 +321,12 @@
           "trackId": "2099541264"
         }
       ],
-      "description": "Direct, engaging with plenty of gravitas.",
+      "description": "A deep, authoritative English RP male voice with gravitas and precision. Equally comfortable fronting luxury brands, corporate narration, or serious documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rod-Kennard.jpg"
     },
     {
       "name": "Klaudia Bitner",
-      "accent": "American · German / Polish",
+      "accent": "American \u00b7 German / Polish",
       "gender": "female",
       "age": "20s",
       "accentGroup": [
@@ -356,7 +357,7 @@
           "trackId": "2092875117"
         }
       ],
-      "description": "Youthful, fun and energetic.",
+      "description": "A youthful, energetic female voice with native fluency in Polish and German as well as English. A strong choice for multilingual campaigns with a fun, accessible feel.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Klaudia-Bitner.jpg"
     },
     {
@@ -396,7 +397,7 @@
           "trackId": "2088274320"
         }
       ],
-      "description": "Warm, charming and characterful."
+      "description": "A warm, charming American male in his 20s with a natural, conversational quality and real presence. Works well for consumer brands, corporate content, and storytelling."
     },
     {
       "name": "Kenneth Gray",
@@ -435,7 +436,8 @@
           "trackId": "2083598118"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kenneth-Gray.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kenneth-Gray.jpg",
+      "description": "A measured, authoritative East Coast Scots male in his 40s with documentary experience and clear delivery. Well suited to narration, e-learning, and corporate briefs."
     },
     {
       "name": "Jed Potts",
@@ -474,12 +476,12 @@
           "trackId": "2061730484"
         }
       ],
-      "description": "Chilled, natural and very cool.",
+      "description": "A cool, laid-back East Coast Scots male with a natural, unhurried quality that never feels effortful. Strong across commercial character work and contemporary narration.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/jed-potts.jpg"
     },
     {
-      "name": "Camille Marmié",
-      "accent": "English RP · Icelandic",
+      "name": "Camille Marmie\u0301",
+      "accent": "English RP \u00b7 Icelandic",
       "gender": "female",
       "age": null,
       "accentGroup": [
@@ -512,7 +514,7 @@
         }
       ],
       "description": "Confident, bright and assured.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Camille-Marmié.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Camille-Marmi\u00e9.jpg"
     },
     {
       "name": "Dylan Neilson",
@@ -551,7 +553,7 @@
           "trackId": "1992502523"
         }
       ],
-      "description": "Cool and confident."
+      "description": "A cool, self-assured East Coast Scots male in his 20s with a contemporary edge and clean, natural delivery. Good for Police Scotland, public sector, and modern commercial work."
     },
     {
       "name": "Lis Faulkner",
@@ -588,7 +590,7 @@
           "trackId": "1968259219"
         }
       ],
-      "description": "Confident, clear and articulate.",
+      "description": "A confident, articulate Fife female in her 40s with a clear, trustworthy tone and real experience. Well suited to corporate, commercial, and consumer health briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lis-Faulkner.jpg"
     },
     {
@@ -616,7 +618,8 @@
           "trackId": "1968248871"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Rothney.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Rothney.jpg",
+      "description": "A distinctive East Coast Scots male in his 30s with strong documentary and e-learning credentials and a measured, thoughtful delivery."
     },
     {
       "name": "Roy Entwhistle",
@@ -643,7 +646,7 @@
           "trackId": "1955038127"
         }
       ],
-      "description": "Enthusiastic, fun and full of energy."
+      "description": "An enthusiastic, fun-loving East Coast Scots male in his 20s with bags of energy and a natural talent for commercial character work."
     },
     {
       "name": "Kim Chapman",
@@ -682,7 +685,7 @@
           "trackId": "1953165411"
         }
       ],
-      "description": "Warm, caring and authoritative.",
+      "description": "A warm, caring East Coast Scots female in her 30s with real authority and a natural storytelling ability. Works well across corporate narration and documentary.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/kim-chapman.jpg"
     },
     {
@@ -722,7 +725,7 @@
           "trackId": "2047138876"
         }
       ],
-      "description": "Bright, enthusiastic and engaging.",
+      "description": "A bright, enthusiastic North East Scots female in her 50s with a broad range across commercial, corporate, gaming, and narration work. Highly experienced.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Barbara-Smale.jpg"
     },
     {
@@ -754,7 +757,7 @@
           "trackId": "1920182501"
         }
       ],
-      "description": "Confident, caring and down to earth.",
+      "description": "A confident, grounded Northern English female in her 30s with a natural warmth and an honest quality that connects well with audiences. Strong in commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Danielle-Warwick.jpg"
     },
     {
@@ -794,7 +797,7 @@
           "trackId": "1918221698"
         }
       ],
-      "description": "The voice of live TV football.",
+      "description": "A commanding English Southern male voice with a distinctive live broadcast quality honed over years in TV football commentary. Authoritative, immediate, and totally credible.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/ian-crocker.jpg"
     },
     {
@@ -822,7 +825,7 @@
           "trackId": "1914526544"
         }
       ],
-      "description": "Cool and confident.",
+      "description": "A cool, confident English Southern male in his 20s with a contemporary, relaxed quality and real screen presence. Good for modern commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Adeola-Ogayemi.jpg"
     },
     {
@@ -850,7 +853,7 @@
           "trackId": "1897666236"
         }
       ],
-      "description": "Youthful gravitas.",
+      "description": "A West Coast Scots male in his 30s with a quietly authoritative quality, youthful enough to be approachable but with enough gravity to carry serious content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ronan-Doyle.jpg"
     },
     {
@@ -886,7 +889,7 @@
           "trackId": "1866358296"
         }
       ],
-      "description": "Warm, bright and articulate.",
+      "description": "A warm, bright Southern English female in her 30s with a clear, articulate delivery and genuine intelligence. Well suited to documentary, e-learning, and consumer brands.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/dominica-warburton.jpg"
     },
     {
@@ -926,7 +929,7 @@
           "trackId": "1855623444"
         }
       ],
-      "description": "Cool, youthful with plenty of sass.",
+      "description": "A cool, witty East Coast Scots female in her 20s with a slightly edgy, confident quality and real character. Stands out on briefs that need something a bit different.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alice-Cruickshank.jpg"
     },
     {
@@ -966,7 +969,7 @@
           "trackId": "1839570015"
         }
       ],
-      "description": "Characterful, engaging and versatile.",
+      "description": "A characterful, engaging East Coast Scots male in his 40s with a deep bench of styles from Scots whisky narration to corporate and character reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fraser-Wood.jpg"
     },
     {
@@ -994,7 +997,7 @@
           "trackId": "1811941002"
         }
       ],
-      "description": "Young and lively Westcoaster.",
+      "description": "A young, lively West Coast Scots male with a fresh, unpretentious quality and real enthusiasm. Good for consumer brands looking for an authentic Scottish feel.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Neil-Hardie.jpg"
     },
     {
@@ -1034,7 +1037,8 @@
           "trackId": "1802845332"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jane-Wing.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jane-Wing.jpg",
+      "description": "A clear, warm North East English female in her 30s with real range across regional accents including Liverpool and Northern. Solid experience in commercial and documentary."
     },
     {
       "name": "Andrew Botros",
@@ -1073,7 +1077,7 @@
           "trackId": "1799249977"
         }
       ],
-      "description": "Confident, assured and a touch of gravitas..",
+      "description": "A confident, assured English RP male in his 40s with a measured gravitas that works well for corporate narration, financial services, and luxury brands.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Botros.jpg"
     },
     {
@@ -1113,7 +1117,8 @@
           "trackId": "1785692775"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Erin-Armstrong.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Erin-Armstrong.jpg",
+      "description": "A fresh, natural West Coast Scots female in her 20s with real warmth and an honest, believable quality well suited to health campaigns and consumer advertising."
     },
     {
       "name": "Sophie Dean",
@@ -1153,7 +1158,8 @@
           "trackId": "1785689367"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sophie-Dean.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sophie-Dean.jpg",
+      "description": "A clear, bright American female in her 20s with a natural, intelligent delivery and real range across documentary, e-learning, and consumer briefs."
     },
     {
       "name": "Stasi Schaeffer",
@@ -1191,7 +1197,8 @@
           "label": "SNBTS",
           "trackId": "1775659383"
         }
-      ]
+      ],
+      "description": "An engaging, characterful American female in her 30s with genuine comedic instincts and a natural warmth that works well across commercial and character work."
     },
     {
       "name": "Mollie Lockwood",
@@ -1218,7 +1225,8 @@
           "trackId": "1746766005"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mollie-Lockwood.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mollie-Lockwood.jpg",
+      "description": "A clean, polished English RP female in her 20s with a composed, intelligent delivery suited to corporate content, documentary narration, and premium brands."
     },
     {
       "name": "Serene Knight",
@@ -1249,7 +1257,7 @@
           "trackId": "1742015403"
         }
       ],
-      "description": "Youthful, bright and energetic.",
+      "description": "A bright, youthful South East English female with a clear, energetic quality and confident delivery. Well suited to e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Serene-Knight.jpg"
     },
     {
@@ -1285,7 +1293,7 @@
           "trackId": "1897098123"
         }
       ],
-      "description": "Cool, youthful and confident.",
+      "description": "A cool, confident West Coast Scots male in his 20s with a contemporary feel and strong range across commercial, gaming, and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/KIERAN-MOORE.jpg"
     },
     {
@@ -1325,7 +1333,7 @@
           "trackId": "1731903162"
         }
       ],
-      "description": "Strong, energetic and characterful.",
+      "description": "A strong, energetic American female in her 20s with real presence and excellent range across character, documentary, narration, and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Samuela-Noumtchuet.jpg"
     },
     {
@@ -1365,7 +1373,8 @@
           "trackId": "1719923208"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/abbye-eva.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/abbye-eva.jpg",
+      "description": "A lively, natural Northern English female in her 20s with an authentic warmth and solid commercial experience including Mercedes-Benz, NHS, and O2."
     },
     {
       "name": "Stuart Thomas Hall",
@@ -1392,7 +1401,7 @@
           "trackId": "1715563896"
         }
       ],
-      "description": "Quirky, rich and full of energy.",
+      "description": "A rich, quirky East Coast Scots male in his 30s with bags of energy and a distinctive quality that makes him hard to ignore on commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stuart-Thomas-Hall.jpg"
     },
     {
@@ -1421,7 +1430,8 @@
           "trackId": "1706918013"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Carol-WalkerLyon--.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Carol-WalkerLyon--.jpg",
+      "description": "An American female in her 30s with a clear, natural delivery and solid experience across commercial and e-learning work."
     },
     {
       "name": "Bridget McCann",
@@ -1448,7 +1458,7 @@
           "trackId": "1679155044"
         }
       ],
-      "description": "Assured and confident.",
+      "description": "A composed, confident East Coast Scots female in her 50s with a mature authority and clean delivery. Ideal for corporate, financial, and premium consumer brands.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Bridget-MccAnntrainer.jpg"
     },
     {
@@ -1488,7 +1498,7 @@
           "trackId": "1678311069"
         }
       ],
-      "description": "Bright, confident and characterful.",
+      "description": "A bright, confident West Coast Scots female in her 20s with a characterful edge and strong experience in healthcare, corporate, and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Katya-Searle.jpg"
     },
     {
@@ -1520,11 +1530,12 @@
           "trackId": "2022808372"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Calum%20Barbour.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Calum%20Barbour.jpg",
+      "description": "A natural, engaging West Coast Scots male in his 30s with a warm, believable quality across commercial and documentary work."
     },
     {
       "name": "Christine Kammerer",
-      "accent": "English RP · Danish",
+      "accent": "English RP \u00b7 Danish",
       "gender": "female",
       "age": "30s",
       "accentGroup": [
@@ -1549,7 +1560,8 @@
           "trackId": "1632160092"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Christine-Kammerer.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Christine-Kammerer.jpg",
+      "description": "A polished English RP female with a hint of Danish cool and a precise, authoritative delivery. Well suited to corporate, documentary, and international content."
     },
     {
       "name": "Zara Kennedy",
@@ -1588,7 +1600,7 @@
           "trackId": "1635678390"
         }
       ],
-      "description": "Bright, bubbly and full of energy.",
+      "description": "A bright, bubbly East Coast Scots female in her 20s with energy and warmth well suited to beauty, FMCG, and consumer brands.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Zara-Kennedy.jpg"
     },
     {
@@ -1628,7 +1640,8 @@
           "trackId": "1607787825"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Brown.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Brown.jpg",
+      "description": "A measured, authoritative East Coast Scots male in his 50s with real experience across commercial, cycling, health, and narration work."
     },
     {
       "name": "Harry McDowell",
@@ -1667,7 +1680,7 @@
           "trackId": "1607754645"
         }
       ],
-      "description": "Natural, warm and caring.",
+      "description": "A natural, warm West Coast Scots male in his 20s with a caring, unhurried quality. Works well for health campaigns, public sector, and consumer advertising.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Harry-McDowell.jpg"
     },
     {
@@ -1700,7 +1713,7 @@
           "trackId": "1564818028"
         }
       ],
-      "description": "Mature, sophisticated and highly flexible voice. American and English."
+      "description": "A sophisticated, mature English RP female with genuine fluency in both American and British styles. A reliable, high-calibre choice for premium brands on either side of the Atlantic."
     },
     {
       "name": "Kirsten Phelps",
@@ -1739,7 +1752,7 @@
           "trackId": "1531479052"
         }
       ],
-      "description": "Warm, intelligent and engaging.",
+      "description": "A warm, intelligent English RP female in her 20s with a clear, engaged delivery. Strong across corporate narration, documentary, and public sector work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirsten-Phelps.jpg"
     },
     {
@@ -1767,7 +1780,7 @@
           "trackId": "1511017873"
         }
       ],
-      "description": "Clear, natural and confident.",
+      "description": "A clear, natural East Coast Scots female in her 20s with a composed, assured quality well suited to consumer and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Claudia-Lang.jpg"
     },
     {
@@ -1803,7 +1816,7 @@
           "trackId": "1506992863"
         }
       ],
-      "description": "Bright, confident and characterful.",
+      "description": "A bright, confident East Coast Scots female in her 20s with a characterful delivery across commercial, documentary, and book reading work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Emma-Hindle.jpg"
     },
     {
@@ -1839,7 +1852,7 @@
           "trackId": "1489759030"
         }
       ],
-      "description": "Rich, characterful comedic genius."
+      "description": "A richly characterful East Coast Scots male in his 40s with a deep comedic intelligence and genuine warmth. One of Scotland's most respected performers."
     },
     {
       "name": "Matthew McKenna",
@@ -1866,7 +1879,7 @@
           "trackId": "1489753204"
         }
       ],
-      "description": "Caring, natural and honest."
+      "description": "A caring, honest East Coast Scots male in his 30s with a natural, unshowy delivery that carries real credibility. Ideal for health, public sector, and consumer work."
     },
     {
       "name": "Hannah Jarrett-Scott",
@@ -1897,11 +1910,11 @@
           "trackId": "1473193027"
         }
       ],
-      "description": "Upbeat, fun and characterful."
+      "description": "An upbeat, characterful West Coast Scots female in her 20s with a fun, comedic sensibility and a natural, engaging quality across commercial and character work."
     },
     {
       "name": "Fiona Nimmo",
-      "accent": "Scottish North · French",
+      "accent": "Scottish North \u00b7 French",
       "gender": "female",
       "age": "30s",
       "accentGroup": [
@@ -1924,7 +1937,7 @@
           "trackId": "1469309404"
         }
       ],
-      "description": "Warm, confident and natural.",
+      "description": "A warm, confident North Scots female in her 30s with a subtle French lilt and a natural, assured delivery suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/fiona-nimmo.jpg"
     },
     {
@@ -1960,7 +1973,8 @@
           "trackId": "1440767881"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Amy-Alexander.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Amy-Alexander.jpg",
+      "description": "A confident North Scots female in her 30s with real range across commercial, animation, and gaming work. A strong all-round voice."
     },
     {
       "name": "Gilchrist Muir",
@@ -1999,12 +2013,12 @@
           "trackId": "1431341317"
         }
       ],
-      "description": "Warm, honest and approachable.",
+      "description": "A warm, honest North West Scots male in his 30s with a natural, approachable quality and solid experience in commercial, character, and community-facing content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gilchrist-Muir.jpg"
     },
     {
       "name": "Christelle Chamberland",
-      "accent": "French · French",
+      "accent": "French \u00b7 French",
       "gender": "female",
       "age": "30s",
       "accentGroup": [
@@ -2031,7 +2045,8 @@
           "trackId": "1388829631"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Christelle-Chamberland.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Christelle-Chamberland.jpg",
+      "description": "A native French speaker with natural fluency in English, offering genuine bilingual range for European and international campaigns."
     },
     {
       "name": "Paul Warren",
@@ -2070,7 +2085,8 @@
           "trackId": "1371803029"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg",
+      "description": "A clear, characterful East Coast Scots male in his 20s with solid range across commercial, character, audiobook, and e-learning work."
     },
     {
       "name": "Vanashree Thapliyal",
@@ -2109,7 +2125,7 @@
           "trackId": "1347250537"
         }
       ],
-      "description": "Characterful, genuine and super friendly."
+      "description": "A characterful, warm Northern English female in her 30s with genuine friendliness and real experience including SpaceX, Tesco Mobile, and public sector narration."
     },
     {
       "name": "Georgia-Lee Roberts",
@@ -2149,7 +2165,7 @@
           "trackId": "1339935373"
         }
       ],
-      "description": "Amazingly versatile and full of energy.",
+      "description": "An energetic, highly capable East Coast Scots female in her 20s with broad range across commercial, corporate, cycling, and lifestyle briefs.",
       "image": "https://www.redfacilities.com/wp-content/uploads/2022/09/Georgia-Roberts.jpeg.webp"
     },
     {
@@ -2188,7 +2204,8 @@
           "label": "Narration",
           "trackId": "1313492914"
         }
-      ]
+      ],
+      "description": "A natural, confident West Coast Scots male in his 20s with a clean, contemporary delivery across commercial, consumer, and narration work."
     },
     {
       "name": "Jim Cassidy",
@@ -2215,7 +2232,8 @@
           "trackId": "1275419611"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/jim-cassidy.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/jim-cassidy.jpg",
+      "description": "An experienced East Coast Scots male in his 40s with a confident, characterful delivery and strong commercial instincts."
     },
     {
       "name": "Scott Meridrew",
@@ -2254,7 +2272,8 @@
           "trackId": "1270578013"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2022/05/scott_mridrew.jpg.webp"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2022/05/scott_mridrew.jpg.webp",
+      "description": "A polished English RP male in his 30s with a smooth, authoritative quality across corporate, documentary, and luxury brand work."
     },
     {
       "name": "Bella Thewes",
@@ -2293,7 +2312,7 @@
           "trackId": "1262166058"
         }
       ],
-      "description": "Rich, husky & mellifluous",
+      "description": "A rich, husky, mellifluous English RP female in her 30s with a seductive warmth and real range across commercial, character, and caring reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Bella-Thewes.jpg"
     },
     {
@@ -2332,7 +2351,8 @@
           "label": "Cycing Scotland",
           "trackId": "1213271929"
         }
-      ]
+      ],
+      "description": "A warm, natural West Coast Scots female in her 30s with real experience including Police Scotland, British Power, and cycling campaigns."
     },
     {
       "name": "James Dawoud",
@@ -2370,11 +2390,12 @@
           "label": "Narrative Explainer",
           "trackId": "1212703345"
         }
-      ]
+      ],
+      "description": "A clear, engaging East Coast Scots male in his 20s with solid experience in cycling, blood donation, and public sector narration."
     },
     {
       "name": "Adrienna Zitt",
-      "accent": "English Generic · French",
+      "accent": "English Generic \u00b7 French",
       "gender": "female",
       "age": "30s",
       "accentGroup": [
@@ -2401,7 +2422,7 @@
           "trackId": "1122362704"
         }
       ],
-      "description": "Bright, charming and engaging.",
+      "description": "A bright, charming English female with genuine native French fluency and a warm, engaging quality across both English and French briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Adrienna-Zitt.jpg"
     },
     {
@@ -2429,11 +2450,12 @@
           "trackId": "1113265162"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/FIona-McBride.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/FIona-McBride.jpg",
+      "description": "A fresh, natural East Coast Scots female in her 20s with a clean, composed delivery well suited to corporate and documentary work."
     },
     {
       "name": "Akari Yamamoto",
-      "accent": "Japanese · Japanese",
+      "accent": "Japanese \u00b7 Japanese",
       "gender": "female",
       "age": "20s",
       "accentGroup": [
@@ -2469,7 +2491,7 @@
           "trackId": "1112458540"
         }
       ],
-      "description": "Reassuring, kind and flexible.",
+      "description": "A reassuring, kind bilingual voice with native Japanese fluency and a natural, flexible quality across English and Japanese commercial and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/akari-yamamoto.jpg"
     },
     {
@@ -2497,7 +2519,8 @@
           "trackId": "1100449927"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg",
+      "description": "A clear, engaging South East English female in her 30s with a warm, polished delivery across commercial and corporate briefs."
     },
     {
       "name": "Sarah Gudgeon",
@@ -2528,7 +2551,8 @@
           "trackId": "1094972218"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Gudgeon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Gudgeon.jpg",
+      "description": "A natural, measured East Coast Scots female in her 30s with a thoughtful delivery well suited to documentary and reading work."
     },
     {
       "name": "Daisy Walker-Lyon",
@@ -2553,7 +2577,8 @@
           "trackId": "1094329021"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2021/07/Daisy.jpeg.webp"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2021/07/Daisy.jpeg.webp",
+      "description": "A fresh, characterful East Coast Scots female with natural instincts across commercial and character briefs."
     },
     {
       "name": "Mercedes Maloney-Drummond",
@@ -2592,7 +2617,7 @@
           "trackId": "1090699672"
         }
       ],
-      "description": "Bright, upbeat and caring.",
+      "description": "A bright, caring North Scots female in her 20s with a warm, upbeat quality across corporate, health, and comedy work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mercedes-Malone-Drummond.jpg"
     },
     {
@@ -2632,7 +2657,7 @@
           "trackId": "1074918283"
         }
       ],
-      "description": "Husky, confident and full of energy.",
+      "description": "A husky, confident West Coast Scots female in her 20s with a contemporary edge and strong range from meditation to high-energy sports briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Meg-McHugh.jpg"
     },
     {
@@ -2660,7 +2685,7 @@
           "trackId": "964777363"
         }
       ],
-      "description": "Gentle, approachable and friendly.",
+      "description": "A gentle, approachable East Coast Scots male in his 20s with a natural, friendly quality suited to consumer advertising and public-facing content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Macallan.jpg"
     },
     {
@@ -2688,7 +2713,7 @@
           "trackId": "949389175"
         }
       ],
-      "description": "Informative, down to earth and caring. Scottish storyteller.",
+      "description": "A warm, grounded Fife female in her 30s with a real storytelling instinct and an honest, down-to-earth quality perfect for health and public sector work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/fiona-herbert.jpg"
     },
     {
@@ -2728,7 +2753,7 @@
           "trackId": "947308834"
         }
       ],
-      "description": "Young, energetic and great fun.",
+      "description": "A young, energetic East Coast Scots male with real character and good range across commercial, character, upbeat, and corporate styles.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sandy-Bain.jpg"
     },
     {
@@ -2768,7 +2793,8 @@
           "trackId": "1696939662"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rory-Barraclough.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rory-Barraclough.jpg",
+      "description": "A clear, assured East Coast Scots male in his 20s with a natural quality across corporate, documentary, and public sector narration."
     },
     {
       "name": "Marissa Keltie",
@@ -2799,7 +2825,7 @@
           "trackId": "898814731"
         }
       ],
-      "description": "Caring, empathetic and warm.",
+      "description": "A caring, empathetic East Coast Scots female in her 20s with a natural warmth and a gently persuasive quality ideal for health and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Marissa-Keltie.jpg"
     },
     {
@@ -2839,7 +2865,8 @@
           "trackId": "894217975"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2020/09/JamieRichard.jpg"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2020/09/JamieRichard.jpg",
+      "description": "A polished, authoritative English RP male in his 40s with impressive credits including SSEN, Digby Brown, and Lexus. Reliable and assured."
     },
     {
       "name": "Walker Berwick",
@@ -2867,7 +2894,7 @@
           "trackId": "886847521"
         }
       ],
-      "description": "Rich, warm with plenty of gravitas.",
+      "description": "A rich, warm American male in his 40s with real gravitas and a considered, storytelling quality suited to documentary and corporate narration.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Walker-Berwick.jpg"
     },
     {
@@ -2907,7 +2934,7 @@
           "trackId": "885748423"
         }
       ],
-      "description": "Bright, friendly and fresh.",
+      "description": "A bright, friendly East Coast Scots female in her 20s with a fresh, genuine quality and solid experience including SNBTS, IKEA, and corporate reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rhiannon-Bird.jpg"
     },
     {
@@ -2947,7 +2974,8 @@
           "trackId": "882246736"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Antonia-Weir.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Antonia-Weir.jpg",
+      "description": "A warm, natural West Country female in her 20s with a clear, engaging delivery across narration, audiobook, and commercial work including Heinz."
     },
     {
       "name": "Christy Johansen",
@@ -2974,7 +3002,8 @@
           "trackId": "875709457"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2020/08/chrissy_jones.jpg.webp"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2020/08/chrissy_jones.jpg.webp",
+      "description": "A fresh, natural East Coast Scots female in her 20s with a warm, believable quality well suited to consumer and e-learning briefs."
     },
     {
       "name": "Kelly McGregor",
@@ -3013,7 +3042,7 @@
           "trackId": "871125448"
         }
       ],
-      "description": "Friendly, down to earth Eastcoaster.",
+      "description": "A friendly, grounded East Coast Scots female in her 20s with real range across dramatic, straight, and character reads.",
       "image": "https://www.redfacilities.com/wp-content/uploads/2020/08/KellyRoss.jpg.webp"
     },
     {
@@ -3041,7 +3070,8 @@
           "trackId": "871060411"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2020/08/Andrew_McIntosh.jpg.webp"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2020/08/Andrew_McIntosh.jpg.webp",
+      "description": "A natural, engaging West Coast Scots male in his 20s with a clean delivery and strong potential across documentary and e-learning work."
     },
     {
       "name": "Martin McCormick",
@@ -3068,7 +3098,7 @@
           "trackId": "808810648"
         }
       ],
-      "description": "Straight talking and assured westcoaster.",
+      "description": "A straight-talking, assured West Coast Scots male in his 30s with a direct, no-nonsense quality that works well for corporate and consumer briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Martin-McCormick.jpg"
     },
     {
@@ -3096,7 +3126,7 @@
           "trackId": "770150197"
         }
       ],
-      "description": "Master of Scottish gravitas.",
+      "description": "A deeply authoritative West Coast Scots male in his 40s with commanding gravitas and a masterful command of tone across corporate and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jim-Symon.jpg"
     },
     {
@@ -3136,7 +3166,7 @@
           "trackId": "767417848"
         }
       ],
-      "description": "Friendly, reliable and refreshing.",
+      "description": "A friendly, reliable Fife male in his 30s with a refreshingly natural delivery and solid experience including Clydesdale Bank, Land Rover, and Glenfarclas Whisky.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/craig-mcginlay.jpg"
     },
     {
@@ -3176,7 +3206,7 @@
           "trackId": "766313437"
         }
       ],
-      "description": "Talented, versatile and engaging."
+      "description": "A talented, engaging Southern English female in her 40s with real breadth including book readings, Mid-Atlantic, and narration as well as commercial work."
     },
     {
       "name": "Eleanor Good",
@@ -3203,7 +3233,7 @@
           "trackId": "763130659"
         }
       ],
-      "description": "Bright, bubbly and confident.",
+      "description": "A bright, bubbly East Coast Scots female in her 20s with a confident, likeable quality well suited to commercial and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/eleanor-good.jpg"
     },
     {
@@ -3243,7 +3273,7 @@
           "trackId": "752670160"
         }
       ],
-      "description": "Clear, concise and knowledgeable.",
+      "description": "A clear, knowledgeable South East English female in her 30s with a polished, concise delivery across commercial, corporate, character, and retail briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Tuohy.jpg"
     },
     {
@@ -3271,7 +3301,7 @@
           "trackId": "729099913"
         }
       ],
-      "description": "Factual and direct. Great for documentaries.",
+      "description": "A direct, factual East Coast Scots female in her 20s with a clear, composed delivery particularly well suited to documentary and corporate narration.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Zoe-Diamond.jpg"
     },
     {
@@ -3299,7 +3329,7 @@
           "trackId": "729099727"
         }
       ],
-      "description": "Lovely gentle reads. Based in Fife."
+      "description": "A gentle, warm Northern Irish female in her 40s with a lovely, measured lilt and a natural quality ideal for e-learning and health campaigns."
     },
     {
       "name": "William Ruane",
@@ -3326,7 +3356,7 @@
           "trackId": "729099463"
         }
       ],
-      "description": "Sparky young West coaster."
+      "description": "A young, sparky West Coast Scots male with energy and confidence and a natural, contemporary delivery well suited to commercial and corporate work."
     },
     {
       "name": "William Mounsey",
@@ -3353,7 +3383,7 @@
           "trackId": "729099229"
         }
       ],
-      "description": "Wonderfully assured mature voice.",
+      "description": "A wonderfully assured, mature East Coast Scots male in his 40s with a rich, settled quality and real experience across documentary and e-learning.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/William-Mounsey.jpg"
     },
     {
@@ -3380,7 +3410,8 @@
           "label": "Commercial Reel",
           "trackId": "729098608"
         }
-      ]
+      ],
+      "description": "A fresh, natural West Coast Scots female in her 20s with an honest, relatable quality well suited to commercial and character work."
     },
     {
       "name": "Wendy Lap",
@@ -3407,7 +3438,7 @@
           "trackId": "729098074"
         }
       ],
-      "description": "Clear, natural and engaging."
+      "description": "A clear, natural East Coast Scots female in her 30s with a warm, engaging delivery suited to corporate and documentary briefs."
     },
     {
       "name": "Wendy Barrett",
@@ -3433,7 +3464,8 @@
           "label": "Commercial Reel",
           "trackId": "729097531"
         }
-      ]
+      ],
+      "description": "An experienced East Coast Scots female in her 40s with a dependable, natural quality across e-learning and commercial work."
     },
     {
       "name": "Vin Arthey",
@@ -3460,7 +3492,8 @@
           "trackId": "729096838"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Vin-Arthey.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Vin-Arthey.jpg",
+      "description": "A measured, composed English male in his 50s with a warm authority and a clean, dependable delivery across commercial and corporate briefs."
     },
     {
       "name": "Victoria Balnaves",
@@ -3487,7 +3520,7 @@
           "trackId": "728636839"
         }
       ],
-      "description": "Bright and energetic. A great character voice.",
+      "description": "A bright, energetic Fife female in her 30s with a distinctive character voice and genuine warmth across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Victoria-Balnaves.jpg"
     },
     {
@@ -3515,7 +3548,8 @@
           "trackId": "728636242"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Victoria-Liddele.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Victoria-Liddele.jpg",
+      "description": "A natural, engaging East Coast Scots female in her 30s with real character and a warm, believable quality across commercial briefs."
     },
     {
       "name": "Vic Galloway",
@@ -3542,7 +3576,8 @@
           "trackId": "728635417"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Vic-Galloway.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Vic-Galloway.jpg",
+      "description": "A cool, confident East Coast Scots male in his 30s with a distinctive broadcaster quality and real personality across corporate and documentary content."
     },
     {
       "name": "Tyler Collins",
@@ -3573,7 +3608,7 @@
           "trackId": "728634397"
         }
       ],
-      "description": "Rich, deep and warm.",
+      "description": "A rich, deep, warm American male in his 30s with a natural, authoritative quality and real range including accents across commercial and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tyler-Collins.jpg"
     },
     {
@@ -3601,7 +3636,8 @@
           "label": "Commercial Reel",
           "trackId": "728633815"
         }
-      ]
+      ],
+      "description": "A polished, natural English RP female in her 30s with a warm, assured delivery well suited to commercial and corporate briefs."
     },
     {
       "name": "Tonya Macari",
@@ -3628,7 +3664,7 @@
           "trackId": "728633329"
         }
       ],
-      "description": "Nice storytelling style. Great for factual too."
+      "description": "An engaging East Coast Scots female storyteller in her 30s with a natural, intelligent quality that works well for factual documentary and e-learning."
     },
     {
       "name": "Tony McQue",
@@ -3655,12 +3691,12 @@
           "trackId": "728632723"
         }
       ],
-      "description": "Fun, energetic and friendly.",
+      "description": "A fun, energetic East Coast Scots male in his 30s with a bright, friendly delivery and real commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tony-McQue.jpg"
     },
     {
       "name": "Tony Kearney",
-      "accent": "Scottish East Coast · Gaelic",
+      "accent": "Scottish East Coast \u00b7 Gaelic",
       "gender": "male",
       "age": "30s",
       "accentGroup": [
@@ -3687,7 +3723,7 @@
           "trackId": "728632114"
         }
       ],
-      "description": "Speaks fluent Spanish and Gaelic."
+      "description": "A confident East Coast Scots male in his 30s with fluent Spanish and Gaelic alongside English, offering genuine multilingual capability for international and Scottish-language briefs."
     },
     {
       "name": "Tony Cownie",
@@ -3714,7 +3750,7 @@
           "trackId": "728631307"
         }
       ],
-      "description": "Sharp, light and slightly gravelly."
+      "description": "A sharp, slightly gravelly East Coast Scots male in his 30s with a light, confident touch and a natural, contemporary feel."
     },
     {
       "name": "Toni Frutin",
@@ -3741,7 +3777,7 @@
           "trackId": "728630851"
         }
       ],
-      "description": "Clear, warm and thoroughly lovely.",
+      "description": "A clear, warm East Coast Scots female in her 30s with a natural, thoroughly likeable delivery suited to commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Toni-Frutin.jpg"
     },
     {
@@ -3770,7 +3806,7 @@
           "trackId": "728630212"
         }
       ],
-      "description": "Slightly husky, warm and softly spoken.",
+      "description": "A softly spoken, slightly husky East Coast Scots male in his 40s with a warm, measured quality well suited to health, documentary, and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Todd-Gordon.jpg"
     },
     {
@@ -3796,7 +3832,7 @@
           "trackId": "728629732"
         }
       ],
-      "description": "Refined, confident and assured.",
+      "description": "A refined, confident English RP male in his 20s with a composed, assured delivery and strong instincts across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Toby-Jeffries.jpg"
     },
     {
@@ -3825,7 +3861,7 @@
           "trackId": "728629219"
         }
       ],
-      "description": "Familiar and thoroughly dependable.",
+      "description": "A familiar, dependable English RP male in his 40s with a warm, trustworthy quality and an unhurried delivery that works well across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tim-Maguire.jpg"
     },
     {
@@ -3853,7 +3889,7 @@
           "trackId": "728628757"
         }
       ],
-      "description": "Naturally gentle with a lovely lilt."
+      "description": "A naturally gentle East Coast Scots female in her 30s with a lovely lilting quality and a soft, warm delivery ideal for health and consumer campaigns."
     },
     {
       "name": "Tania Dron",
@@ -3880,7 +3916,7 @@
           "trackId": "728628274"
         }
       ],
-      "description": "Husky and streetwise Fifer."
+      "description": "A husky, streetwise Fife female in her 20s with a contemporary edge and an honest, grounded quality that stands out in commercial work."
     },
     {
       "name": "Tamara Kennedy",
@@ -3911,7 +3947,8 @@
           "trackId": "728627101"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tamara-Kennedy.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tamara-Kennedy.jpg",
+      "description": "A clear, confident East Coast Scots female in her 40s with a warm authority across documentary and e-learning briefs."
     },
     {
       "name": "Sylvia Cockburn",
@@ -3938,7 +3975,8 @@
           "label": "Commercial Reel",
           "trackId": "728626357"
         }
-      ]
+      ],
+      "description": "A polished, articulate English RP female in her 40s with a measured, composed delivery well suited to commercial and character work."
     },
     {
       "name": "Susie Maguire",
@@ -3964,7 +4002,8 @@
           "label": "Commercial Reel",
           "trackId": "728625763"
         }
-      ]
+      ],
+      "description": "An experienced East Coast Scots female in her 40s with strong corporate and documentary instincts and a warm, thoughtful delivery."
     },
     {
       "name": "Susan Coyle",
@@ -3990,7 +4029,8 @@
           "label": "Commercial Reel",
           "trackId": "728625223"
         }
-      ]
+      ],
+      "description": "A warm, natural East Coast Scots female in her 30s with a clear, confident quality across e-learning and commercial briefs."
     },
     {
       "name": "Sue Hardgrave",
@@ -4016,7 +4056,8 @@
           "label": "Commercial Reel",
           "trackId": "728624344"
         }
-      ]
+      ],
+      "description": "A bright, natural Australian female in her 30s with a warm, contemporary quality well suited to commercial and corporate work."
     },
     {
       "name": "Stuart Hepburn",
@@ -4043,7 +4084,8 @@
           "trackId": "728623147"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stuart-Hepburn.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stuart-Hepburn.jpg",
+      "description": "A grounded Fife male in his 30s with a thoughtful, measured quality well suited to documentary and e-learning content."
     },
     {
       "name": "Stewart Porter",
@@ -4070,7 +4112,7 @@
           "trackId": "728622337"
         }
       ],
-      "description": "Smoky and thoroughly entertaining."
+      "description": "A smoky, entertaining West Coast Scots male in his 40s with real character and a laid-back quality that makes him stand out in commercial and character work."
     },
     {
       "name": "Stewart Cairns",
@@ -4097,7 +4139,7 @@
           "trackId": "728621956"
         }
       ],
-      "description": "Gentle, warm and highly articulate."
+      "description": "A gentle, warm, highly articulate East Coast Scots male in his 30s with a natural intelligence and a measured quality suited to corporate and documentary work."
     },
     {
       "name": "Stewart Blythe",
@@ -4123,7 +4165,8 @@
           "label": "Commercial Reel",
           "trackId": "728621104"
         }
-      ]
+      ],
+      "description": "A warm, natural West Coast Scots male in his 30s with an honest, grounded quality well suited to commercial and e-learning briefs."
     },
     {
       "name": "Stevie Allen",
@@ -4150,7 +4193,7 @@
           "trackId": "728619976"
         }
       ],
-      "description": "Bright and enthusiastic."
+      "description": "A bright, enthusiastic East Coast Scots male in his 30s with a fresh, energetic quality and natural commercial instincts."
     },
     {
       "name": "Steven Wren",
@@ -4177,7 +4220,7 @@
           "trackId": "728619538"
         }
       ],
-      "description": "Great character and straight reads. A safe pair of hands.",
+      "description": "A safe, experienced East Coast Scots male in his 40s with real range across character and straight reads and a dependable, trustworthy quality.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Steven-Wren.jpg"
     },
     {
@@ -4201,7 +4244,7 @@
           "trackId": "728618506"
         }
       ],
-      "description": "Cheery, warm and friendly."
+      "description": "A cheery, warm Scots male in his 30s with a friendly, unpretentious delivery and strong commercial instincts."
     },
     {
       "name": "Stephen Cairns",
@@ -4227,7 +4270,8 @@
           "label": "Commercial Reel",
           "trackId": "728617351"
         }
-      ]
+      ],
+      "description": "A confident West Coast Scots male in his 40s with a measured, authoritative quality well suited to corporate and documentary content."
     },
     {
       "name": "Stephanie Turner",
@@ -4254,7 +4298,7 @@
           "trackId": "728616931"
         }
       ],
-      "description": "Great national voice."
+      "description": "A warm, clear Australian female in her 30s with a clean, national-quality voice and solid commercial instincts."
     },
     {
       "name": "Steph Bower",
@@ -4285,7 +4329,7 @@
           "trackId": "728615683"
         }
       ],
-      "description": "Husky, smooth and reassuring.",
+      "description": "A husky, smooth Fife female in her 30s with a reassuring, warm delivery particularly well suited to corporate and consumer briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Steph-Bower.jpg"
     },
     {
@@ -4312,7 +4356,8 @@
           "label": "Commercial Reel",
           "trackId": "728615176"
         }
-      ]
+      ],
+      "description": "A distinctive West Coast Scots male in his 40s with a characterful, grounded quality across documentary and e-learning work."
     },
     {
       "name": "Sophia Mclean",
@@ -4338,7 +4383,8 @@
           "label": "Commercial Reel",
           "trackId": "1121054881"
         }
-      ]
+      ],
+      "description": "A fresh, natural North East Scots female in her 20s with a warm, characterful quality across commercial and character briefs."
     },
     {
       "name": "Siobahn Wyman",
@@ -4365,11 +4411,11 @@
           "trackId": "728613547"
         }
       ],
-      "description": "Delightfully natural and slightly husky."
+      "description": "A delightfully natural, slightly husky East Coast Scots female in her 40s with a warm, engaging quality across corporate and documentary work."
     },
     {
       "name": "Silvia Garcia Martinez",
-      "accent": "Scottish · Spanish",
+      "accent": "Scottish \u00b7 Spanish",
       "gender": "female",
       "age": "30s",
       "accentGroup": [],
@@ -4390,7 +4436,7 @@
           "trackId": "728612806"
         }
       ],
-      "description": "Nicely understated Spanish voice."
+      "description": "A nicely understated Spanish-accented female in her 30s with natural fluency in both Spanish and Scottish English, ideal for bilingual and European campaigns."
     },
     {
       "name": "Shirley Rennie",
@@ -4416,7 +4462,8 @@
           "label": "Commercial Reel",
           "trackId": "728612320"
         }
-      ]
+      ],
+      "description": "A warm, natural East Coast Scots female in her 30s with a clear, confident delivery well suited to commercial and corporate work."
     },
     {
       "name": "Sean Hay",
@@ -4443,7 +4490,7 @@
           "trackId": "728610904"
         }
       ],
-      "description": "Deep, honest voice. A slice of pure Edinburgh.",
+      "description": "A deep, honest East Coast Scots male in his 30s with a raw, authentic Edinburgh quality particularly suited to documentary and e-learning narration.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sean-Hay.jpg"
     },
     {
@@ -4471,7 +4518,7 @@
           "trackId": "728608837"
         }
       ],
-      "description": "Articulate and versatile west coaster.",
+      "description": "An articulate West Coast Scots male in his 20s with a clean, confident delivery and real range across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sean-Connor.jpg"
     },
     {
@@ -4499,7 +4546,7 @@
           "trackId": "728608120"
         }
       ],
-      "description": "Confident all rounder.",
+      "description": "A confident, reliable East Coast Scots male in his 40s with a assured all-round quality across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Scott-Noble.jpg"
     },
     {
@@ -4527,7 +4574,7 @@
           "trackId": "728605342"
         }
       ],
-      "description": "Young, precise and full of energy.",
+      "description": "A young, precise East Coast Scots female with real energy and a clear, focused delivery well suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Savana-Kenny.jpg"
     },
     {
@@ -4555,7 +4602,8 @@
           "trackId": "728604286"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Mccardie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Mccardie.jpg",
+      "description": "A warm, natural West Coast Scots female in her 30s with an honest, engaging quality across commercial and corporate work."
     },
     {
       "name": "Sarah Lawrie Johnston",
@@ -4582,7 +4630,8 @@
           "trackId": "728603389"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Lawrie-Johnston.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Lawrie-Johnston.jpg",
+      "description": "A clear, thoughtful Fife female in her 30s with a natural, measured quality well suited to documentary and e-learning."
     },
     {
       "name": "Sarah Barron",
@@ -4609,7 +4658,8 @@
           "trackId": "866610514"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Barron.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Barron.jpg",
+      "description": "An engaging, natural East Coast Scots female in her 30s with warm instincts across commercial and character work."
     },
     {
       "name": "Sandy Grierson",
@@ -4636,7 +4686,7 @@
           "trackId": "728602471"
         }
       ],
-      "description": "Chilled out and supremely characterful."
+      "description": "A chilled, supremely characterful East Coast Scots male in his 20s with a distinctive, laid-back quality and strong corporate and documentary instincts."
     },
     {
       "name": "Sandro Satirchos",
@@ -4663,7 +4713,7 @@
           "trackId": "728588524"
         }
       ],
-      "description": "Light, bouncy upbeat reader. Nice range of accents too.",
+      "description": "A light, bouncy East Coast Scots male with an upbeat, expressive delivery and a solid range of accents for e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sandro-Sotirchos.jpg"
     },
     {
@@ -4692,7 +4742,7 @@
           "trackId": "728572699"
         }
       ],
-      "description": "Warm, upbeat and believable. Sam also plays the tuba. Very well.",
+      "description": "A warm, upbeat English RP male in his 30s with a believable, engaging quality and solid commercial instincts. He also plays the tuba. Very well.",
       "image": "https://www.redfacilities.com/wp-content/uploads/2019/12/Sam_Lydon.jpg.webp"
     },
     {
@@ -4711,7 +4761,8 @@
         "E-Learning"
       ],
       "demos": [],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg",
+      "description": "A young Scots male with a fresh, natural quality and real potential across documentary and e-learning briefs."
     },
     {
       "name": "Ruth Connell",
@@ -4738,7 +4789,7 @@
           "trackId": "728571703"
         }
       ],
-      "description": "Bright, natural reads. Great for documentaries."
+      "description": "A bright, natural East Coast Scots female in her 20s with an honest, engaging delivery across commercial and documentary work."
     },
     {
       "name": "Rupert Smith",
@@ -4765,7 +4816,7 @@
           "trackId": "728571310"
         }
       ],
-      "description": "Friendly with a touch of Bill Nighy.",
+      "description": "A friendly, characterful English Southern male in his 30s with a warm, slightly eccentric quality and real presence in corporate and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rupert-Smith.jpg"
     },
     {
@@ -4793,7 +4844,8 @@
           "trackId": "728569324"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ross-Donnachie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ross-Donnachie.jpg",
+      "description": "A clear, natural East Coast Scots male in his 20s with a confident, contemporary delivery suited to e-learning and commercial briefs."
     },
     {
       "name": "Ronnie Leek",
@@ -4820,7 +4872,7 @@
           "trackId": "728567863"
         }
       ],
-      "description": "Strong, earthy Scouser."
+      "description": "A strong, earthy Scouse male in his 30s with a direct, authentic Northern quality and real commercial presence."
     },
     {
       "name": "Ronce Horton",
@@ -4846,11 +4898,12 @@
           "label": "Commercial Reel",
           "trackId": "728566414"
         }
-      ]
+      ],
+      "description": "A fresh, warm Australian female in her 20s with a natural, clear delivery well suited to documentary and e-learning work."
     },
     {
       "name": "Ron Donachie",
-      "accent": "English Northern · German",
+      "accent": "English Northern \u00b7 German",
       "gender": "male",
       "age": "40s",
       "accentGroup": [
@@ -4878,7 +4931,7 @@
           "trackId": "728540173"
         }
       ],
-      "description": "Rich, friendly and comforting. A phenomenal all-rounder.",
+      "description": "A rich, warm Northern male in his 40s with native German fluency and a phenomenal range across commercial, character, and bilingual briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ron-Donachie.jpg"
     },
     {
@@ -4906,7 +4959,7 @@
           "trackId": "728539819"
         }
       ],
-      "description": "Clear, calm and informative.",
+      "description": "A clear, calm, informative East Coast Scots male in his 30s with a natural authority and measured delivery across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robin-Laing.jpg"
     },
     {
@@ -4934,7 +4987,7 @@
           "trackId": "728539507"
         }
       ],
-      "description": "Smooth and charming.",
+      "description": "A smooth, charming North East Scots male in his 40s with a polished delivery and natural warmth well suited to commercial and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robin-Galloway.jpg"
     },
     {
@@ -4962,7 +5015,7 @@
           "trackId": "727270483"
         }
       ],
-      "description": "Wonderful descriptive voice. Native Shetlander.",
+      "description": "A wonderfully descriptive Shetland Scots male in his 40s with a native Shetland quality that adds genuine regional character and distinction.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robert-Williamson.jpg"
     },
     {
@@ -4990,7 +5043,7 @@
           "trackId": "727269883"
         }
       ],
-      "description": "Strong and dynamic East coaster.",
+      "description": "A strong, dynamic East Coast Scots male in his 30s with real energy and a confident, authoritative delivery across documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robert-Moyes.jpg"
     },
     {
@@ -5018,7 +5071,8 @@
           "trackId": "727269070"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robbie-Mack.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Robbie-Mack.jpg",
+      "description": "A confident, experienced East Coast Scots male in his 40s with a dependable, warm quality across commercial and character work."
     },
     {
       "name": "Rob Flett",
@@ -5045,7 +5099,8 @@
           "trackId": "727268149"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rob-Flett.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rob-Flett.jpg",
+      "description": "A natural, fresh East Coast Scots male in his 20s with a clear, engaging quality suited to corporate and documentary briefs."
     },
     {
       "name": "RJ Bayley",
@@ -5072,7 +5127,8 @@
           "trackId": "727267798"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/rj-bayley.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/rj-bayley.jpg",
+      "description": "A young, confident Northern English male with a contemporary feel and a natural delivery well suited to e-learning and commercial briefs."
     },
     {
       "name": "Richard Gordon",
@@ -5099,7 +5155,8 @@
           "trackId": "727266352"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Richard-Gordon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Richard-Gordon.jpg",
+      "description": "A measured, authoritative North Scots male in his 40s with a grounded, credible quality across commercial and corporate content."
     },
     {
       "name": "Richard De Prey",
@@ -5126,7 +5183,7 @@
           "trackId": "727265983"
         }
       ],
-      "description": "Informative, precise and clear. Great international voice."
+      "description": "An informative, precise English RP male in his 30s with a clear, internationally neutral delivery particularly suited to e-learning and global corporate content."
     },
     {
       "name": "Richard Addison",
@@ -5153,7 +5210,8 @@
           "trackId": "727265539"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Richard-Addison.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Richard-Addison.jpg",
+      "description": "A confident, characterful English RP male in his 40s with a warm, dependable quality across commercial and character work."
     },
     {
       "name": "Rennie Griffiths",
@@ -5180,7 +5238,8 @@
           "trackId": "727265047"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rennie-Grfiths.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rennie-Grfiths.jpg",
+      "description": "A warm, experienced East Coast Scots male in his 40s with a measured, trustworthy delivery across corporate and documentary work."
     },
     {
       "name": "Rebecca Bell",
@@ -5207,7 +5266,7 @@
           "trackId": "727264807"
         }
       ],
-      "description": "Factual, cool & articulate.",
+      "description": "A factual, cool, articulate English RP female in her 30s with a precise, composed quality well suited to e-learning and commercial content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rebecca-Bell.jpg"
     },
     {
@@ -5244,7 +5303,7 @@
           "trackId": "2243777852"
         }
       ],
-      "description": "Bright, upbeat and very colourful.",
+      "description": "A bright, upbeat Northern English female in her 30s with real colour and energy, plus impressive range across Scottish and English accents and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Reanne-Farley.jpg"
     },
     {
@@ -5272,11 +5331,11 @@
           "trackId": "727262596"
         }
       ],
-      "description": "Clear, soft with just the right amount of sensuality."
+      "description": "A clear, warm English Southern female in her 30s with a softly sensuous quality and a natural ease suited to documentary and e-learning narration."
     },
     {
       "name": "Pierre Maubouche",
-      "accent": "Scottish · French",
+      "accent": "Scottish \u00b7 French",
       "gender": "male",
       "age": "50s",
       "accentGroup": [],
@@ -5300,7 +5359,8 @@
           "label": "English Reel",
           "trackId": "727261954"
         }
-      ]
+      ],
+      "description": "A distinctive Scots-French male in his 50s with native French fluency and a warm, characterful bilingual delivery across commercial and character work."
     },
     {
       "name": "Phil Mckee",
@@ -5326,7 +5386,8 @@
           "label": "Commercial Reel",
           "trackId": "727261231"
         }
-      ]
+      ],
+      "description": "A natural, confident Fife male in his 30s with a dependable, grounded quality across corporate and documentary briefs."
     },
     {
       "name": "Peter Benassi",
@@ -5353,7 +5414,7 @@
           "trackId": "727260442"
         }
       ],
-      "description": "Reassuring, warm West coaster."
+      "description": "A reassuring, warm North West Scots male in his 30s with a natural, friendly delivery and real community presence across commercial and corporate work."
     },
     {
       "name": "Pauline Lockhart",
@@ -5380,7 +5441,7 @@
           "trackId": "727259560"
         }
       ],
-      "description": "Wonderfully bright and sunny voice.",
+      "description": "A wonderfully bright, sunny East Coast Scots female in her 20s with a warm, uplifting quality and natural commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Pauline-Lockhart.jpg"
     },
     {
@@ -5408,7 +5469,7 @@
           "trackId": "727259242"
         }
       ],
-      "description": "Instantly recognisable, charming and warm.",
+      "description": "An instantly recognisable, charming East Coast Scots male in his 50s with decades of broadcast experience and a warm, authoritative presence.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Young.jpg"
     },
     {
@@ -5436,7 +5497,8 @@
           "trackId": "727258279"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Pirie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Pirie.jpg",
+      "description": "A warm, natural East Coast Scots male in his 30s with a confident, characterful delivery across commercial and character work."
     },
     {
       "name": "Paul Nivison",
@@ -5463,7 +5525,8 @@
           "trackId": "727257181"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Nivison.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Nivison.jpg",
+      "description": "An experienced East Coast Scots male in his 40s with a strong, assured quality across corporate and documentary content."
     },
     {
       "name": "Paul Morrow",
@@ -5490,7 +5553,7 @@
           "trackId": "727256596"
         }
       ],
-      "description": "Clear, characterful and warm.",
+      "description": "A clear, characterful East Coast Scots male in his 30s with a warm, natural delivery and solid e-learning and commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Morrow.jpg"
     },
     {
@@ -5518,7 +5581,8 @@
           "trackId": "727255579"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Mellon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Mellon.jpg",
+      "description": "A warm, natural West Coast Scots male in his 30s with a grounded, honest quality and real commercial potential."
     },
     {
       "name": "Paul English",
@@ -5545,7 +5609,7 @@
           "trackId": "727254415"
         }
       ],
-      "description": "Straight talking and to the point.",
+      "description": "A straight-talking West Coast Scots male in his 30s with a direct, no-nonsense delivery that works well for documentary and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-English.jpg"
     },
     {
@@ -5573,7 +5637,8 @@
           "trackId": "727252129"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-AJ-Hamilton.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-AJ-Hamilton.jpg",
+      "description": "A clear, warm English male in his 30s with a natural, conversational quality and real range across commercial and character work."
     },
     {
       "name": "Patricia McCormack",
@@ -5600,7 +5665,7 @@
           "trackId": "727251709"
         }
       ],
-      "description": "Bright, energetic and confident. She’s awfully good.",
+      "description": "A bright, energetic East Coast Scots female in her 30s with genuine confidence and warmth. Awfully good.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Patricia-McCormack.jpg"
     },
     {
@@ -5628,7 +5693,7 @@
           "trackId": "727250752"
         }
       ],
-      "description": "Sunny and bright west-coaster."
+      "description": "A sunny, bright West Coast Scots female in her 30s with a natural, warm quality and easy commercial appeal."
     },
     {
       "name": "Norma Henderson",
@@ -5655,7 +5720,8 @@
           "label": "Commercial Reel",
           "trackId": "727248619"
         }
-      ]
+      ],
+      "description": "A mature, polished English RP female in her 50s with a composed, authoritative quality well suited to corporate and premium consumer work."
     },
     {
       "name": "Noreen Leighton",
@@ -5682,7 +5748,7 @@
           "trackId": "727248307"
         }
       ],
-      "description": "Smooth, husky and terribly appealing",
+      "description": "A smooth, husky East Coast Scots female in her 40s with a warm, naturally appealing quality across documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Noreen-Leighton.jpg"
     },
     {
@@ -5710,7 +5776,7 @@
           "trackId": "727247674"
         }
       ],
-      "description": "Youthful, streetwise East coaster."
+      "description": "A youthful, streetwise East Coast Scots female in her 20s with a fresh, authentic quality and natural commercial instincts."
     },
     {
       "name": "Nicola Jo Cully",
@@ -5749,7 +5815,7 @@
           "trackId": "1019792770"
         }
       ],
-      "description": "From teens to twentysomething, she’s great.",
+      "description": "A versatile East Coast Scots female in her 20s with a strong natural range and solid experience from corporate narration to SNBTS health campaigns.",
       "image": "https://www.redfacilities.com/wp-content/uploads/2019/12/nicola1_1.jpg.webp"
     },
     {
@@ -5778,7 +5844,7 @@
           "trackId": "727246456"
         }
       ],
-      "description": "Confident & believable newcomer.",
+      "description": "A confident, believable East Coast Scots female newcomer in her 20s with a natural, engaging quality across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Nicola-Ferguson.jpg"
     },
     {
@@ -5806,7 +5872,7 @@
           "trackId": "727245463"
         }
       ],
-      "description": "Friendly and enlightening.",
+      "description": "A friendly, warm East Coast Scots female in her 30s with a clear, enlightening delivery well suited to consumer and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Nicky-Marr.jpg"
     },
     {
@@ -5834,7 +5900,7 @@
           "trackId": "727244608"
         }
       ],
-      "description": "Amazingly deep and gravely. Like a edgier Louis Mellis.",
+      "description": "A deeply gravelly, edgy East Coast Scots male in his 40s with an unusually rich low register and real personality across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Nick-Hornig.jpg"
     },
     {
@@ -5866,7 +5932,8 @@
           "trackId": "727243933"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/NIck-Forrest.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/NIck-Forrest.jpg",
+      "description": "A confident, natural East Coast Scots male in his 30s with a warm, engaging quality across commercial and narration work."
     },
     {
       "name": "Nick Cheales",
@@ -5893,7 +5960,8 @@
           "trackId": "727243399"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Nick-Cheales.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Nick-Cheales.jpg",
+      "description": "A warm, natural English Southern male in his 30s with a polished, assured delivery well suited to corporate and documentary content."
     },
     {
       "name": "Niall Fulton",
@@ -5920,7 +5988,7 @@
           "trackId": "727242046"
         }
       ],
-      "description": "Superbly gritty Edinburgh voice.",
+      "description": "A superbly gritty, authentic Edinburgh male in his 40s with a raw, characterful quality that immediately locates a sense of place.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Niall-Fulton.jpg"
     },
     {
@@ -5949,7 +6017,7 @@
           "trackId": "727241431"
         }
       ],
-      "description": "Bright, cheerful and enthusiastic.",
+      "description": "A bright, cheerful East Coast Scots male in his 30s with a natural enthusiasm and engaging delivery across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Neil-Thomas.jpg"
     },
     {
@@ -5981,7 +6049,7 @@
           "trackId": "727240729"
         }
       ],
-      "description": "Bold and passionate westcoster.",
+      "description": "A bold, passionate West Coast Scots male in his 30s with real conviction and a natural, characterful quality across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Neil-Macgillivray.jpg"
     },
     {
@@ -6008,7 +6076,8 @@
           "label": "Commercial Reel",
           "trackId": "727240225"
         }
-      ]
+      ],
+      "description": "A warm, natural North Scots male in his 30s with a clean, confident delivery across commercial and character briefs."
     },
     {
       "name": "Natalie Toyne",
@@ -6036,7 +6105,7 @@
           "trackId": "727239688"
         }
       ],
-      "description": "From bright and breezy to atmospheric.",
+      "description": "A South African female in her 30s with impressive range from breezy and bright to atmospheric and measured. Ideal for briefs that need something different.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Natalie-Toyne.jpg"
     },
     {
@@ -6064,7 +6133,7 @@
           "trackId": "727239268"
         }
       ],
-      "description": "Articulate and wonderfully warm. Great voiceover."
+      "description": "An articulate, wonderfully warm Northern English female in her 30s with a natural, engaging quality and a genuine talent for commercial delivery."
     },
     {
       "name": "Naomi Cornwall",
@@ -6091,7 +6160,7 @@
           "trackId": "727237105"
         }
       ],
-      "description": "Totally natural and enthusiastic."
+      "description": "A totally natural, enthusiastic East Coast Scots female in her 30s with real warmth and an honest, likeable quality across commercial and corporate work."
     },
     {
       "name": "Monica Gibb",
@@ -6118,7 +6187,8 @@
           "trackId": "727236217"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Monica-Gibb.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Monica-Gibb.jpg",
+      "description": "A warm, experienced East Coast Scots female in her 40s with a natural, composed quality across documentary and e-learning content."
     },
     {
       "name": "Molly Innes",
@@ -6149,7 +6219,7 @@
           "trackId": "727235782"
         }
       ],
-      "description": "Confident, sympathetic yet straight-talking.",
+      "description": "A confident, sympathetic East Coast Scots female in her 30s with a warm but straight-talking delivery and real range across commercial and narration work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Molly-Innes.jpg"
     },
     {
@@ -6177,7 +6247,8 @@
           "trackId": "727234363"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Michele-Gallagher.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Michele-Gallagher.jpg",
+      "description": "A bright, natural West Coast Scots female in her 20s with a warm, engaging quality across corporate and documentary briefs."
     },
     {
       "name": "Michael Sherin",
@@ -6204,7 +6275,7 @@
           "trackId": "727232644"
         }
       ],
-      "description": "Perky, quirky and super friendly.",
+      "description": "A perky, quirky Southern Irish male in his 30s with a super-friendly, charming quality that works brilliantly in e-learning and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Michael-Sherin.jpg"
     },
     {
@@ -6233,7 +6304,7 @@
           "trackId": "727232311"
         }
       ],
-      "description": "Warm, refined and deliciously rich.",
+      "description": "A warm, refined English RP male in his 50s with a rich, deeply appealing quality and a composure that suits luxury brands, corporate narration, and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/michael-mackenzie.jpg"
     },
     {
@@ -6261,7 +6332,7 @@
           "trackId": "727231453"
         }
       ],
-      "description": "Mhairi delivers deliciously understated reads. She’s originally from Perth.",
+      "description": "An East Coast Scots female in her 40s who delivers deliciously understated reads with real intelligence and a natural, confident authority. Originally from Perth.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mhairi-Jarvis.jpg"
     },
     {
@@ -6289,7 +6360,7 @@
           "trackId": "727231063"
         }
       ],
-      "description": "Wonderful character and straight reads.",
+      "description": "A wonderful North Scots male in his 40s with real character, genuine humanity, and a warm, natural quality across commercial and storytelling work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Matthew-Zajac.jpg"
     },
     {
@@ -6318,7 +6389,7 @@
           "trackId": "727230553"
         }
       ],
-      "description": "Positive, confident & smooth English voice.",
+      "description": "A positive, confident English RP male in his 30s with a smooth, polished delivery and real experience in corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mathew-Dudley.jpg"
     },
     {
@@ -6350,7 +6421,7 @@
           "trackId": "727229539"
         }
       ],
-      "description": "Supremely flexible voice. She’s funny too.",
+      "description": "A supremely flexible Northern English female in her 30s with real range, genuine comedy instincts, and solid experience in corporate and consumer work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mary-Wells.jpg"
     },
     {
@@ -6379,7 +6450,7 @@
           "trackId": "727226923"
         }
       ],
-      "description": "Wonderful commercial voice. Great flexibility. Originally from Motherwell.",
+      "description": "A warm, natural Northern Irish female in her 20s with wonderful commercial instincts, real flexibility, and a bright quality that works across a broad range of briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Martine-McMenemy.jpg"
     },
     {
@@ -6407,7 +6478,7 @@
           "trackId": "727226185"
         }
       ],
-      "description": "Bright, enthusiastic & engaging.",
+      "description": "A bright, enthusiastic West Coast Scots male in his 20s with a natural, engaging quality well suited to documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Martin-Quinn.jpg"
     },
     {
@@ -6439,7 +6510,7 @@
           "trackId": "727225825"
         }
       ],
-      "description": "Husky, intimate and delightfully friendly.",
+      "description": "A husky, intimate East Coast Scots female in her 40s with a warm, friendly quality and a naturally engaging delivery across commercial and narration work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Martha-Leishman.jpg"
     },
     {
@@ -6467,7 +6538,7 @@
           "trackId": "727225450"
         }
       ],
-      "description": "Quirky, chatty and bouncy Northerner.",
+      "description": "A quirky, chatty Northern English male in his 40s with a bouncy, warm quality and a natural, direct delivery across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Mark-McDonnell.jpg"
     },
     {
@@ -6495,7 +6566,7 @@
           "trackId": "727225066"
         }
       ],
-      "description": "Lively, clear and charming."
+      "description": "A lively, clear East Coast Scots female in her 30s with a charming, warm quality well suited to e-learning and commercial briefs."
     },
     {
       "name": "Marcus Hutton",
@@ -6521,11 +6592,12 @@
           "label": "Commercial Reel",
           "trackId": "726855367"
         }
-      ]
+      ],
+      "description": "An assured, experienced English Southern male in his 40s with a warm, measured delivery across commercial and corporate work."
     },
     {
       "name": "Magali Henchoz",
-      "accent": "Scottish · French",
+      "accent": "Scottish \u00b7 French",
       "gender": "female",
       "age": "20s",
       "accentGroup": [],
@@ -6546,7 +6618,7 @@
           "trackId": "726849985"
         }
       ],
-      "description": "Bright and husky. A real delight."
+      "description": "A bright, husky Scots-French female in her 20s with a warm, distinctive quality and native French fluency across documentary and e-learning briefs."
     },
     {
       "name": "Luke Houston",
@@ -6573,7 +6645,8 @@
           "trackId": "726847681"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Luke-Houston.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Luke-Houston.jpg",
+      "description": "A fresh, natural East Coast Scots male in his 20s with real potential and a warm, characterful quality across commercial and character work."
     },
     {
       "name": "Lucy Patterson",
@@ -6600,7 +6673,7 @@
           "trackId": "726845149"
         }
       ],
-      "description": "Intelligent, engaging and smooth."
+      "description": "An intelligent, engaging English Southern female in her 30s with a smooth, warm delivery well suited to corporate and documentary content."
     },
     {
       "name": "Lorna Mitchell",
@@ -6627,7 +6700,7 @@
           "trackId": "726841123"
         }
       ],
-      "description": "Warm, friendly and down to earth.",
+      "description": "A warm, friendly East Coast Scots female in her 30s with a down-to-earth, natural quality suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lorna-Mitchell.jpg"
     },
     {
@@ -6655,7 +6728,8 @@
           "trackId": "726831661"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lois-Creasy.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lois-Creasy.jpg",
+      "description": "A warm, natural English Southern female in her 20s with a clear, engaging quality across commercial and corporate work."
     },
     {
       "name": "Liz Strange",
@@ -6682,7 +6756,7 @@
           "trackId": "726829810"
         }
       ],
-      "description": "Bright, lively voice with loads of attitude.",
+      "description": "A bright, lively Northern English female in her 20s with loads of attitude and a confident, energetic delivery across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Liz-Strange.jpg"
     },
     {
@@ -6710,7 +6784,7 @@
           "trackId": "726825034"
         }
       ],
-      "description": "Gentle, mature voice with real charm."
+      "description": "A gentle, mature East Coast Scots female in her 50s with real charm and a warm, measured quality across commercial and character work."
     },
     {
       "name": "Linda McLaughlin",
@@ -6737,12 +6811,12 @@
           "trackId": "726824014"
         }
       ],
-      "description": "Warm and freindly westcoaster.",
+      "description": "A warm, friendly West Coast Scots female in her 40s with a natural, approachable quality and solid experience in corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Linda-McLaughlin.jpg"
     },
     {
-      "name": "Lilja O’Brien",
-      "accent": "American · German / Icelandic",
+      "name": "Lilja O\u2019Brien",
+      "accent": "American \u00b7 German / Icelandic",
       "gender": "female",
       "age": null,
       "accentGroup": [
@@ -6766,7 +6840,8 @@
           "trackId": "726822910"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lilja-O_Brien.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lilja-O_Brien.jpg",
+      "description": "An American female with German and Icelandic heritage and multilingual range, bringing a distinctive, clear quality to e-learning and commercial briefs."
     },
     {
       "name": "Lila Clements",
@@ -6793,7 +6868,8 @@
           "trackId": "889667152"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lila-Clements.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lila-Clements.jpg",
+      "description": "A fresh, natural East Coast Scots female in her 20s with a warm, confident quality well suited to commercial and corporate work."
     },
     {
       "name": "Libby Mcarthur",
@@ -6820,7 +6896,7 @@
           "trackId": "889666918"
         }
       ],
-      "description": "Natural, confident and funny. Nice combo."
+      "description": "A natural, confident East Coast Scots female in her 40s with genuine comedy instincts and a warm, funny quality across documentary and e-learning work."
     },
     {
       "name": "Lesley Hart",
@@ -6847,7 +6923,7 @@
           "trackId": "726817174"
         }
       ],
-      "description": "From husky and smooth to lively and natural."
+      "description": "A versatile East Coast Scots female in her 20s with impressive range from husky and smooth to lively and natural. Excellent all-round commercial voice."
     },
     {
       "name": "Leonna Mcgilligan",
@@ -6874,7 +6950,7 @@
           "trackId": "726816034"
         }
       ],
-      "description": "Wonderfully engaging with bags of energy. We love her.",
+      "description": "A wonderfully engaging East Coast Scots female in her 30s with real energy and a warm, likeable quality that producers love.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Leonna-McGilligan.jpg"
     },
     {
@@ -6902,7 +6978,8 @@
           "trackId": "726813646"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Leigh-Biagi.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Leigh-Biagi.jpg",
+      "description": "An experienced East Coast Scots female in her 40s with a warm, natural quality across e-learning and commercial content."
     },
     {
       "name": "Layla Howarth",
@@ -6929,7 +7006,7 @@
           "trackId": "1520540809"
         }
       ],
-      "description": "Cute as a button.",
+      "description": "A charming, likeable East Coast Scots female with a warm, cute quality and a natural, engaging delivery across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Layla-Howarth.jpg"
     },
     {
@@ -6961,7 +7038,7 @@
           "trackId": "726811633"
         }
       ],
-      "description": "Engaging, bright and charming. The voice of Sonos."
+      "description": "A bright, engaging East Coast Scots female in her 20s with a warm, charming quality. The voice of Sonos and a strong choice for corporate and e-learning briefs."
     },
     {
       "name": "Lance Fuller",
@@ -6989,7 +7066,7 @@
           "trackId": "726809722"
         }
       ],
-      "description": "Considered and thoughtful.",
+      "description": "A considered, thoughtful American male in his 20s with a measured, intelligent delivery well suited to commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lance-Fuller.jpg"
     },
     {
@@ -7017,7 +7094,8 @@
           "trackId": "726809272"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirsty-Worthington.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirsty-Worthington.jpg",
+      "description": "A warm, natural English Southern female in her 20s with a clear, composed delivery across corporate and documentary work."
     },
     {
       "name": "Kirsty Stuart",
@@ -7044,7 +7122,7 @@
           "trackId": "726808603"
         }
       ],
-      "description": "Stylish, warm and slightly husky.",
+      "description": "A stylish, warm, slightly husky East Coast Scots female in her 30s with a natural sophistication and real range across e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirsty-Stuart.jpg"
     },
     {
@@ -7073,7 +7151,7 @@
           "trackId": "726808039"
         }
       ],
-      "description": "Silky smooth, bright and highly articulate.",
+      "description": "A silky smooth, bright East Coast Scots female in her 20s with a highly articulate, polished delivery across commercial and corporate content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirsty-Alexandra.jpg"
     },
     {
@@ -7101,7 +7179,7 @@
           "trackId": "726803536"
         }
       ],
-      "description": "Smooth, factual and smooth.",
+      "description": "A smooth, factual English RP male in his 40s with a clear, composed authority well suited to documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kirk-Bage.jpg"
     },
     {
@@ -7133,7 +7211,8 @@
           "trackId": "1475598523"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kevin-Findlay.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kevin-Findlay.jpg",
+      "description": "A characterful East Coast Scots male in his 30s with real range across commercial montage and narration work."
     },
     {
       "name": "Kenny Hutchison",
@@ -7159,7 +7238,8 @@
           "label": "Commercial Reel",
           "trackId": "726800824"
         }
-      ]
+      ],
+      "description": "An assured, experienced East Coast Scots male in his 40s with a warm, dependable quality across corporate and documentary briefs."
     },
     {
       "name": "Kenny Blyth",
@@ -7191,7 +7271,7 @@
           "trackId": "726799738"
         }
       ],
-      "description": "Experience, relaxed, versatile and multi award winning.",
+      "description": "An experienced, relaxed English Southern male with a multi-award-winning career and real breadth including accents across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kenny-Blyth.jpg"
     },
     {
@@ -7219,7 +7299,7 @@
           "trackId": "726797278"
         }
       ],
-      "description": "Strong, direct East coast voice."
+      "description": "A strong, direct East Coast Scots male in his 30s with a confident, no-nonsense delivery well suited to commercial and corporate briefs."
     },
     {
       "name": "Keith Mcleish",
@@ -7245,7 +7325,8 @@
           "label": "Commercial Reel",
           "trackId": "726793072"
         }
-      ]
+      ],
+      "description": "A warm, natural East Coast Scots male in his 30s with a clear, engaging quality across documentary and e-learning work."
     },
     {
       "name": "Keith Macpherson",
@@ -7272,7 +7353,8 @@
           "trackId": "726789040"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Keith-Macpherson.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Keith-Macpherson.jpg",
+      "description": "A natural, characterful West Coast Scots male in his 30s with a warm, honest delivery across commercial and character work."
     },
     {
       "name": "Kaye Brown",
@@ -7300,7 +7382,7 @@
           "trackId": "726786649"
         }
       ],
-      "description": "Delightful melodious voice. Very flexible too."
+      "description": "A delightful, melodious East Coast Scots female in her 40s with a flexible, warm quality that producers find endlessly useful."
     },
     {
       "name": "Katrina Bryan",
@@ -7327,7 +7409,7 @@
           "trackId": "726784924"
         }
       ],
-      "description": "Nina and the Neurons and the Irn Bru “Fanny” ad. Originally from Dumfries and Galloway.",
+      "description": "A bright, natural East Coast Scots female in her 30s with real pedigree including Nina and the Neurons and the iconic Irn-Bru Fanny campaign.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Katrina-Bryan.jpg"
     },
     {
@@ -7359,7 +7441,7 @@
           "trackId": "726292108"
         }
       ],
-      "description": "Informative & decisive. Wonderful regional stuff too."
+      "description": "An informative, decisive English Southern female in her 30s with impressive regional range including Yorkshire and strong instincts across commercial and corporate work."
     },
     {
       "name": "Kat Folan",
@@ -7386,7 +7468,7 @@
           "trackId": "726288046"
         }
       ],
-      "description": "Bright young voice with oodles of acting experience.",
+      "description": "A bright, natural East Coast Scots female in her 30s with a youthful quality, bags of acting experience, and strong documentary instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kat-Folan.jpg"
     },
     {
@@ -7414,7 +7496,7 @@
           "trackId": "726287368"
         }
       ],
-      "description": "From Monarch of the Glen to Shameless, she can do it all.",
+      "description": "A hugely experienced East Coast Scots female in her 30s with real dramatic range and impressive credits from Monarch of the Glen to Shameless.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kari-Corbett.jpg"
     },
     {
@@ -7442,7 +7524,7 @@
           "trackId": "726205495"
         }
       ],
-      "description": "Bright, lively with real heart.",
+      "description": "A bright, lively East Coast Scots female in her 20s with real heart and a natural, engaging quality across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Karen-Bartke.jpg"
     },
     {
@@ -7470,7 +7552,7 @@
           "trackId": "726204943"
         }
       ],
-      "description": "Bright and bubbly.",
+      "description": "A bright, bubbly Northern English female in her 30s with a warm, energetic quality well suited to e-learning and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Juliette-Burton.jpg"
     },
     {
@@ -7498,7 +7580,7 @@
           "trackId": "726202546"
         }
       ],
-      "description": "Energetic and fun with oodles of experience.",
+      "description": "An energetic, fun East Coast Scots female in her 40s with oodles of experience and a natural, warm delivery across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Julie-Love.jpg"
     },
     {
@@ -7526,7 +7608,7 @@
           "trackId": "726201625"
         }
       ],
-      "description": "Whimsical, clear and smiley.",
+      "description": "A whimsical, clear Northern Irish female in her 30s with a warm, smiley quality and real range across documentary and e-learning briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Julie-Hale.jpg"
     },
     {
@@ -7553,7 +7635,8 @@
           "label": "Commercial Reel",
           "trackId": "726200935"
         }
-      ]
+      ],
+      "description": "An experienced, characterful East Coast Scots female in her 40s with a warm, natural quality and strong instincts across commercial and character work."
     },
     {
       "name": "Julie Finch",
@@ -7580,7 +7663,7 @@
           "trackId": "726200437"
         }
       ],
-      "description": "Natural, earthy West-coaster."
+      "description": "A natural, earthy West Coast Scots female in her 30s with an honest, grounded quality and real experience in corporate and documentary content."
     },
     {
       "name": "Julie Duncanson",
@@ -7607,7 +7690,7 @@
           "trackId": "726200050"
         }
       ],
-      "description": "Husky, funny and versatile. Great character reads too.",
+      "description": "A husky, funny West Coast Scots female in her 30s with real versatility, strong character instincts, and a warm, engaging quality across commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Julie-Duncanson.jpg"
     },
     {
@@ -7635,7 +7718,7 @@
           "trackId": "726199318"
         }
       ],
-      "description": "Light, friendly and charming.",
+      "description": "A light, friendly East Coast Scots female in her 30s with a charming, warm quality and natural instincts across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Julie-Coombe.jpg"
     },
     {
@@ -7663,7 +7746,7 @@
           "trackId": "726199033"
         }
       ],
-      "description": "Factual and sophisticated."
+      "description": "A factual, sophisticated English Southern female in her 40s with a composed, intelligent delivery across documentary and e-learning content."
     },
     {
       "name": "Joyce Falconer",
@@ -7690,11 +7773,12 @@
           "trackId": "726198550"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Joyce-Falconer.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Joyce-Falconer.jpg",
+      "description": "A characterful North East Scots female in her 30s with a distinctive, warm quality and real range across commercial and character work."
     },
     {
       "name": "Jose Carlos",
-      "accent": "Scottish · Spanish",
+      "accent": "Scottish \u00b7 Spanish",
       "gender": "male",
       "age": "30s",
       "accentGroup": [],
@@ -7715,7 +7799,7 @@
           "trackId": "726197953"
         }
       ],
-      "description": "Consummate professional.",
+      "description": "A consummate Scots-Spanish male in his 30s with native bilingual fluency and a polished, confident quality across English and Spanish corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jose-Carlos.jpg"
     },
     {
@@ -7743,7 +7827,7 @@
           "trackId": "726197227"
         }
       ],
-      "description": "Scottish Comedy legend.",
+      "description": "A Scottish comedy legend in his 40s with an extraordinary range of characters and voices, and decades of broadcast experience in commercial and entertainment work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jonathan-Watson.jpg"
     },
     {
@@ -7771,7 +7855,7 @@
           "trackId": "726196366"
         }
       ],
-      "description": "Versatile and characterful.",
+      "description": "A confident, characterful English Southern male in his 40s with real range and a warm, engaging delivery across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Johnny-Meres.jpg"
     },
     {
@@ -7797,7 +7881,8 @@
           "trackId": "726195607"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Winchester.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Winchester.jpg",
+      "description": "A fresh, natural West Coast Scots male in his 20s with a clear, engaging quality across documentary and e-learning work."
     },
     {
       "name": "John Sherman",
@@ -7824,7 +7909,7 @@
           "trackId": "726195250"
         }
       ],
-      "description": "Smooth, clear and interesting."
+      "description": "A smooth, clear English Southern male in his 30s with an interesting, natural quality well suited to commercial and character briefs."
     },
     {
       "name": "John Scougall",
@@ -7855,7 +7940,7 @@
           "trackId": "824345524"
         }
       ],
-      "description": "Edgy young voice with bags of attitude.",
+      "description": "An edgy young West Coast Scots male in his 20s with loads of attitude and a confident, contemporary delivery across corporate and narration work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Scougall.jpg"
     },
     {
@@ -7882,7 +7967,8 @@
           "label": "Commercial Reel",
           "trackId": "726187009"
         }
-      ]
+      ],
+      "description": "An experienced East Coast Scots male in his 40s with a warm, natural quality across e-learning and commercial content."
     },
     {
       "name": "John Paul Hurley",
@@ -7909,7 +7995,7 @@
           "trackId": "726186454"
         }
       ],
-      "description": "Approachable and warm Northern accents.",
+      "description": "A warm, approachable Northern English male in his 40s with natural regional accents and a friendly quality ideal for public-facing and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Paul-Hurley.jpg"
     },
     {
@@ -7937,7 +8023,7 @@
           "trackId": "726185956"
         }
       ],
-      "description": "Smooth, confident and engaging."
+      "description": "A smooth, confident American male in his 40s with a natural, engaging quality and real experience across documentary and e-learning content."
     },
     {
       "name": "John Kielty",
@@ -7964,7 +8050,7 @@
           "trackId": "726184906"
         }
       ],
-      "description": "Loads of youthful attitude. He’s great.",
+      "description": "A loads-of-attitude East Coast Scots male in his 30s with a youthful, edgy quality and strong commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Kielty.jpg"
     },
     {
@@ -7992,7 +8078,7 @@
           "trackId": "726183355"
         }
       ],
-      "description": "As rich and warm as a Werther’s original.",
+      "description": "A richly warm, authoritative East Coast Scots male in his 50s with a deeply reassuring quality and real presence across corporate and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Henderson.jpg"
     },
     {
@@ -8020,7 +8106,7 @@
           "trackId": "726183007"
         }
       ],
-      "description": "Gravelly Glaswegian. Great for sports."
+      "description": "A gravelly, authoritative North West Scots male in his 40s with a strong, characterful voice particularly well suited to sports and entertainment briefs."
     },
     {
       "name": "John Cugley",
@@ -8047,7 +8133,7 @@
           "trackId": "726182254"
         }
       ],
-      "description": "Polished, articulate and professional."
+      "description": "A polished, articulate English RP male in his 40s with a composed, professional delivery and real range across commercial and corporate content."
     },
     {
       "name": "John Colee",
@@ -8074,7 +8160,7 @@
           "trackId": "726181561"
         }
       ],
-      "description": "Husky storyteller.",
+      "description": "A husky, warm American male storyteller in his 40s with a measured, intimate quality well suited to documentary and e-learning narration.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Colee.jpg"
     },
     {
@@ -8102,7 +8188,8 @@
           "trackId": "726180958"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Cavanagh.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Cavanagh.jpg",
+      "description": "A warm, characterful West Coast Scots male in his 40s with a natural, engaging quality across commercial and character work."
     },
     {
       "name": "Jodie Campbell",
@@ -8141,7 +8228,7 @@
           "trackId": "1374835453"
         }
       ],
-      "description": "Versatile, enthusiastic and a little bit quirky.",
+      "description": "An enthusiastic, slightly quirky East Coast Scots female in her 30s with real versatility and strong range across character, happy, and narrative reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jodie-Campbell.jpg"
     },
     {
@@ -8169,7 +8256,7 @@
           "trackId": "726180223"
         }
       ],
-      "description": "Silky smooth, reassuring & real.",
+      "description": "A silky smooth, reassuring East Coast Scots female in her 30s with a natural, genuine quality well suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Joanne-Ramsay.jpg"
     },
     {
@@ -8197,7 +8284,7 @@
           "trackId": "726173167"
         }
       ],
-      "description": "Hugely experienced commercial voice.",
+      "description": "A hugely experienced East Coast Scots female in her 30s with a warm, natural delivery and real commercial authority.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Joanne-Andrews.jpg"
     },
     {
@@ -8224,7 +8311,8 @@
           "label": "Commercial Reel",
           "trackId": "726171988"
         }
-      ]
+      ],
+      "description": "A fresh, natural West Coast Scots female in her 20s with a warm, engaging quality across documentary and e-learning work."
     },
     {
       "name": "Jo Cameron Brown",
@@ -8251,7 +8339,7 @@
           "trackId": "726171028"
         }
       ],
-      "description": "Intimate, charming and slightly husky."
+      "description": "An intimate, charming East Coast Scots female in her 40s with a slightly husky, warm quality and real experience across commercial and character work."
     },
     {
       "name": "Jimmy Harrison",
@@ -8277,7 +8365,8 @@
           "label": "Commercial Reel",
           "trackId": "726170506"
         }
-      ]
+      ],
+      "description": "A natural, engaging East Coast Scots male in his 30s with a confident, characterful delivery across corporate and documentary content."
     },
     {
       "name": "Jimmy Chisolm",
@@ -8304,7 +8393,7 @@
           "trackId": "726169249"
         }
       ],
-      "description": "Wonderfully flexible and gravelly.",
+      "description": "A wonderfully flexible, gravelly North Scots male in his 40s with a rich, characterful quality and real range across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jimmy-Chisolm.jpg"
     },
     {
@@ -8332,7 +8421,8 @@
           "trackId": "726168547"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jim-Webster-Stewart.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jim-Webster-Stewart.jpg",
+      "description": "A warm, natural East Coast Scots male in his 30s with a confident, engaging delivery across commercial and corporate briefs."
     },
     {
       "name": "Jeremy Hitchen",
@@ -8359,7 +8449,7 @@
           "trackId": "726167839"
         }
       ],
-      "description": "You name it, he does it. Literally.",
+      "description": "A wonderfully adaptable West Country male in his 30s with remarkable range and real experience across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jeremy-Hitchen.jpg"
     },
     {
@@ -8387,7 +8477,7 @@
           "trackId": "726167107"
         }
       ],
-      "description": "Lovely gentle reads."
+      "description": "A gentle, warm East Coast Scots female in her 30s with a lovely, natural quality and an easy, believable delivery across commercial and character work."
     },
     {
       "name": "Jenny Farish",
@@ -8414,7 +8504,7 @@
           "trackId": "725793643"
         }
       ],
-      "description": "Massively experienced, warm and bright.",
+      "description": "A massively experienced, warm, bright East Coast Scots female in her 40s with a natural authority and a dependable, engaging quality.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jenny-Farish.jpg"
     },
     {
@@ -8454,7 +8544,7 @@
           "trackId": "2127740445"
         }
       ],
-      "description": "Wonderfully sophisticated. A real touch of class.",
+      "description": "A wonderfully sophisticated English RP female in her 40s with a real touch of class and strong range including character, nursing, and narration work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jenny-EwartRobb.jpg"
     },
     {
@@ -8487,7 +8577,7 @@
           "trackId": "725788972"
         }
       ],
-      "description": "A consummate pro. Silky smooth delivery.",
+      "description": "A consummate East Coast Scots female in her 40s with a silky smooth delivery and decades of broadcast and commercial experience.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jenny-Dunbar.jpg"
     },
     {
@@ -8519,7 +8609,7 @@
           "trackId": "1491567790"
         }
       ],
-      "description": "Bubbly and confident with loads of broadcast experience.",
+      "description": "A bubbly, confident East Coast Scots female in her 30s with loads of broadcast experience and natural range across Scottish and English commercial reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jennifer-Johnston.jpg"
     },
     {
@@ -8547,7 +8637,8 @@
           "trackId": "725787061"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jennifer-Black.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jennifer-Black.jpg",
+      "description": "A warm, characterful East Coast Scots female in her 40s with a natural, engaging quality across commercial and character work."
     },
     {
       "name": "Jeannie Fisher",
@@ -8574,7 +8665,7 @@
           "trackId": "725771956"
         }
       ],
-      "description": "Natural, totally believable accents."
+      "description": "A natural West Coast Scots female in her 40s with totally believable accent work and a warm, honest quality across corporate and documentary content."
     },
     {
       "name": "Jamie Melrose",
@@ -8600,7 +8691,8 @@
           "label": "Commercial Reel",
           "trackId": "725771098"
         }
-      ]
+      ],
+      "description": "A fresh, natural East Coast Scots female in her 20s with a warm, engaging quality across e-learning and commercial briefs."
     },
     {
       "name": "Jamie Macdonald",
@@ -8627,7 +8719,7 @@
           "trackId": "725768011"
         }
       ],
-      "description": "Warm and friendly with great gravitas when its needed.",
+      "description": "A warm, friendly East Coast Scots male in his 30s with natural gravitas when needed and a likeable, conversational quality across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jamie-MacDonald.jpg"
     },
     {
@@ -8655,7 +8747,8 @@
           "trackId": "725765437"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Rottger.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Rottger.jpg",
+      "description": "A fresh, natural East Coast Scots male in his 20s with a clear, confident quality suited to documentary and e-learning briefs."
     },
     {
       "name": "James Mackenzie",
@@ -8682,7 +8775,8 @@
           "trackId": "725762812"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Mackenzie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Mackenzie.jpg",
+      "description": "A young, characterful East Coast Scots male with natural instincts and real potential across commercial and character work."
     },
     {
       "name": "James Walker",
@@ -8708,7 +8802,8 @@
           "label": "Commercial Reel",
           "trackId": "1491670954"
         }
-      ]
+      ],
+      "description": "A natural, clear North Scots male in his 20s with an honest, engaging quality across corporate and documentary content."
     },
     {
       "name": "James Frame",
@@ -8735,7 +8830,7 @@
           "trackId": "725760304"
         }
       ],
-      "description": "Gritty and unpretentious voice.",
+      "description": "A gritty, unpretentious North West Scots male in his 30s with a raw, real quality and solid commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Frame.jpg"
     },
     {
@@ -8763,7 +8858,7 @@
           "trackId": "725757475"
         }
       ],
-      "description": "Natural, slightly upmarket delivery.",
+      "description": "A natural, slightly upmarket East Coast Scots male in his 30s with a composed, credible delivery well suited to commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Dinsmore.jpg"
     },
     {
@@ -8792,7 +8887,8 @@
           "trackId": "725757073"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Bryce.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Bryce.jpg",
+      "description": "An experienced East Coast Scots male in his 50s with a warm, measured quality and real authority across documentary and e-learning content."
     },
     {
       "name": "Jacqui Prentice",
@@ -8819,7 +8915,7 @@
           "trackId": "725756155"
         }
       ],
-      "description": "Delightfully husky and confident.",
+      "description": "A delightfully husky, confident English RP female in her 40s with a warm, natural quality and real range across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jacqui-Prentice.jpg"
     },
     {
@@ -8847,7 +8943,7 @@
           "trackId": "725718883"
         }
       ],
-      "description": "Strong, characterful and nicely gravelly."
+      "description": "A strong, characterful East Coast Scots male in his 60s with a nicely gravelly quality and real presence across corporate and documentary content."
     },
     {
       "name": "Jack Kerr",
@@ -8873,11 +8969,12 @@
           "label": "Commercial Reel",
           "trackId": "725715550"
         }
-      ]
+      ],
+      "description": "A natural, engaging East Coast Scots male in his 30s with a confident, contemporary delivery across e-learning and commercial work."
     },
     {
       "name": "Isolde James-Griffiths",
-      "accent": "Scottish · French / German",
+      "accent": "Scottish \u00b7 French / German",
       "gender": "female",
       "age": "30s",
       "accentGroup": [],
@@ -8901,7 +8998,8 @@
           "label": "French And German Reel",
           "trackId": "725714584"
         }
-      ]
+      ],
+      "description": "A warm, confident Scots female in her 30s with native fluency in French and German, offering genuine trilingual capability for European and international campaigns."
     },
     {
       "name": "Isobella Jarrett",
@@ -8928,7 +9026,7 @@
           "trackId": "725713357"
         }
       ],
-      "description": "Really engaging and warm.",
+      "description": "A really engaging, warm East Coast Scots female in her 40s with a natural, trustworthy quality across documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Isobella-Jarrett.jpg"
     },
     {
@@ -8957,7 +9055,8 @@
           "trackId": "725712664"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Irene-Allan.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Irene-Allan.jpg",
+      "description": "A natural, warm English RP female in her 30s with a confident, engaging quality across commercial and character work."
     },
     {
       "name": "Iona Thonger",
@@ -8985,7 +9084,8 @@
           "trackId": "725712328"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iona-Thonger.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iona-Thonger.jpg",
+      "description": "A clear, natural English RP female in her 20s with a composed, assured quality suited to corporate and documentary work."
     },
     {
       "name": "Iona MacInnes",
@@ -9012,7 +9112,7 @@
           "trackId": "725711794"
         }
       ],
-      "description": "Bright, friendly and really charming."
+      "description": "A bright, friendly North West Scots female in her 20s with a charming, natural quality well suited to e-learning and commercial briefs."
     },
     {
       "name": "Ian Sexon",
@@ -9039,7 +9139,8 @@
           "trackId": "725711299"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Sexon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Sexon.jpg",
+      "description": "A warm, experienced English male in his 40s with a dependable, natural quality and real range across commercial and corporate content."
     },
     {
       "name": "Ian Crawford",
@@ -9066,7 +9167,7 @@
           "trackId": "725710873"
         }
       ],
-      "description": "Factual, bright and mature."
+      "description": "A factual, bright West Coast Scots male in his 40s with a measured, mature quality well suited to documentary and e-learning work."
     },
     {
       "name": "Ian Andrew",
@@ -9093,7 +9194,8 @@
           "trackId": "725710090"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Andrew.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Andrew.jpg",
+      "description": "A warm, natural West Coast Scots male in his 40s with a confident, characterful delivery across commercial and character work."
     },
     {
       "name": "Ian Aldred",
@@ -9120,11 +9222,12 @@
           "trackId": "725709619"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Aldred.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ian-Aldred.jpg",
+      "description": "A polished, authoritative English RP male in his 40s with a composed, trustworthy quality across corporate and documentary content."
     },
     {
       "name": "Iain Macrae",
-      "accent": "Scottish North West · Gaelic",
+      "accent": "Scottish North West \u00b7 Gaelic",
       "gender": "male",
       "age": "40s",
       "accentGroup": [
@@ -9151,7 +9254,8 @@
           "trackId": "725708476"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iain-Macrae.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iain-Macrae.jpg",
+      "description": "A natural North West Scots male in his 40s with native Gaelic fluency and a warm, grounded quality across English and Gaelic commercial and e-learning work."
     },
     {
       "name": "Iain Armstrong",
@@ -9178,7 +9282,8 @@
           "trackId": "725707015"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iain-Armstrong.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iain-Armstrong.jpg",
+      "description": "A clear, experienced English male in his 50s with a warm, composed quality and dependable delivery across commercial and corporate content."
     },
     {
       "name": "Iain Agnew",
@@ -9205,7 +9310,7 @@
           "trackId": "725705743"
         }
       ],
-      "description": "Wonderful storyteller.",
+      "description": "A wonderfully grounded East Coast Scots male in his 60s with a natural storytelling instinct and a warm, unhurried quality across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Iain-Agnew.jpg"
     },
     {
@@ -9233,7 +9338,7 @@
           "trackId": "725705308"
         }
       ],
-      "description": "Slightly husky and straight talking.",
+      "description": "A slightly husky, straight-talking West Coast Scots female in her 20s with a natural, confident quality well suited to commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Heather-Hunter.jpg"
     },
     {
@@ -9261,7 +9366,8 @@
           "trackId": "1094329609"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Henry-Walker-Lyon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Henry-Walker-Lyon.jpg",
+      "description": "A natural East Coast Scots male with a warm, engaging quality across corporate and documentary briefs."
     },
     {
       "name": "Helen Morley",
@@ -9288,7 +9394,7 @@
           "trackId": "725703271"
         }
       ],
-      "description": "Lovely warm English voice.",
+      "description": "A lovely warm English Southern female in her 30s with a natural, clear quality and a gentle, engaging delivery across e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Morley.jpg"
     },
     {
@@ -9316,7 +9422,7 @@
           "trackId": "725702395"
         }
       ],
-      "description": "Small and perfectly formed. Helen’s simply magic.",
+      "description": "A simply magical East Coast Scots female in her 20s with a bright, warm quality and a natural delivery that makes her a joy to work with.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-McAlpine.jpg"
     },
     {
@@ -9344,7 +9450,8 @@
           "trackId": "725702095"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Mackay.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Mackay.jpg",
+      "description": "A clear, natural North Scots female in her 20s with a bright, engaging quality well suited to documentary and e-learning content."
     },
     {
       "name": "Helen Cuinn",
@@ -9371,7 +9478,8 @@
           "trackId": "725701660"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Cuinn.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Cuinn.jpg",
+      "description": "A warm, natural West Coast Scots female in her 20s with a characterful, engaging quality across commercial and character briefs."
     },
     {
       "name": "Helen Belbin",
@@ -9398,7 +9506,8 @@
           "trackId": "725701408"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Belbin.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Helen-Belbin.jpg",
+      "description": "A warm, thoughtful East Coast Scots female in her 30s with a natural, composed quality well suited to corporate and documentary content."
     },
     {
       "name": "Heidi Docherty",
@@ -9424,7 +9533,8 @@
           "label": "Commercial Reel",
           "trackId": "725700991"
         }
-      ]
+      ],
+      "description": "An experienced Northern English female in her 40s with a warm, grounded quality and real range across e-learning and commercial work."
     },
     {
       "name": "Heather Dewar",
@@ -9450,7 +9560,8 @@
           "label": "Commercial Reel",
           "trackId": "725700283"
         }
-      ]
+      ],
+      "description": "A warm, natural English RP female in her 30s with a clear, composed quality suited to commercial and corporate briefs."
     },
     {
       "name": "Hazel Beattie",
@@ -9477,7 +9588,7 @@
           "trackId": "725699284"
         }
       ],
-      "description": "Natural, clear and confident.",
+      "description": "A natural, clear North East Scots female in her 30s with a warm, confident delivery well suited to documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hazel-Beattie.jpg"
     },
     {
@@ -9504,7 +9615,8 @@
           "label": "Commercial Reel",
           "trackId": "725698309"
         }
-      ]
+      ],
+      "description": "A warm, natural East Coast Scots female in her 30s with an engaging, characterful quality across commercial and character work."
     },
     {
       "name": "Hamish Wyllie",
@@ -9531,7 +9643,8 @@
           "trackId": "725697811"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hamish-Wyllie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hamish-Wyllie.jpg",
+      "description": "A fresh, natural North East Scots male in his 20s with a clear, confident quality across corporate and documentary content."
     },
     {
       "name": "Guy Satchwell",
@@ -9558,7 +9671,8 @@
           "trackId": "725697037"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Guy-Satchwell.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Guy-Satchwell.jpg",
+      "description": "A warm, assured English RP male in his 40s with a polished, dependable quality suited to e-learning and commercial briefs."
     },
     {
       "name": "Greg Powrie",
@@ -9585,7 +9699,7 @@
           "trackId": "725696650"
         }
       ],
-      "description": "Really positive and corporate voice.",
+      "description": "A positive, upbeat East Coast Scots male in his 40s with a bright, corporate-friendly delivery and real commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Greg-Powrie.jpg"
     },
     {
@@ -9613,7 +9727,8 @@
           "trackId": "725695504"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Greg-Mchugh.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Greg-Mchugh.jpg",
+      "description": "A natural, warm West Coast Scots male in his 30s with a friendly, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Greg Bonnar",
@@ -9640,7 +9755,7 @@
           "trackId": "725694541"
         }
       ],
-      "description": "Amazing westcoast story teller."
+      "description": "An amazing West Coast Scots male storyteller in his 30s with a rich, captivating quality and real range across commercial and character work."
     },
     {
       "name": "Greg Baker",
@@ -9667,7 +9782,8 @@
           "label": "Commercial Reel",
           "trackId": "725692486"
         }
-      ]
+      ],
+      "description": "A warm, natural American male in his 40s with a composed, authoritative quality across corporate and documentary content."
     },
     {
       "name": "Grant Stott",
@@ -9694,7 +9810,7 @@
           "trackId": "725691211"
         }
       ],
-      "description": "Broadcaster, voice artist, actor and Hibs fan.",
+      "description": "A warm, characterful North East Scots broadcaster and voice artist in his 40s with decades of experience and a distinctive, trusted quality. And a Hibs fan.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Grant-Stott.jpg"
     },
     {
@@ -9722,7 +9838,7 @@
           "trackId": "725690632"
         }
       ],
-      "description": "Highly flexible, strong voice. A class act.",
+      "description": "A highly flexible, strong West Coast Scots male in his 30s with a natural authority and real class across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Graeme-Mackenzie.jpg"
     },
     {
@@ -9750,12 +9866,12 @@
           "trackId": "725690194"
         }
       ],
-      "description": "A real East coaster (and stadium announcer). Great for sports stuff.",
+      "description": "A genuine East Coast Scots male in his 30s with real experience as a stadium announcer and a confident, energetic quality suited to sports and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Graeme-Easton.jpg"
     },
     {
       "name": "Gosia Zbudniewek",
-      "accent": "Scottish · Polish",
+      "accent": "Scottish \u00b7 Polish",
       "gender": "female",
       "age": "20s",
       "accentGroup": [],
@@ -9776,7 +9892,7 @@
           "trackId": "725689783"
         }
       ],
-      "description": "Factual and direct. Great for documentaries."
+      "description": "A factual, direct Scots-Polish female in her 20s with a clear, natural quality and native Polish fluency particularly suited to documentary work."
     },
     {
       "name": "Glenna Morrison",
@@ -9803,7 +9919,7 @@
           "trackId": "725688847"
         }
       ],
-      "description": "Great energy. Warm smokey and confident."
+      "description": "A warm, smoky West Coast Scots female in her 30s with great energy and a confident, natural delivery across corporate and documentary content."
     },
     {
       "name": "Gillian Kerr",
@@ -9830,7 +9946,7 @@
           "trackId": "725688043"
         }
       ],
-      "description": "Lovely natural deliveries."
+      "description": "A warm, natural East Coast Scots female in her 20s with lovely, natural deliveries and real appeal across e-learning and commercial work."
     },
     {
       "name": "Gilbert Martin",
@@ -9857,7 +9973,7 @@
           "trackId": "725686495"
         }
       ],
-      "description": "Strong words softly spoken.",
+      "description": "A measured West Coast Scots male in his 40s with a quiet authority and a distinctively understated delivery across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gilbert-Martin.jpg"
     },
     {
@@ -9885,7 +10001,8 @@
           "trackId": "725686081"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gerard-McDade.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gerard-McDade.jpg",
+      "description": "A warm, natural West Coast Scots male in his 30s with a confident, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Geraldine Mcdade",
@@ -9911,7 +10028,8 @@
           "label": "Commercial Reel",
           "trackId": "725685823"
         }
-      ]
+      ],
+      "description": "A characterful East Coast Scots female in her 30s with a warm, natural quality across commercial and character work."
     },
     {
       "name": "George Drennan",
@@ -9938,7 +10056,8 @@
           "trackId": "725685421"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/George-Drennan.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/George-Drennan.jpg",
+      "description": "A confident, warm West Coast Scots male in his 30s with a natural, engaging delivery across corporate and documentary content."
     },
     {
       "name": "Gemma Stroyan",
@@ -9963,7 +10082,7 @@
           "trackId": "725684998"
         }
       ],
-      "description": "Confident, precise & reliable.",
+      "description": "A confident, precise East Coast Scots female in her 20s with a reliable, clean delivery well suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gemma-Stroyan.jpg"
     },
     {
@@ -9990,7 +10109,8 @@
           "label": "Commercial Reel",
           "trackId": "725684095"
         }
-      ]
+      ],
+      "description": "A fresh, natural West Coast Scots female in her 20s with a warm, engaging quality across commercial and corporate work."
     },
     {
       "name": "Gayanne Potter",
@@ -10022,7 +10142,7 @@
           "trackId": "725683198"
         }
       ],
-      "description": "Supremely versatile voice. You name it, she does it."
+      "description": "A supremely capable East Coast Scots female in her 30s with extraordinary range and real experience across documentary, character, and commercial briefs."
     },
     {
       "name": "Gavin Paul",
@@ -10049,7 +10169,8 @@
           "trackId": "725682238"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gavin-Paul.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gavin-Paul.jpg",
+      "description": "A warm, natural East Coast Scots male in his 20s with a fresh, characterful quality across commercial and character work."
     },
     {
       "name": "Gains Murdoch",
@@ -10076,7 +10197,8 @@
           "trackId": "725681551"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gains-Murdock.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gains-Murdock.jpg",
+      "description": "A natural young Scots male with a warm, honest quality and real potential across corporate and documentary content."
     },
     {
       "name": "Gabrielle Barker",
@@ -10103,7 +10225,7 @@
           "trackId": "725681098"
         }
       ],
-      "description": "Informative, factual and engaging.",
+      "description": "An informative, factual English RP female in her 40s with a clear, engaging delivery and real authority across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gabrielle-Barker.jpg"
     },
     {
@@ -10131,7 +10253,7 @@
           "trackId": "725680540"
         }
       ],
-      "description": "Incredibly versatile. Great characters too.",
+      "description": "An incredibly capable West Coast Scots female in her 30s with extraordinary character range and a warm, dynamic quality across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gabe-Quigley.jpg"
     },
     {
@@ -10159,7 +10281,7 @@
           "trackId": "725679949"
         }
       ],
-      "description": "Upbeat, friendly and characterful.",
+      "description": "An upbeat, friendly East Coast Scots male in his 20s with a characterful, natural quality well suited to documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fraser-Sivewright.jpg"
     },
     {
@@ -10187,7 +10309,8 @@
           "trackId": "725679508"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Frank-Meaden.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Frank-Meaden.jpg",
+      "description": "A warm, natural English Southern male in his 30s with a clear, engaging delivery across commercial and character work."
     },
     {
       "name": "Francesca Dymond",
@@ -10214,7 +10337,7 @@
           "trackId": "725679061"
         }
       ],
-      "description": "Silky smooth with bags of style."
+      "description": "A silky smooth English Southern female in her 30s with real style and a polished, confident quality suited to corporate and documentary content."
     },
     {
       "name": "Fran Healy",
@@ -10241,12 +10364,12 @@
           "trackId": "725677495"
         }
       ],
-      "description": "Soft, charming and engaging.",
+      "description": "A soft, charming Southern Irish female in her 30s with a warm, gently engaging quality well suited to e-learning and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fran-Healy.jpg"
     },
     {
       "name": "Florence Degeilh",
-      "accent": "Scottish · French",
+      "accent": "Scottish \u00b7 French",
       "gender": "female",
       "age": "30s",
       "accentGroup": [],
@@ -10266,7 +10389,8 @@
           "label": "English Reel",
           "trackId": "725675335"
         }
-      ]
+      ],
+      "description": "A warm Scots-French female in her 30s with a natural English delivery and real French-language capability across commercial and corporate briefs."
     },
     {
       "name": "Flora Munro",
@@ -10293,7 +10417,7 @@
           "trackId": "725675062"
         }
       ],
-      "description": "Bright, level-headed and totally believable.",
+      "description": "A bright, level-headed East Coast Scots female in her 20s with a totally believable quality and solid instincts across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Flora-Munro.jpg"
     },
     {
@@ -10321,7 +10445,8 @@
           "trackId": "725674135"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-Steele.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-Steele.jpg",
+      "description": "A warm, characterful East Coast Scots female in her 30s with a natural, engaging delivery across commercial and character work."
     },
     {
       "name": "Amanda Craven",
@@ -10348,7 +10473,7 @@
           "trackId": "723668623"
         }
       ],
-      "description": "Husky and versatile. A real delight."
+      "description": "A husky, warm English RP female in her 40s with a genuine warmth and real breadth across corporate and documentary content."
     },
     {
       "name": "Fiona MacKinnon",
@@ -10383,7 +10508,8 @@
           "trackId": "1504498660"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-MacKinnon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-MacKinnon.jpg",
+      "description": "An experienced East Coast Scots female in her 40s with strong range across commercial, corporate, and e-learning work."
     },
     {
       "name": "Fiona Knowles",
@@ -10410,7 +10536,7 @@
           "trackId": "725229361"
         }
       ],
-      "description": "Bright, lively and great fun.",
+      "description": "A bright, lively East Coast Scots female in her 60s with a fun, energetic quality and real experience across commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-Knowles.jpg"
     },
     {
@@ -10438,7 +10564,7 @@
           "trackId": "725228077"
         }
       ],
-      "description": "Smooth, warm and natural. Slightly husky.",
+      "description": "A smooth, warm English RP female in her 30s with a slightly husky, natural quality and a clear, engaging delivery across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fiona-Francis.jpg"
     },
     {
@@ -10466,7 +10592,8 @@
           "label": "Commercial Reel",
           "trackId": "725226298"
         }
-      ]
+      ],
+      "description": "A fresh, natural East Coast Scots female in her 20s with a characterful, warm quality across commercial and character work."
     },
     {
       "name": "Fenella Kerr",
@@ -10494,7 +10621,8 @@
           "trackId": "725225833"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fenella-Kerr.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Fenella-Kerr.jpg",
+      "description": "A composed, intelligent English RP female in her 30s with a warm, natural delivery suited to corporate and documentary content."
     },
     {
       "name": "Ewan MacDonald",
@@ -10521,7 +10649,7 @@
           "trackId": "725224747"
         }
       ],
-      "description": "Bright and slightly edgy central belter.",
+      "description": "A bright, slightly edgy West Coast Scots male in his 20s with a contemporary central belt quality and real energy across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ewan-MacDonald.jpg"
     },
     {
@@ -10554,7 +10682,7 @@
           "trackId": "725212027"
         }
       ],
-      "description": "Husky, measured and clear",
+      "description": "A husky, measured East Coast Scots female in her 40s with a clear, composed quality and French language capability across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Estrid-Barton.jpg"
     },
     {
@@ -10582,7 +10710,8 @@
           "trackId": "725208859"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Emma-Hatley-Miller.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Emma-Hatley-Miller.jpg",
+      "description": "A warm, natural East Coast Scots female in her 30s with a clear, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Emma Danby",
@@ -10609,7 +10738,7 @@
           "trackId": "725206909"
         }
       ],
-      "description": "Warm, confident and truly versatile. Utterly charming.",
+      "description": "A warm, confident English Southern female in her 30s with a natural charm and real breadth across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Emma-Danby.jpg"
     },
     {
@@ -10637,7 +10766,7 @@
           "trackId": "725205592"
         }
       ],
-      "description": "Lovely, bright and slightly husky.",
+      "description": "A lovely, bright East Coast Scots female in her 20s with a slightly husky, natural quality well suited to corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Elle-Crockart.jpg"
     },
     {
@@ -10669,7 +10798,8 @@
           "trackId": "725204584"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Elisa-Canas.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Elisa-Canas.jpg",
+      "description": "A warm, natural English Southern female in her 30s with a characterful quality and real range across commercial and character work."
     },
     {
       "name": "Edward Hinks",
@@ -10696,7 +10826,8 @@
           "trackId": "725202754"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Edward-Hinks.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Edward-Hinks.jpg",
+      "description": "A polished, authoritative English RP male in his 40s with a composed, trustworthy delivery across commercial and corporate content."
     },
     {
       "name": "E J Boyle",
@@ -10723,7 +10854,8 @@
           "trackId": "725201980"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/EJ-Boyle.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/EJ-Boyle.jpg",
+      "description": "A fresh, natural West Coast Scots female in her 20s with a warm, engaging quality across documentary and e-learning work."
     },
     {
       "name": "Douglas Mowat",
@@ -10750,7 +10882,7 @@
           "trackId": "725198266"
         }
       ],
-      "description": "Rich, slightly quirky Aberdonian."
+      "description": "A rich, slightly quirky Aberdonian male in his 50s with a distinctive North East Scots quality and real character across commercial and character work."
     },
     {
       "name": "Doreen Mcgillivray",
@@ -10777,7 +10909,8 @@
           "trackId": "725196388"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Doreen-Mcgillivray.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Doreen-Mcgillivray.jpg",
+      "description": "An experienced East Coast Scots female in her 50s with a warm, measured quality across corporate and documentary content."
     },
     {
       "name": "Donald Pirie",
@@ -10804,11 +10937,12 @@
           "trackId": "725193484"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Donald-Pirie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Donald-Pirie.jpg",
+      "description": "A fresh, natural West Coast Scots male in his 20s with a clear, engaging quality across e-learning and commercial work."
     },
     {
       "name": "Dinh Trung",
-      "accent": "Vietnamese · Vietnamese",
+      "accent": "Vietnamese \u00b7 Vietnamese",
       "gender": "male",
       "age": "30s",
       "accentGroup": [
@@ -10831,7 +10965,7 @@
           "trackId": "725191771"
         }
       ],
-      "description": "Vietnamese voiceover.",
+      "description": "A natural Vietnamese male in his 30s with native bilingual fluency offering genuine Vietnamese and English capability for multilingual commercial and corporate briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Dinh-Trung.jpg"
     },
     {
@@ -10859,7 +10993,8 @@
           "trackId": "725189959"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Maclean.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Maclean.jpg",
+      "description": "A warm, natural East Coast Scots female in her 40s with a composed, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Diane Brooks",
@@ -10894,7 +11029,8 @@
           "trackId": "991833499"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Brooks.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Brooks.jpg",
+      "description": "An experienced East Coast Scots female in her 40s with real range across commercial, corporate, and gaming work."
     },
     {
       "name": "Derek Smith",
@@ -10933,7 +11069,8 @@
           "trackId": "1624830678"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Derek-Smith.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Derek-Smith.jpg",
+      "description": "A warm, natural East Coast Scots male in his 30s with real experience including continuity, cycling, and e-learning alongside commercial and corporate content."
     },
     {
       "name": "Derek Murray",
@@ -10959,7 +11096,8 @@
           "label": "Commercial Reel Derek Murry",
           "trackId": "725181712"
         }
-      ]
+      ],
+      "description": "A confident East Coast Scots male in his 40s with a natural, engaging quality and solid experience across e-learning and commercial work."
     },
     {
       "name": "Deirdre Davis",
@@ -10985,7 +11123,8 @@
           "label": "Commercial Reel",
           "trackId": "725173345"
         }
-      ]
+      ],
+      "description": "A warm, natural West Coast Scots female in her 30s with a friendly, engaging quality across commercial and corporate briefs."
     },
     {
       "name": "Deborah Whyte",
@@ -11012,7 +11151,8 @@
           "trackId": "725172097"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Deborah-Whyte.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Deborah-Whyte.jpg",
+      "description": "A clear, natural East Coast Scots female in her 30s with a composed, engaging quality well suited to documentary and e-learning content."
     },
     {
       "name": "Deborah Arnott",
@@ -11039,7 +11179,8 @@
           "trackId": "725169202"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Deborah-Arnott.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Deborah-Arnott.jpg",
+      "description": "A warm, characterful West Coast Scots female in her 40s with a natural, engaging delivery across commercial and character work."
     },
     {
       "name": "Debbie Cannon",
@@ -11065,7 +11206,8 @@
           "label": "Commercial Reel",
           "trackId": "725166976"
         }
-      ]
+      ],
+      "description": "A warm, natural East Coast Scots female in her 30s with a clear, confident quality across corporate and documentary content."
     },
     {
       "name": "David Monteath",
@@ -11093,7 +11235,7 @@
           "trackId": "725164330"
         }
       ],
-      "description": "Warm and authoritative."
+      "description": "A warm, authoritative English RP male in his 30s with a natural, composed delivery well suited to e-learning and commercial briefs."
     },
     {
       "name": "David McCallion",
@@ -11120,7 +11262,8 @@
           "trackId": "725154607"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-McCallion.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-McCallion.jpg",
+      "description": "A warm, natural West Coast Scots male in his 30s with a friendly, engaging quality across commercial and corporate content."
     },
     {
       "name": "David Mahoney",
@@ -11147,7 +11290,7 @@
           "trackId": "725150947"
         }
       ],
-      "description": "Warm and reassuring.",
+      "description": "A warm, reassuring English Southern male in his 30s with a natural, measured delivery across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Mahoney.jpg"
     },
     {
@@ -11179,12 +11322,12 @@
           "trackId": "787616278"
         }
       ],
-      "description": "Phenomenal all-rounder. Oodles of experience.",
+      "description": "A phenomenal all-round East Coast Scots male in his 30s with oodles of experience and real range across Scottish commercial and mixed English briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Johnston.jpg"
     },
     {
       "name": "David Goodall",
-      "accent": "Scottish East Coast · French / German / Italian",
+      "accent": "Scottish East Coast \u00b7 French / German / Italian",
       "gender": "male",
       "age": "40s",
       "accentGroup": [
@@ -11210,7 +11353,8 @@
           "label": "Foreign Languages Reel",
           "trackId": "725135902"
         }
-      ]
+      ],
+      "description": "A confident East Coast Scots male in his 40s with native fluency in French, German, and Italian alongside English, offering rare multilingual depth for international campaigns."
     },
     {
       "name": "David Gallagher",
@@ -11237,7 +11381,7 @@
           "trackId": "725132557"
         }
       ],
-      "description": "Rich, assured and gritty. Phenomenal.",
+      "description": "A rich, assured West Coast Scots male in his 40s with a gritty, authoritative quality and a phenomenal delivery across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Gallagher.jpg"
     },
     {
@@ -11265,7 +11409,7 @@
           "trackId": "725114860"
         }
       ],
-      "description": "Clear, friendly and conversational.",
+      "description": "A clear, friendly English male in his 30s with a warm, conversational quality and natural instincts across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Bowie.jpg"
     },
     {
@@ -11294,7 +11438,8 @@
           "trackId": "725008588"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Daren-Adam.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Daren-Adam.jpg",
+      "description": "A warm, natural English RP male in his 30s with a composed, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Daniela Nardini",
@@ -11321,7 +11466,7 @@
           "trackId": "725005228"
         }
       ],
-      "description": "A legend. Strong and confident."
+      "description": "A strong, confident West Coast Scots female in her 30s with a legendary screen presence and a natural, commanding quality in commercial and character work."
     },
     {
       "name": "Daniel Portman",
@@ -11348,7 +11493,7 @@
           "trackId": "725002348"
         }
       ],
-      "description": "Edgy, streetwise and very much in demand.",
+      "description": "An edgy, streetwise West Coast Scots male in his 20s with a contemporary quality and real demand across corporate and documentary work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Daniel-Portman.jpg"
     },
     {
@@ -11376,7 +11521,8 @@
           "trackId": "724988842"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Craig-Jamieson.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Craig-Jamieson.jpg",
+      "description": "A natural, engaging West Coast Scots male in his 30s with a warm, confident delivery across e-learning and commercial briefs."
     },
     {
       "name": "Crawford Logan",
@@ -11404,7 +11550,7 @@
           "trackId": "724987342"
         }
       ],
-      "description": "A Radio legend. Great range of voices.",
+      "description": "A radio legend in his 40s with an extraordinary range of voices and a warm, authoritative quality honed across decades of broadcast and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Crawford-Logan.jpg"
     },
     {
@@ -11433,7 +11579,7 @@
           "trackId": "724985947"
         }
       ],
-      "description": "Casual, friendly voice with a wide range."
+      "description": "A casual, friendly East Coast Scots male in his 30s with a wide range and a natural, warm quality across documentary and e-learning content."
     },
     {
       "name": "Clare Waugh",
@@ -11460,11 +11606,11 @@
           "trackId": "724983070"
         }
       ],
-      "description": "Great energy combined with flexibility.",
+      "description": "A high-energy East Coast Scots female in her 30s with great flexibility and a natural, warm quality across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Claire-Waugh.jpg"
     },
     {
-      "name": "Clare O’Donnell",
+      "name": "Clare O\u2019Donnell",
       "accent": "Scottish West Coast",
       "gender": "female",
       "age": null,
@@ -11516,7 +11662,7 @@
           "trackId": "724979671"
         }
       ],
-      "description": "Streetwise, youthful and slightly husky.",
+      "description": "A streetwise, slightly husky East Coast Scots female in her 20s with a contemporary, confident quality well suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Claire-Dargo.jpg"
     },
     {
@@ -11544,7 +11690,7 @@
           "trackId": "724975648"
         }
       ],
-      "description": "Really nice young voice. Laid back to hard hitting.",
+      "description": "A laid-back young East Coast Scots male with a natural range from conversational to hard-hitting and real potential across commercial and corporate work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Cristian-Ortega.jpg"
     },
     {
@@ -11572,7 +11718,7 @@
           "trackId": "724970008"
         }
       ],
-      "description": "Authoritative, rich and dependable."
+      "description": "An authoritative, rich East Coast Scots male in his 30s with a dependable, measured quality well suited to documentary and e-learning narration."
     },
     {
       "name": "Chris Duffy",
@@ -11599,7 +11745,7 @@
           "trackId": "724968472"
         }
       ],
-      "description": "Light, quirky and approachable. A bit of East End magic.",
+      "description": "A light, quirky English Southern male in his 30s with a warm, approachable quality and a touch of East End character across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Chris-Duffy.jpg"
     },
     {
@@ -11627,7 +11773,7 @@
           "trackId": "724965040"
         }
       ],
-      "description": "Gritty, gravelly with a touch of Ken Stott.",
+      "description": "A gritty, gravelly West Coast Scots male in his 40s with a commanding presence and a quality that evokes the best of Scottish character acting.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Charles-Donnelly.jpg"
     },
     {
@@ -11655,7 +11801,7 @@
           "trackId": "724961458"
         }
       ],
-      "description": "Smiley and bright with loads of empathy."
+      "description": "A smiley, bright East Coast Scots female in her 20s with real empathy and a warm, natural quality well suited to health and consumer campaigns."
     },
     {
       "name": "Carolyn Konrad",
@@ -11682,7 +11828,7 @@
           "trackId": "724952053"
         }
       ],
-      "description": "Husky, warm and natural."
+      "description": "A husky, warm West Coast Scots female in her 30s with a natural, honest quality across commercial and corporate content."
     },
     {
       "name": "Caroline Mackechnie",
@@ -11709,7 +11855,7 @@
           "trackId": "724942792"
         }
       ],
-      "description": "Straight talking and factual. Great for corporates."
+      "description": "A straight-talking, factual East Coast Scots female in her 30s with a clear, grounded delivery particularly suited to corporate and public sector briefs."
     },
     {
       "name": "Carole Clarke",
@@ -11749,7 +11895,7 @@
           "trackId": "2072731584"
         }
       ],
-      "description": "Assured, natural and polished.",
+      "description": "An assured, natural English RP female in her 40s with a polished, flexible delivery and real experience including Scottish Mortgages, Edinburgh Business School, and Lloyds.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Carole-Clarke.jpg"
     },
     {
@@ -11777,7 +11923,7 @@
           "trackId": "724934722"
         }
       ],
-      "description": "Gritty, characterful West coaster.",
+      "description": "A gritty, characterful West Coast Scots female in her 30s with a raw, authentic quality and real instincts across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Carmen-Pieraccini.jpg"
     },
     {
@@ -11805,10 +11951,10 @@
           "trackId": "724932838"
         }
       ],
-      "description": "Characterful, quirky and fun."
+      "description": "A characterful, quirky West Coast Scots male in his 30s with real fun and a natural, engaging delivery across e-learning and commercial briefs."
     },
     {
-      "name": "Brian James O’Sullivan",
+      "name": "Brian James O\u2019Sullivan",
       "accent": "Scottish West Coast",
       "gender": "male",
       "age": null,
@@ -11832,7 +11978,8 @@
           "trackId": "724924672"
         }
       ],
-      "image": "https://www.redfacilities.com/wp-content/uploads/2019/12/BrianSullivan.jpg.webp"
+      "image": "https://www.redfacilities.com/wp-content/uploads/2019/12/BrianSullivan.jpg.webp",
+      "description": "A warm, natural West Coast Scots male with a friendly, engaging quality and solid instincts across commercial and corporate work."
     },
     {
       "name": "Brian Cowan",
@@ -11858,7 +12005,8 @@
           "label": "Commercial Reel",
           "trackId": "724919266"
         }
-      ]
+      ],
+      "description": "A confident East Coast Scots male in his 40s with a warm, natural quality across documentary and e-learning content."
     },
     {
       "name": "Blanche Anderson",
@@ -11893,7 +12041,8 @@
           "trackId": "1885472295"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Blanche-Anderson.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Blanche-Anderson.jpg",
+      "description": "A natural East Coast Scots female in her 20s with real range including corporate, English accent, and character work across commercial briefs."
     },
     {
       "name": "Billy Mack",
@@ -11919,7 +12068,8 @@
           "label": "Commercial Reel",
           "trackId": "724914190"
         }
-      ]
+      ],
+      "description": "An experienced English Southern male in his 40s with a warm, measured quality across corporate and documentary content."
     },
     {
       "name": "Beth Marshall",
@@ -11946,11 +12096,11 @@
           "trackId": "723715885"
         }
       ],
-      "description": "Thoroughly engaging and sincere."
+      "description": "A thoroughly engaging, sincere East Coast Scots female in her 30s with a natural, warm quality well suited to e-learning and commercial briefs."
     },
     {
       "name": "Beth Frieden",
-      "accent": "American · Gaelic",
+      "accent": "American \u00b7 Gaelic",
       "gender": "female",
       "age": "20s",
       "accentGroup": [
@@ -11978,7 +12128,7 @@
           "trackId": "723715084"
         }
       ],
-      "description": "Super bright young voice. Beth is a fluent Gaelic speaker too.",
+      "description": "A super bright young American female with fluent Gaelic as well as English, bringing a distinctive, bilingual quality to commercial and public sector campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Beth-Frieden.jpg"
     },
     {
@@ -12007,7 +12157,8 @@
           "trackId": "723713707"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ben-Howarth.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ben-Howarth.jpg",
+      "description": "A natural East Coast Scots male with a warm, engaging quality across documentary and e-learning content."
     },
     {
       "name": "Ben Clifford",
@@ -12034,7 +12185,7 @@
           "trackId": "723711583"
         }
       ],
-      "description": "Clear, natural and confident.",
+      "description": "A clear, natural East Coast Scots male in his 20s with a confident, fresh quality well suited to commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ben-Clifford.jpg"
     },
     {
@@ -12062,12 +12213,12 @@
           "trackId": "723710650"
         }
       ],
-      "description": "Approchable & flexible westcoaster.",
+      "description": "An approachable, flexible West Coast Scots female in her 30s with a warm, natural quality across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Barbara-Watt.jpg"
     },
     {
       "name": "Axel Pech",
-      "accent": "Scottish · French",
+      "accent": "Scottish \u00b7 French",
       "gender": "male",
       "age": "20s",
       "accentGroup": [],
@@ -12088,7 +12239,7 @@
           "trackId": "723708430"
         }
       ],
-      "description": "Cool and confident.",
+      "description": "A cool, confident Scots-French male in his 20s with a natural bilingual delivery across e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Axel-Pech.jpg"
     },
     {
@@ -12115,7 +12266,8 @@
           "label": "Commercial Reel",
           "trackId": "723707023"
         }
-      ]
+      ],
+      "description": "A fresh, natural West Coast Scots female in her 20s with a warm, engaging quality across commercial and corporate work."
     },
     {
       "name": "Arlene Stuart",
@@ -12142,7 +12294,8 @@
           "trackId": "723706435"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Arlene-Stuart.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Arlene-Stuart.jpg",
+      "description": "A clear, natural North East Scots female in her 30s with a warm, confident delivery across documentary and e-learning content."
     },
     {
       "name": "Antony Strachan",
@@ -12169,7 +12322,7 @@
           "trackId": "723705379"
         }
       ],
-      "description": "Confident, real and lively. Lovely undersold deliveries too.",
+      "description": "A confident, lively East Coast Scots male in his 30s with real instincts and a lovely understated delivery that makes him particularly effective in commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Antony-Strachan.jpg"
     },
     {
@@ -12197,7 +12350,7 @@
           "trackId": "723704359"
         }
       ],
-      "description": "Characterful, warm and rich.",
+      "description": "A characterful, warm East Coast Scots female in her 50s with a rich, mature quality and real depth across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Anne-Kidd.jpg"
     },
     {
@@ -12225,10 +12378,11 @@
           "trackId": "723703189"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Anna-Hepburn.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Anna-Hepburn.jpg",
+      "description": "A warm, experienced East Coast Scots female in her 50s with a natural, composed quality across e-learning and commercial work."
     },
     {
-      "name": "Ann O’Neill",
+      "name": "Ann O\u2019Neill",
       "accent": "Irish Southern",
       "gender": "female",
       "age": null,
@@ -12280,7 +12434,8 @@
           "trackId": "723699613"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ann-Heavens.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ann-Heavens.jpg",
+      "description": "A warm, experienced Northern English female in her 40s with a grounded, natural quality across documentary and e-learning content."
     },
     {
       "name": "Angela Ness",
@@ -12315,7 +12470,7 @@
           "trackId": "1282542418"
         }
       ],
-      "description": "Natural, clear and educated.",
+      "description": "A natural, clear Scots female in her 30s with an educated, confident quality and real range across commercial, animation, and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Angela-Ness.jpg"
     },
     {
@@ -12343,7 +12498,7 @@
           "trackId": "723692047"
         }
       ],
-      "description": "Direct, factual and clear voice. Radio 4 style."
+      "description": "A direct, factual English RP female in her 40s with a composed, authoritative quality in the Radio 4 tradition, suited to corporate and documentary briefs."
     },
     {
       "name": "Angela Darcy",
@@ -12370,7 +12525,7 @@
           "trackId": "723691231"
         }
       ],
-      "description": "Youthful and cheeky.",
+      "description": "A youthful, cheeky West Coast Scots female in her 20s with a natural, fun quality well suited to e-learning and consumer campaigns.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Angela-Darcy.jpg"
     },
     {
@@ -12398,7 +12553,7 @@
           "trackId": "723690703"
         }
       ],
-      "description": "Well spoken and appealing.",
+      "description": "A well-spoken, appealing Northern Irish female in her 30s with a warm, natural quality across commercial and corporate content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Angela-Campbell.jpg"
     },
     {
@@ -12426,7 +12581,7 @@
           "trackId": "723689548"
         }
       ],
-      "description": "Really friendly and warm Northern voice. Lovely.",
+      "description": "A really friendly, warm Northern English male in his 40s with a natural, genuine quality that producers and clients love. Lovely.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andy-Vincent.jpg"
     },
     {
@@ -12454,7 +12609,7 @@
           "trackId": "723688453"
         }
       ],
-      "description": "Rich, gritty and trustworthy. Great TV Actor.",
+      "description": "A rich, gritty, trustworthy East Coast Scots male in his 30s with a natural authority and real screen presence across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andy-Clark.jpg"
     },
     {
@@ -12482,7 +12637,8 @@
           "trackId": "723686941"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Watson.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Watson.jpg",
+      "description": "A warm, natural East Coast Scots male in his 30s with a confident, engaging quality across corporate and documentary briefs."
     },
     {
       "name": "Andrew Keay",
@@ -12521,7 +12677,7 @@
           "trackId": "1043007610"
         }
       ],
-      "description": "Bright, fun and full of energy",
+      "description": "A bright, fun East Coast Scots male in his 20s with real energy and solid range across animation, gaming, accents, and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Keay.jpg"
     },
     {
@@ -12549,7 +12705,7 @@
           "trackId": "723682993"
         }
       ],
-      "description": "Fresh, sparky young voice.",
+      "description": "A fresh, sparky East Coast Scots male in his 20s with a bright, natural quality and real commercial instincts.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Hally.jpg"
     },
     {
@@ -12577,7 +12733,7 @@
           "trackId": "723682177"
         }
       ],
-      "description": "Natural and down to earth.",
+      "description": "A natural, down-to-earth East Coast Scots male in his 30s with a grounded, honest delivery well suited to documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Forbes.jpg"
     },
     {
@@ -12605,7 +12761,8 @@
           "trackId": "723681487"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Coltart.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-Coltart.jpg",
+      "description": "A warm, characterful East Coast Scots male in his 30s with natural instincts across commercial and character briefs."
     },
     {
       "name": "Amy Drummond",
@@ -12644,7 +12801,7 @@
           "trackId": "936411937"
         }
       ],
-      "description": "Bright, bouncy and friendly.",
+      "description": "A bright, bouncy East Coast Scots female in her 20s with impressive range across Scottish RP, corporate, and narration reels.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Amy-Drummond.jpg"
     },
     {
@@ -12672,7 +12829,7 @@
           "trackId": "723667081"
         }
       ],
-      "description": "Friendly, straight talking & down to earth.",
+      "description": "A friendly, straight-talking East Coast Scots male in his 30s with a down-to-earth, honest quality across e-learning and commercial work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alistair-Hill.jpg"
     },
     {
@@ -12700,7 +12857,7 @@
           "trackId": "723665632"
         }
       ],
-      "description": "Rich, dynamic and down to earth."
+      "description": "A rich, dynamic West Coast Scots female in her 30s with a grounded, real quality and natural authority across commercial and corporate content."
     },
     {
       "name": "Ali Mcfarlane",
@@ -12727,7 +12884,7 @@
           "trackId": "723664549"
         }
       ],
-      "description": "Bright, lively voice with real passion.",
+      "description": "A bright, lively East Coast Scots female in her 20s with real passion and a natural, engaging quality across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ali-McFarlane.jpg"
     },
     {
@@ -12755,7 +12912,7 @@
           "trackId": "723662785"
         }
       ],
-      "description": "Husky, smooth and mature.",
+      "description": "A husky, smooth North East Scots female in her 30s with a mature, warm quality and natural instincts across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alison-Craig.jpg"
     },
     {
@@ -12783,7 +12940,7 @@
           "trackId": "723661090"
         }
       ],
-      "description": "Bright and lively young voice.",
+      "description": "A bright, lively young East Coast Scots female with a natural, engaging quality well suited to corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alexis-Graham.jpg"
     },
     {
@@ -12811,7 +12968,8 @@
           "trackId": "723640363"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/AlexFthenakis.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/AlexFthenakis.jpg",
+      "description": "A fresh, natural American male in his 20s with a clear, confident quality across e-learning and commercial work."
     },
     {
       "name": "Alec Westwood",
@@ -12838,7 +12996,7 @@
           "trackId": "723635401"
         }
       ],
-      "description": "Great character & straight reads.",
+      "description": "A strong North East Scots male in his 30s with great character and straight reads and a warm, dependable quality.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alec-Westwood.jpg"
     },
     {
@@ -12866,7 +13024,7 @@
           "trackId": "723633148"
         }
       ],
-      "description": "Confident, intelligent and versatile.",
+      "description": "A confident, intelligent East Coast Scots female in her 20s with a natural, articulate quality across documentary and e-learning content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Aldis-Hamilton.jpg"
     },
     {
@@ -12894,7 +13052,7 @@
           "trackId": "723629797"
         }
       ],
-      "description": "Bright, cheerful and really enthusiastic.",
+      "description": "A bright, cheerful East Coast Scots male in his 20s with real enthusiasm and a natural, engaging quality across commercial and character work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alistair-Bruce.jpg"
     },
     {
@@ -12922,7 +13080,7 @@
           "trackId": "723628255"
         }
       ],
-      "description": "Quirky, wholesome and really interesting."
+      "description": "A quirky, wholesome West Country male in his 40s with a genuinely interesting, warm quality and real range across corporate and documentary content."
     },
     {
       "name": "Adam Moore",
@@ -12949,7 +13107,7 @@
           "trackId": "723624202"
         }
       ],
-      "description": "Sharp, confident & enthusiastic.",
+      "description": "A sharp, confident Northern Irish male in his 20s with an enthusiastic, natural delivery well suited to e-learning and commercial briefs.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Adam-Moore.jpg"
     },
     {
@@ -13001,7 +13159,8 @@
           "trackId": "720289432"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg",
+      "description": "A warm, authoritative Scottish male in his 50s with a wide-ranging voice and real depth across commercials, narration, game trailers, Irish accents, and e-learning."
     }
   ]
 }

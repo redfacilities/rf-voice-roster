@@ -2152,8 +2152,8 @@
       "gender": "female",
       "age": "20s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
@@ -2184,7 +2184,8 @@
           "trackId": "1339935373"
         }
       ],
-      "description": "Cycling Scotland, Moju, Department of Magic — Georgia-Lee's East Coast energy goes anywhere. Bright, capable, and full of it."
+      "description": "Cycling Scotland, Moju, Department of Magic — Georgia-Lee's East Coast energy goes anywhere. Bright, capable, and full of it.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Georgia-Lee-Roberts.jpg"
     },
     {
       "name": "Craig Telfer",

@@ -6072,12 +6072,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -6085,7 +6085,8 @@
           "trackId": "727239268"
         }
       ],
-      "description": "Articulate and wonderfully warm Northern English in her 40s. The kind of naturally engaging quality that commercial and e-learning clients keep coming back for."
+      "description": "Articulate and wonderfully warm Northern English in her 40s. The kind of naturally engaging quality that commercial and e-learning clients keep coming back for.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Natalie-Barrett.jpg"
     },
     {
       "name": "Naomi Cornwall",

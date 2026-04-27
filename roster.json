@@ -2365,11 +2365,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -2389,7 +2391,8 @@
           "trackId": "1212703345"
         }
       ],
-      "description": "Young East Coast Scots male with public sector credentials already — Cycling Scotland, SNBTS, and narrative explainer work. Clear and engaging."
+      "description": "Young East Coast Scots male with public sector credentials already — Cycling Scotland, SNBTS, and narrative explainer work. Clear and engaging.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Dawoud.jpg"
     },
     {
       "name": "Adrienna Zitt",

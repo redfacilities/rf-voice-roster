@@ -3052,11 +3052,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -3064,7 +3066,8 @@
           "trackId": "871060411"
         }
       ],
-      "description": "Natural West Coast Scots male with a clean, engaging delivery and solid documentary and e-learning instincts."
+      "description": "Natural West Coast Scots male with a clean, engaging delivery and solid documentary and e-learning instincts.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Andrew-McIntosh.jpg"
     },
     {
       "name": "Martin McCormick",

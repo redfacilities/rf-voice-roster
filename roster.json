@@ -213,7 +213,8 @@
         "scottish"
       ],
       "languages": [
-        "english"
+        "english",
+        "gaelic"
       ],
       "genres": [
         "documentary",
@@ -330,10 +331,13 @@
       "gender": "female",
       "age": "20s",
       "accentGroup": [
-        "american"
+        "american",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "german",
+        "polish"
       ],
       "genres": [
         "elearning",
@@ -490,7 +494,8 @@
         "international"
       ],
       "languages": [
-        "icelandic"
+        "icelandic",
+        "english"
       ],
       "genres": [
         "corporate",
@@ -1547,7 +1552,8 @@
         "scottish"
       ],
       "languages": [
-        "english"
+        "english",
+        "danish"
       ],
       "genres": [
         "corporate",
@@ -1927,7 +1933,8 @@
       "gender": "female",
       "age": "30s",
       "accentGroup": [
-        "scottish"
+        "scottish",
+        "international"
       ],
       "languages": [
         "french"
@@ -2034,7 +2041,8 @@
         "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "french"
       ],
       "genres": [
         "commercial",
@@ -2413,10 +2421,12 @@
       "gender": "female",
       "age": "30s",
       "accentGroup": [
-        "english"
+        "english",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "french"
       ],
       "genres": [
         "commercial",
@@ -2477,7 +2487,8 @@
         "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "japanese"
       ],
       "genres": [
         "elearning",
@@ -3720,10 +3731,13 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "scottish"
+        "scottish",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "spanish",
+        "gaelic"
       ],
       "genres": [
         "corporate",
@@ -4337,7 +4351,9 @@
       "accent": "Scottish · Spanish",
       "gender": "female",
       "age": "40s",
-      "accentGroup": [],
+      "accentGroup": [
+        "international"
+      ],
       "languages": [
         "spanish"
       ],
@@ -4831,10 +4847,12 @@
       "age": "50s",
       "accentGroup": [
         "english",
-        "scottish"
+        "scottish",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "german"
       ],
       "genres": [
         "commercial",
@@ -5261,7 +5279,9 @@
       "accent": "Scottish · French",
       "gender": "male",
       "age": "60s",
-      "accentGroup": [],
+      "accentGroup": [
+        "international"
+      ],
       "languages": [
         "french"
       ],
@@ -6703,7 +6723,9 @@
         "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "german",
+        "icelandic"
       ],
       "genres": [
         "elearning",
@@ -7582,7 +7604,9 @@
       "accent": "Scottish · Spanish",
       "gender": "male",
       "age": "40s",
-      "accentGroup": [],
+      "accentGroup": [
+        "international"
+      ],
       "languages": [
         "spanish"
       ],
@@ -8999,7 +9023,8 @@
         "scottish"
       ],
       "languages": [
-        "english"
+        "english",
+        "gaelic"
       ],
       "genres": [
         "elearning",
@@ -10089,7 +10114,9 @@
       "accent": "Scottish · French",
       "gender": "female",
       "age": "40s",
-      "accentGroup": [],
+      "accentGroup": [
+        "international"
+      ],
       "languages": [
         "french"
       ],
@@ -10321,10 +10348,12 @@
       "age": "50s",
       "accentGroup": [
         "english",
-        "scottish"
+        "scottish",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "french"
       ],
       "genres": [
         "commercial",
@@ -11693,10 +11722,12 @@
       "age": "30s",
       "accentGroup": [
         "american",
-        "international"
+        "international",
+        "scottish"
       ],
       "languages": [
-        "english"
+        "english",
+        "gaelic"
       ],
       "genres": [
         "commercial",
@@ -11808,7 +11839,9 @@
       "accent": "Scottish · French",
       "gender": "male",
       "age": "30s",
-      "accentGroup": [],
+      "accentGroup": [
+        "international"
+      ],
       "languages": [
         "french"
       ],

@@ -3737,16 +3737,18 @@
       ],
       "languages": [
         "english",
-        "spanish",
-        "gaelic"
+        "gaelic",
+        "spanish"
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -3758,7 +3760,8 @@
           "trackId": "728632114"
         }
       ],
-      "description": "Fluent Spanish and Gaelic speaker with East Coast Scots English alongside — three languages in one voice artist is genuinely unusual."
+      "description": "Fluent Spanish and Gaelic speaker with East Coast Scots English alongside — three languages in one voice artist is genuinely unusual.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tony-Kearney.jpg"
     },
     {
       "name": "Tony Cownie",

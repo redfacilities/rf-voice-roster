@@ -7977,12 +7977,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -7990,7 +7990,8 @@
           "trackId": "726183007"
         }
       ],
-      "description": "Gravelly North West Scots in his 50s with a commanding presence and a voice particularly well suited to sports and entertainment briefs."
+      "description": "Gravelly North West Scots in his 50s with a commanding presence and a voice particularly well suited to sports and entertainment briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Hannibal.jpg"
     },
     {
       "name": "John Cugley",

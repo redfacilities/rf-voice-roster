@@ -3611,8 +3611,8 @@
       "gender": "female",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
@@ -3631,7 +3631,8 @@
           "trackId": "728633815"
         }
       ],
-      "description": "Polished English RP female with a natural warmth and assured delivery across commercial and corporate briefs."
+      "description": "Polished English RP female with a natural warmth and assured delivery across commercial and corporate briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tracy-Wiles.jpg"
     },
     {
       "name": "Tonya Macari",

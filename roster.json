@@ -11201,6 +11201,34 @@
       "description": "Natural East Coast Scots female in her 40s with a clear, confident quality across corporate and documentary content."
     },
     {
+      "name": "David Monteath",
+      "accent": "English RP",
+      "gender": "male",
+      "age": "40s",
+      "accentGroup": [
+        "english",
+        "scottish"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "elearning",
+        "commercial"
+      ],
+      "genreLabels": [
+        "E-Learning",
+        "Commercial"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": "725164330"
+        }
+      ],
+      "description": "Warm English RP in his 40s with a natural, composed delivery across e-learning and commercial work."
+    },
+    {
       "name": "David McCallion",
       "accent": "Scottish West Coast",
       "gender": "male",
@@ -13091,31 +13119,6 @@
       ],
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg",
       "description": "Warm Scottish male in his 50s with a wide-ranging voice and serious depth — commercials, narration, game trailers, Irish accents, and e-learning all covered."
-    },
-    {
-      "name": "David Monteath",
-      "accent": "Scottish, Egnlish",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish",
-        "english"
-      ],
-      "languages": [],
-      "genres": [
-        "commercial"
-      ],
-      "genreLabels": [
-        "Commercial"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "253A725164330"
-        }
-      ],
-      "description": "",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Monteath.jpg"
     }
   ]
 }

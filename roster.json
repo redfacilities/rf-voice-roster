@@ -6543,31 +6543,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Marcus-Hutton.jpg"
     },
     {
-      "name": "Magali Henchoz",
-      "accent": "Scottish · French",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [],
-      "languages": [
-        "french"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "French Reel",
-          "trackId": "726849985"
-        }
-      ],
-      "description": "Bright and husky with a real Scots-French delight. French reel available alongside her English work — a genuine bilingual treat."
-    },
-    {
       "name": "Luke Houston",
       "accent": "Scottish East Coast",
       "gender": "male",

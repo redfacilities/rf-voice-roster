@@ -7759,33 +7759,6 @@
       "description": "Fresh West Coast Scots in his 30s with a clear, engaging quality across documentary and e-learning work."
     },
     {
-      "name": "John Sherman",
-      "accent": "English Southern",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "english"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "character"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Character"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726195250"
-        }
-      ],
-      "description": "Smooth English Southern in his 40s with a clear, interesting quality across commercial and character work."
-    },
-    {
       "name": "John Scougall",
       "accent": "Scottish West Coast",
       "gender": "male",

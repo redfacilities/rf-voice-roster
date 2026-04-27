@@ -5675,12 +5675,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -5688,7 +5688,8 @@
           "trackId": "727250752"
         }
       ],
-      "description": "Sunny West Coast Scots female in her 40s with a warm, natural quality and easy commercial appeal."
+      "description": "Sunny West Coast Scots female in her 40s with a warm, natural quality and easy commercial appeal.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Pamela-Byrne.jpg"
     },
     {
       "name": "Norma Henderson",

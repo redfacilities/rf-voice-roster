@@ -11201,35 +11201,6 @@
       "description": "Natural East Coast Scots female in her 40s with a clear, confident quality across corporate and documentary content."
     },
     {
-      "name": "David Monteath",
-      "accent": "English RP",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish",
-        "english"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725164330"
-        }
-      ],
-      "description": "Warm English RP in his 40s with a natural, composed delivery across e-learning and commercial work.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Monteath.jpg"
-    },
-    {
       "name": "David McCallion",
       "accent": "Scottish West Coast",
       "gender": "male",

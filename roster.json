@@ -11669,11 +11669,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -11681,7 +11683,8 @@
           "trackId": "724942792"
         }
       ],
-      "description": "Straight-talking East Coast Scots female in her 40s with a clear, factual delivery particularly suited to corporate and public sector briefs."
+      "description": "Straight-talking East Coast Scots female in her 40s with a clear, factual delivery particularly suited to corporate and public sector briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Caroline-Mackechnie.jpg"
     },
     {
       "name": "Carole Clarke",

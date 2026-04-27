@@ -9574,33 +9574,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hazel-Beattie.jpg"
     },
     {
-      "name": "Hayley Matthews",
-      "accent": "Scottish East Coast",
-      "gender": "female",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "character"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Character"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725698309"
-        }
-      ],
-      "description": "Warm East Coast Scots female in her 40s with an engaging, characterful quality across commercial and character work."
-    },
-    {
       "name": "Hamish Wyllie",
       "accent": "Scottish North East",
       "gender": "male",

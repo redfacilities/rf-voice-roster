@@ -8673,12 +8673,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -8686,7 +8686,8 @@
           "trackId": "725715550"
         }
       ],
-      "description": "Natural East Coast Scots in his 40s with a confident, contemporary delivery across e-learning and commercial work."
+      "description": "Natural East Coast Scots in his 40s with a confident, contemporary delivery across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jack-Kerr.jpg"
     },
     {
       "name": "Isolde James-Griffiths",

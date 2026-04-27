@@ -4320,33 +4320,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sophia-Mclean.jpg"
     },
     {
-      "name": "Siobahn Wyman",
-      "accent": "Scottish East Coast",
-      "gender": "female",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728613547"
-        }
-      ],
-      "description": "Delightfully natural and slightly husky East Coast Scots female in her 50s. The kind of warmth that makes corporate content feel human."
-    },
-    {
       "name": "Silvia Garcia Martinez",
       "accent": "Scottish · Spanish",
       "gender": "female",

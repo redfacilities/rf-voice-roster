@@ -8027,11 +8027,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -8039,7 +8041,8 @@
           "trackId": "726171988"
         }
       ],
-      "description": "Natural West Coast Scots female in her 30s with a warm, engaging quality across documentary and e-learning work."
+      "description": "Natural West Coast Scots female in her 30s with a warm, engaging quality across documentary and e-learning work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jo-Freer.jpg"
     },
     {
       "name": "Jo Cameron Brown",

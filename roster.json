@@ -11725,12 +11725,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -11738,7 +11738,8 @@
           "trackId": "724932838"
         }
       ],
-      "description": "Quirky and fun West Coast Scots in his 40s with a characterful, engaging delivery across e-learning and commercial work."
+      "description": "Quirky and fun West Coast Scots in his 40s with a characterful, engaging delivery across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Cameron-McGarva.jpg"
     },
     {
       "name": "Brian James O’Sullivan",

@@ -4010,33 +4010,6 @@
       "description": "Clear East Coast Scots female in her 40s with a confident, natural quality across e-learning and commercial briefs."
     },
     {
-      "name": "Sue Hardgrave",
-      "accent": "Australian",
-      "gender": "female",
-      "age": "40s",
-      "accentGroup": [
-        "international"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728624344"
-        }
-      ],
-      "description": "Warm Australian female in her 40s with a natural, contemporary quality and solid commercial and corporate instincts."
-    },
-    {
       "name": "Stuart Hepburn",
       "accent": "Scottish East Coast Fife",
       "gender": "male",

@@ -4746,15 +4746,17 @@
       "languages": [],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg",
-      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work."
+      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg"
     },
     {
       "name": "Ruth Connell",

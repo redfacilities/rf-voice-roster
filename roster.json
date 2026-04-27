@@ -3436,11 +3436,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -3448,7 +3450,8 @@
           "trackId": "729098074"
         }
       ],
-      "description": "Clear East Coast Scots female in her 40s with a warm, engaging delivery well suited to corporate and documentary content."
+      "description": "Clear East Coast Scots female in her 40s with a warm, engaging delivery well suited to corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Wendy-Lap.jpg"
     },
     {
       "name": "Wendy Barrett",

@@ -1836,11 +1836,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -1848,7 +1850,7 @@
           "trackId": "1489759075"
         },
         {
-          "label": "Charater Reel",
+          "label": "Character Reel",
           "trackId": "1489759117"
         },
         {
@@ -1856,7 +1858,8 @@
           "trackId": "1489759030"
         }
       ],
-      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything."
+      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything.",
+      "image": ""
     },
     {
       "name": "Matthew McKenna",

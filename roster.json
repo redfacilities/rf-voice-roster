@@ -11649,12 +11649,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -11662,7 +11662,8 @@
           "trackId": "723715885"
         }
       ],
-      "description": "Thoroughly engaging and sincere East Coast Scots female in her 40s — natural warmth and a genuine quality across e-learning and commercial work."
+      "description": "Thoroughly engaging and sincere East Coast Scots female in her 40s — natural warmth and a genuine quality across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Beth-Marshall.jpg"
     },
     {
       "name": "Beth Frieden",

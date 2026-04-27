@@ -213,8 +213,7 @@
         "scottish"
       ],
       "languages": [
-        "english",
-        "gaelic"
+        "english"
       ],
       "genres": [
         "documentary",
@@ -331,13 +330,10 @@
       "gender": "female",
       "age": "20s",
       "accentGroup": [
-        "american",
-        "international"
+        "american"
       ],
       "languages": [
-        "english",
-        "german",
-        "polish"
+        "english"
       ],
       "genres": [
         "elearning",
@@ -1551,8 +1547,7 @@
         "scottish"
       ],
       "languages": [
-        "english",
-        "danish"
+        "english"
       ],
       "genres": [
         "corporate",
@@ -1932,8 +1927,7 @@
       "gender": "female",
       "age": "30s",
       "accentGroup": [
-        "scottish",
-        "international"
+        "scottish"
       ],
       "languages": [
         "french"
@@ -2040,8 +2034,7 @@
         "international"
       ],
       "languages": [
-        "english",
-        "french"
+        "english"
       ],
       "genres": [
         "commercial",
@@ -2251,7 +2244,7 @@
       "description": "Experienced East Coast Scots male in his 40s with strong commercial instincts and a confident, characterful delivery that producers trust."
     },
     {
-      "name": "Scott Meridrew",
+      "name": "Scott Meridew",
       "accent": "English RP",
       "gender": "male",
       "age": "30s",
@@ -2263,11 +2256,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -2287,7 +2282,8 @@
           "trackId": "1270578013"
         }
       ],
-      "description": "Polished English RP with Mercedes, Space X, and Cycling Scotland on his credits. Smooth, authoritative, and at home across corporate and documentary work."
+      "description": "Polished English RP with Mercedes, Space X, and Cycling Scotland on his credits. Smooth, authoritative, and at home across corporate and documentary work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Scott-Meridew.jpg"
     },
     {
       "name": "Bella Thewes",
@@ -2417,12 +2413,10 @@
       "gender": "female",
       "age": "30s",
       "accentGroup": [
-        "english",
-        "international"
+        "english"
       ],
       "languages": [
-        "english",
-        "french"
+        "english"
       ],
       "genres": [
         "commercial",
@@ -2483,8 +2477,7 @@
         "international"
       ],
       "languages": [
-        "english",
-        "japanese"
+        "english"
       ],
       "genres": [
         "elearning",
@@ -3727,13 +3720,10 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "scottish",
-        "international"
+        "scottish"
       ],
       "languages": [
-        "english",
-        "spanish",
-        "gaelic"
+        "english"
       ],
       "genres": [
         "corporate",
@@ -4347,9 +4337,7 @@
       "accent": "Scottish · Spanish",
       "gender": "female",
       "age": "40s",
-      "accentGroup": [
-        "international"
-      ],
+      "accentGroup": [],
       "languages": [
         "spanish"
       ],
@@ -4843,12 +4831,10 @@
       "age": "50s",
       "accentGroup": [
         "english",
-        "scottish",
-        "international"
+        "scottish"
       ],
       "languages": [
-        "english",
-        "german"
+        "english"
       ],
       "genres": [
         "commercial",
@@ -5275,9 +5261,7 @@
       "accent": "Scottish · French",
       "gender": "male",
       "age": "60s",
-      "accentGroup": [
-        "international"
-      ],
+      "accentGroup": [],
       "languages": [
         "french"
       ],
@@ -7598,9 +7582,7 @@
       "accent": "Scottish · Spanish",
       "gender": "male",
       "age": "40s",
-      "accentGroup": [
-        "international"
-      ],
+      "accentGroup": [],
       "languages": [
         "spanish"
       ],
@@ -9017,8 +8999,7 @@
         "scottish"
       ],
       "languages": [
-        "english",
-        "gaelic"
+        "english"
       ],
       "genres": [
         "elearning",
@@ -10108,9 +10089,7 @@
       "accent": "Scottish · French",
       "gender": "female",
       "age": "40s",
-      "accentGroup": [
-        "international"
-      ],
+      "accentGroup": [],
       "languages": [
         "french"
       ],
@@ -10342,12 +10321,10 @@
       "age": "50s",
       "accentGroup": [
         "english",
-        "scottish",
-        "international"
+        "scottish"
       ],
       "languages": [
-        "english",
-        "french"
+        "english"
       ],
       "genres": [
         "commercial",
@@ -11716,12 +11693,10 @@
       "age": "30s",
       "accentGroup": [
         "american",
-        "international",
-        "scottish"
+        "international"
       ],
       "languages": [
-        "english",
-        "gaelic"
+        "english"
       ],
       "genres": [
         "commercial",
@@ -11833,9 +11808,7 @@
       "accent": "Scottish · French",
       "gender": "male",
       "age": "30s",
-      "accentGroup": [
-        "international"
-      ],
+      "accentGroup": [],
       "languages": [
         "french"
       ],

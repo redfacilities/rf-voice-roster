@@ -5621,34 +5621,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Pamela-Byrne.jpg"
     },
     {
-      "name": "Norma Henderson",
-      "accent": "English RP",
-      "gender": "female",
-      "age": "60s",
-      "accentGroup": [
-        "english",
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "727248619"
-        }
-      ],
-      "description": "Mature English RP female in her 60s with a composed, authoritative quality well suited to corporate and premium consumer work."
-    },
-    {
       "name": "Noreen Leighton",
       "accent": "Scottish East Coast",
       "gender": "female",

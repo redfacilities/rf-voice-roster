@@ -11951,33 +11951,6 @@
       "description": "Natural West Coast Scots male with a friendly, warm quality and solid instincts across commercial and corporate content."
     },
     {
-      "name": "Brian Cowan",
-      "accent": "Scottish East Coast",
-      "gender": "male",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "724919266"
-        }
-      ],
-      "description": "Confident East Coast Scots in his 50s with a natural quality across documentary and e-learning content."
-    },
-    {
       "name": "Blanche Anderson",
       "accent": "Scottish East Coast",
       "gender": "female",

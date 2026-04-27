@@ -9087,7 +9087,7 @@
       "name": "Henry Walker-Lyon",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": null,
+      "age": "",
       "accentGroup": [
         "scottish"
       ],
@@ -9096,11 +9096,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -9108,8 +9110,8 @@
           "trackId": "1094329609"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Henry-Walker-Lyon.jpg",
-      "description": "Natural East Coast Scots male with a warm, engaging quality across corporate and documentary content."
+      "description": "Natural East Coast Scots male with a warm, engaging quality across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Henry-Walker-Lyon.jpg"
     },
     {
       "name": "Helen Morley",

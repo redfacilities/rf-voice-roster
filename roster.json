@@ -4117,33 +4117,6 @@
       "description": "Gentle, warm, and highly articulate East Coast Scots in his 40s. Natural intelligence in the delivery that works across corporate and documentary."
     },
     {
-      "name": "Stewart Blythe",
-      "accent": "Scottish West Coast",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "elearning",
-        "commercial"
-      ],
-      "genreLabels": [
-        "E-Learning",
-        "Commercial"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728621104"
-        }
-      ],
-      "description": "Natural West Coast Scots in his 40s with an honest, grounded quality and solid commercial and e-learning instincts."
-    },
-    {
       "name": "Stevie Allen",
       "accent": "Scottish East Coast",
       "gender": "male",

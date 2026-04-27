@@ -8391,33 +8391,6 @@
       "description": "Warm East Coast Scots female in her 50s with a natural, engaging quality across commercial and character work."
     },
     {
-      "name": "Jeannie Fisher",
-      "accent": "Scottish West Coast",
-      "gender": "female",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725771956"
-        }
-      ],
-      "description": "Natural West Coast Scots female in her 50s — totally believable accent work and a warm, honest quality across corporate and documentary content."
-    },
-    {
       "name": "Jamie Melrose",
       "accent": "Scottish East Coast",
       "gender": "female",

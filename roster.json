@@ -21,7 +21,7 @@
       ],
       "demos": [
         {
-          "label": "Commercial Reel",
+          "label": "Voiceover Reel Commercial Reel",
           "trackId": "2271691802"
         }
       ],
@@ -945,13 +945,11 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -959,7 +957,7 @@
           "trackId": "1839570021"
         },
         {
-          "label": "Character Read",
+          "label": "Character Rerad",
           "trackId": "1839570027"
         },
         {
@@ -1730,13 +1728,11 @@
       ],
       "genres": [
         "corporate",
-        "documentary",
-        "commercial"
+        "documentary"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary",
-        "Commercial"
+        "Documentary"
       ],
       "demos": [
         {
@@ -1748,7 +1744,7 @@
           "trackId": "1531479082"
         },
         {
-          "label": "Character - SmokeLine",
+          "label": "Charater - Smokline",
           "trackId": "1531479094"
         },
         {
@@ -1836,13 +1832,11 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -1850,7 +1844,7 @@
           "trackId": "1489759075"
         },
         {
-          "label": "Character Reel",
+          "label": "Charater Reel",
           "trackId": "1489759117"
         },
         {
@@ -1858,8 +1852,7 @@
           "trackId": "1489759030"
         }
       ],
-      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything.",
-      "image": ""
+      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything."
     },
     {
       "name": "Matthew McKenna",
@@ -2520,12 +2513,12 @@
       ],
       "demos": [
         {
-          "label": "Commercial Reel",
+          "label": "Voice Reel - Full",
           "trackId": "1100449927"
         }
       ],
-      "description": "South East English female with a warm, polished quality across a full voice reel. Commercial and corporate instincts both well developed.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg",
+      "description": "South East English female with a warm, polished quality across a full voice reel. Commercial and corporate instincts both well developed."
     },
     {
       "name": "Sarah Gudgeon",
@@ -2540,13 +2533,11 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -2554,12 +2545,12 @@
           "trackId": "1094972215"
         },
         {
-          "label": "Character Reel",
+          "label": "Readings",
           "trackId": "1094972218"
         }
       ],
-      "description": "Thoughtful East Coast Scots female with documentary and readings credits. Measured, intelligent delivery that earns trust.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Gudgeon.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sarah-Gudgeon.jpg",
+      "description": "Thoughtful East Coast Scots female with documentary and readings credits. Measured, intelligent delivery that earns trust."
     },
     {
       "name": "Daisy Walker-Lyon",
@@ -2994,21 +2985,20 @@
         "english"
       ],
       "genres": [
-        "commercial",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
-        "Commercial",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
-          "label": "Commercial Showreel",
+          "label": "Commercial Showreel Chrissy Jones",
           "trackId": "875709457"
         }
       ],
-      "description": "Fresh East Coast Scots female with a warm, natural quality that works particularly well for consumer and e-learning briefs.",
-      "image": ""
+      "description": "Fresh East Coast Scots female with a warm, natural quality that works particularly well for consumer and e-learning briefs."
     },
     {
       "name": "Kelly McGregor",
@@ -4756,15 +4746,17 @@
       "languages": [],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg",
-      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work."
+      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg"
     },
     {
       "name": "Ruth Connell",
@@ -10326,11 +10318,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -10338,7 +10332,8 @@
           "trackId": "725679061"
         }
       ],
-      "description": "Silky smooth English Southern female in her 40s — real style and a polished quality that suits corporate and documentary content well."
+      "description": "Silky smooth English Southern female in her 40s — real style and a polished quality that suits corporate and documentary content well.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Francesca-Dymond.jpg"
     },
     {
       "name": "Fran Healy",
@@ -11529,19 +11524,21 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -11549,7 +11546,8 @@
           "trackId": "724985947"
         }
       ],
-      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content."
+      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Moncrieff.jpg"
     },
     {
       "name": "Clare Waugh",
@@ -12430,7 +12428,7 @@
           "trackId": "723692614"
         },
         {
-          "label": "Animation Reel",
+          "label": "Animation revised",
           "trackId": "1282542427"
         },
         {

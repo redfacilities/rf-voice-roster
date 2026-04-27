@@ -3775,12 +3775,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -3788,7 +3788,8 @@
           "trackId": "728631307"
         }
       ],
-      "description": "Sharp and slightly gravelly East Coast Scots in his 40s. Light enough to feel contemporary, edged enough to have character."
+      "description": "Sharp and slightly gravelly East Coast Scots in his 40s. Light enough to feel contemporary, edged enough to have character.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tony-Cownie.jpg"
     },
     {
       "name": "Toni Frutin",

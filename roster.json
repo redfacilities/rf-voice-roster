@@ -12892,11 +12892,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -12904,7 +12906,8 @@
           "trackId": "723628255"
         }
       ],
-      "description": "Quirky and wholesome West Country in his 50s — a genuinely interesting, warm quality and real range across corporate and documentary content."
+      "description": "Quirky and wholesome West Country in his 50s — a genuinely interesting, warm quality and real range across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Alan-Sharp.jpg"
     },
     {
       "name": "Adam Moore",

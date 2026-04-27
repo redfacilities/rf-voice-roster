@@ -1895,11 +1895,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -1911,7 +1913,8 @@
           "trackId": "1473193027"
         }
       ],
-      "description": "Fun and characterful West Coast Scots female with two reels — straight and comedy — and a natural energy that producers love working with."
+      "description": "Fun and characterful West Coast Scots female with two reels — straight and comedy — and a natural energy that producers love working with.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hannah-Jarrett-Scott.jpg"
     },
     {
       "name": "Fiona Nimmo",

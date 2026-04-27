@@ -9246,12 +9246,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -9259,7 +9259,8 @@
           "trackId": "725700991"
         }
       ],
-      "description": "Warm Northern English female in her 50s with a grounded quality and real range across e-learning and commercial work."
+      "description": "Warm Northern English female in her 50s with a grounded quality and real range across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Heidi-Docherty.jpg"
     },
     {
       "name": "Heather Dewar",

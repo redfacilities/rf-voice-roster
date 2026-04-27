@@ -1834,11 +1834,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -1854,7 +1856,8 @@
           "trackId": "1489759030"
         }
       ],
-      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything."
+      "description": "Comedy legend and one of the most richly characterful voices on the roster. Moray's East Coast warmth and intelligence make him capable of almost anything.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Moray-Hunter.jpg"
     },
     {
       "name": "Matthew McKenna",

@@ -11570,12 +11570,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -11583,7 +11583,8 @@
           "trackId": "724961458"
         }
       ],
-      "description": "Smiley and bright East Coast Scots female in her 30s with real empathy and a warm, natural quality across health and consumer campaigns."
+      "description": "Smiley and bright East Coast Scots female in her 30s with real empathy and a warm, natural quality across health and consumer campaigns.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Chantelle-Wood.jpg"
     },
     {
       "name": "Carolyn Konrad",

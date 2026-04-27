@@ -2560,7 +2560,7 @@
       "name": "Daisy Walker-Lyon",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": null,
+      "age": "",
       "accentGroup": [
         "scottish"
       ],
@@ -2579,7 +2579,8 @@
           "trackId": "1094329021"
         }
       ],
-      "description": "Characterful young East Coast Scots female with natural instincts across commercial and character work."
+      "description": "Characterful young East Coast Scots female with natural instincts across commercial and character work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Daisy-Walker-Lyon.jpg"
     },
     {
       "name": "Mercedes Maloney-Drummond",

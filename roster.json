@@ -8570,12 +8570,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -8583,7 +8583,8 @@
           "trackId": "725771098"
         }
       ],
-      "description": "Fresh East Coast Scots female in her 30s with a warm, natural delivery across e-learning and commercial work."
+      "description": "Fresh East Coast Scots female in her 30s with a warm, natural delivery across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jamie-Melrose.jpg"
     },
     {
       "name": "Jamie Macdonald",

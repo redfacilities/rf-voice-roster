@@ -8757,11 +8757,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -8769,7 +8771,8 @@
           "trackId": "725718883"
         }
       ],
-      "description": "Strong East Coast Scots in his 60s with a nicely gravelly quality and real presence across corporate and documentary content."
+      "description": "Strong East Coast Scots in his 60s with a nicely gravelly quality and real presence across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jack-Shedden.jpg"
     },
     {
       "name": "Jack Kerr",

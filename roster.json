@@ -534,12 +534,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -559,7 +559,8 @@
           "trackId": "1992502523"
         }
       ],
-      "description": "Credits include Police Scotland and SNBTS. Dylan's contemporary East Coast delivery has a quiet authority that public sector clients return to repeatedly."
+      "description": "Credits include Police Scotland and SNBTS. Dylan's contemporary East Coast delivery has a quiet authority that public sector clients return to repeatedly.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Dylan-Neilson.jpg"
     },
     {
       "name": "Lis Faulkner",

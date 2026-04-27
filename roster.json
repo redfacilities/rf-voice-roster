@@ -4587,11 +4587,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -4599,7 +4601,8 @@
           "trackId": "728602471"
         }
       ],
-      "description": "Chilled and supremely characterful East Coast Scots in his 30s. The laid-back quality is real — and that's exactly why it works."
+      "description": "Chilled and supremely characterful East Coast Scots in his 30s. The laid-back quality is real — and that's exactly why it works.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sandy-Grierson.jpg"
     },
     {
       "name": "Sandro Satirchos",

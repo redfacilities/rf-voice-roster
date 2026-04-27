@@ -7144,33 +7144,6 @@
       "description": "Characterful East Coast Scots in his 30s with commercial montage and narrative work both showing real range."
     },
     {
-      "name": "Kenny Hutchison",
-      "accent": "Scottish East Coast",
-      "gender": "male",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726800824"
-        }
-      ],
-      "description": "Assured East Coast Scots in his 50s with a warm, dependable quality across corporate and documentary content."
-    },
-    {
       "name": "Kenny Blyth",
       "accent": "English Southern",
       "gender": "male",

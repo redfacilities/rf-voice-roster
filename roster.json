@@ -6827,23 +6827,27 @@
     },
     {
       "name": "Lilja O’Brien",
-      "accent": "American · German / Icelandic",
+      "accent": "English · American · Icelandic",
       "gender": "female",
-      "age": null,
+      "age": "30s",
       "accentGroup": [
+        "english",
         "american",
         "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "icelandic"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "documentary",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "Documentary",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -6851,8 +6855,8 @@
           "trackId": "726822910"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lilja-O_Brien.jpg",
-      "description": "American female with German and Icelandic heritage — a distinctive multilingual range that brings something genuinely different to e-learning and commercial briefs."
+      "description": "American female with German and Icelandic heritage — a distinctive multilingual range that brings something genuinely different to e-learning and commercial briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lilja-O_Brien.jpg"
     },
     {
       "name": "Lila Clements",

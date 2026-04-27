@@ -11318,37 +11318,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/David-Johnston.jpg"
     },
     {
-      "name": "David Goodall",
-      "accent": "Scottish East Coast · French / German / Italian",
-      "gender": "male",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725135899"
-        },
-        {
-          "label": "Foreign Languages Reel",
-          "trackId": "725135902"
-        }
-      ],
-      "description": "East Coast Scots with French, German, and Italian all available alongside English. Rare multilingual depth for international campaigns."
-    },
-    {
       "name": "David Gallagher",
       "accent": "Scottish West Coast",
       "gender": "male",

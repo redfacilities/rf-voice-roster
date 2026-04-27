@@ -13091,6 +13091,31 @@
       ],
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg",
       "description": "Warm Scottish male in his 50s with a wide-ranging voice and serious depth — commercials, narration, game trailers, Irish accents, and e-learning all covered."
+    },
+    {
+      "name": "David Monteath",
+      "accent": "Scottish, Egnlish",
+      "gender": "male",
+      "age": "40s",
+      "accentGroup": [
+        "scottish",
+        "english"
+      ],
+      "languages": [],
+      "genres": [
+        "commercial"
+      ],
+      "genreLabels": [
+        "Commercial"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": "253A725164330"
+        }
+      ],
+      "description": "",
+      "image": ""
     }
   ]
 }

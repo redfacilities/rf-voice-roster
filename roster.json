@@ -11614,11 +11614,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -11626,7 +11628,8 @@
           "trackId": "724914190"
         }
       ],
-      "description": "Experienced English Southern in his 50s with a warm, measured quality across corporate and documentary content."
+      "description": "Experienced English Southern in his 50s with a warm, measured quality across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Billy-Mack.jpg"
     },
     {
       "name": "Beth Marshall",

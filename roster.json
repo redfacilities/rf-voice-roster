@@ -4224,12 +4224,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -4237,7 +4237,8 @@
           "trackId": "728616931"
         }
       ],
-      "description": "Clean Australian female in her 40s with a warm, national-quality delivery and solid commercial instincts."
+      "description": "Clean Australian female in her 40s with a warm, national-quality delivery and solid commercial instincts.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stephanie-Turner.jpg"
     },
     {
       "name": "Steph Bower",

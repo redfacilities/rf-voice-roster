@@ -945,11 +945,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -957,7 +959,7 @@
           "trackId": "1839570021"
         },
         {
-          "label": "Character Rerad",
+          "label": "Character Read",
           "trackId": "1839570027"
         },
         {
@@ -1728,11 +1730,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -1744,7 +1748,7 @@
           "trackId": "1531479082"
         },
         {
-          "label": "Charater - Smokline",
+          "label": "Character - SmokeLine",
           "trackId": "1531479094"
         },
         {
@@ -2985,20 +2989,21 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
-          "label": "Commercial Showreel Chrissy Jones",
+          "label": "Commercial Showreel",
           "trackId": "875709457"
         }
       ],
-      "description": "Fresh East Coast Scots female with a warm, natural quality that works particularly well for consumer and e-learning briefs."
+      "description": "Fresh East Coast Scots female with a warm, natural quality that works particularly well for consumer and e-learning briefs.",
+      "image": ""
     },
     {
       "name": "Kelly McGregor",
@@ -4746,17 +4751,15 @@
       "languages": [],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [],
-      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg",
+      "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work."
     },
     {
       "name": "Ruth Connell",
@@ -11521,21 +11524,19 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "scottish",
-        "english"
+        "english",
+        "scottish"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -11543,8 +11544,7 @@
           "trackId": "724985947"
         }
       ],
-      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Moncrieff.jpg"
+      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content."
     },
     {
       "name": "Clare Waugh",

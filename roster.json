@@ -9585,11 +9585,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -9597,7 +9599,8 @@
           "trackId": "725688847"
         }
       ],
-      "description": "Warm and smoky West Coast Scots female in her 40s with great energy and a confident, natural delivery across corporate and documentary content."
+      "description": "Warm and smoky West Coast Scots female in her 40s with great energy and a confident, natural delivery across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Glenna-Morrison.jpg"
     },
     {
       "name": "Gillian Kerr",

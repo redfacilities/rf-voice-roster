@@ -945,13 +945,11 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -959,7 +957,7 @@
           "trackId": "1839570021"
         },
         {
-          "label": "Character Read",
+          "label": "Character Rerad",
           "trackId": "1839570027"
         },
         {
@@ -11521,19 +11519,21 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -11541,7 +11541,8 @@
           "trackId": "724985947"
         }
       ],
-      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content."
+      "description": "Casual and friendly East Coast Scots in his 40s with a wide range and a natural quality across documentary and e-learning content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Moncrieff.jpg"
     },
     {
       "name": "Clare Waugh",

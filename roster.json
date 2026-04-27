@@ -3968,8 +3968,8 @@
       "gender": "female",
       "age": "50s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
@@ -3988,7 +3988,8 @@
           "trackId": "728626357"
         }
       ],
-      "description": "Polished English RP female in her 50s with a measured, composed delivery across commercial and character work."
+      "description": "Polished English RP female in her 50s with a measured, composed delivery across commercial and character work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sylvia-Cockburn.jpg"
     },
     {
       "name": "Susan Coyle",

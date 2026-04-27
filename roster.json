@@ -10433,33 +10433,6 @@
       "description": "Natural East Coast Scots female in her 40s with a warm, engaging delivery across commercial and character work."
     },
     {
-      "name": "Amanda Craven",
-      "accent": "English RP",
-      "gender": "female",
-      "age": "50s",
-      "accentGroup": [
-        "english"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "723668623"
-        }
-      ],
-      "description": "Husky and warm English RP female in her 50s — a genuine, broad quality across corporate and documentary content."
-    },
-    {
       "name": "Fiona MacKinnon",
       "accent": "Scottish East Coast",
       "gender": "female",

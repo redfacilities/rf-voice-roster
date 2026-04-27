@@ -5326,11 +5326,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -5338,7 +5340,8 @@
           "trackId": "727261231"
         }
       ],
-      "description": "Natural Fife male in his 40s with a confident, grounded delivery across corporate and documentary work."
+      "description": "Natural Fife male in his 40s with a confident, grounded delivery across corporate and documentary work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Phil-Mckee.jpg"
     },
     {
       "name": "Peter Benassi",

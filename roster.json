@@ -5348,12 +5348,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -5361,7 +5361,8 @@
           "trackId": "727260442"
         }
       ],
-      "description": "Reassuring North West Scots warmth in his 40s with a natural, friendly delivery and real community-facing credentials."
+      "description": "Reassuring North West Scots warmth in his 40s with a natural, friendly delivery and real community-facing credentials.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Peter-Benassi.jpg"
     },
     {
       "name": "Pauline Lockhart",

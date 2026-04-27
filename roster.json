@@ -7524,33 +7524,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Julie-Coombe.jpg"
     },
     {
-      "name": "Judy Courage",
-      "accent": "English Southern",
-      "gender": "female",
-      "age": "50s",
-      "accentGroup": [
-        "english"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726199033"
-        }
-      ],
-      "description": "Factual and sophisticated English Southern female in her 50s — composed, intelligent delivery for documentary and e-learning content."
-    },
-    {
       "name": "Joyce Falconer",
       "accent": "Scottish North East",
       "gender": "female",

@@ -4195,11 +4195,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -4207,7 +4209,8 @@
           "trackId": "728617351"
         }
       ],
-      "description": "Measured West Coast Scots authority in his 50s — confident and well suited to corporate and documentary content."
+      "description": "Measured West Coast Scots authority in his 50s — confident and well suited to corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stephen-Cairns.jpg"
     },
     {
       "name": "Stephanie Turner",

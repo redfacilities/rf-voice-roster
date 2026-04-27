@@ -7853,34 +7853,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Kielty.jpg"
     },
     {
-      "name": "John Henderson",
-      "accent": "Scottish East Coast",
-      "gender": "male",
-      "age": "60s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726183355"
-        }
-      ],
-      "description": "Rich and warm East Coast Scots in his 60s — as reassuring and authoritative as a voice gets. Strong corporate and documentary presence.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Henderson.jpg"
-    },
-    {
       "name": "John Hannibal",
       "accent": "Scottish North West",
       "gender": "male",

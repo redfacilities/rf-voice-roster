@@ -11793,33 +11793,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Axel-Pech.jpg"
     },
     {
-      "name": "Ashley Bitters",
-      "accent": "Scottish West Coast",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "723707023"
-        }
-      ],
-      "description": "Fresh West Coast Scots female in her 30s with a warm, engaging quality across commercial and corporate work."
-    },
-    {
       "name": "Arlene Stuart",
       "accent": "Scottish North East",
       "gender": "female",

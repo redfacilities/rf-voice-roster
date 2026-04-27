@@ -7709,12 +7709,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -7722,7 +7722,8 @@
           "trackId": "726187009"
         }
       ],
-      "description": "Experienced East Coast Scots in his 50s with a warm, natural quality across e-learning and commercial content."
+      "description": "Experienced East Coast Scots in his 50s with a warm, natural quality across e-learning and commercial content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Ritchie.jpg"
     },
     {
       "name": "John Paul Hurley",

@@ -4109,11 +4109,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -4121,7 +4123,8 @@
           "trackId": "728621956"
         }
       ],
-      "description": "Gentle, warm, and highly articulate East Coast Scots in his 40s. Natural intelligence in the delivery that works across corporate and documentary."
+      "description": "Gentle, warm, and highly articulate East Coast Scots in his 40s. Natural intelligence in the delivery that works across corporate and documentary.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Stewart-Cairns.jpg"
     },
     {
       "name": "Steven Wren",

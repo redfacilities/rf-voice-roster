@@ -4104,33 +4104,6 @@
       "description": "Gentle, warm, and highly articulate East Coast Scots in his 40s. Natural intelligence in the delivery that works across corporate and documentary."
     },
     {
-      "name": "Stevie Allen",
-      "accent": "Scottish East Coast",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728619976"
-        }
-      ],
-      "description": "Bright and enthusiastic East Coast Scots in his 40s with a fresh, energetic quality and natural commercial instincts."
-    },
-    {
       "name": "Steven Wren",
       "accent": "Scottish East Coast",
       "gender": "male",

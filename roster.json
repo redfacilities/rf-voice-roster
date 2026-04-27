@@ -5346,16 +5346,19 @@
         "international"
       ],
       "languages": [
+        "english",
         "french"
       ],
       "genres": [
         "commercial",
         "corporate",
+        "documentary",
         "character"
       ],
       "genreLabels": [
         "Commercial",
         "Corporate",
+        "Documentary",
         "Character"
       ],
       "demos": [

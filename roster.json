@@ -6763,11 +6763,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -6775,7 +6777,8 @@
           "trackId": "889666918"
         }
       ],
-      "description": "Natural, funny, and confident East Coast Scots female in her 50s. The comedy instincts are real and the warmth is entirely genuine."
+      "description": "Natural, funny, and confident East Coast Scots female in her 50s. The comedy instincts are real and the warmth is entirely genuine.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Libby-Mcarthur.jpg"
     },
     {
       "name": "Lesley Hart",

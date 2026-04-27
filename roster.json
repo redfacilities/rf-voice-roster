@@ -8851,9 +8851,15 @@
       "accent": "Scottish · French / German",
       "gender": "female",
       "age": "40s",
-      "accentGroup": [],
+      "accentGroup": [
+        "scottish",
+        "english",
+        "international"
+      ],
       "languages": [
-        "english"
+        "english",
+        "french",
+        "german"
       ],
       "genres": [
         "commercial",

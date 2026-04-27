@@ -6456,12 +6456,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -6469,7 +6469,8 @@
           "trackId": "727225066"
         }
       ],
-      "description": "Lively East Coast Scots female in her 40s with a clear, charming quality across e-learning and commercial briefs."
+      "description": "Lively East Coast Scots female in her 40s with a clear, charming quality across e-learning and commercial briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Marion-Scott.jpg"
     },
     {
       "name": "Marcus Hutton",

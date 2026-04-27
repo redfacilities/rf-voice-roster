@@ -10877,12 +10877,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -10890,7 +10890,8 @@
           "trackId": "725181712"
         }
       ],
-      "description": "Confident East Coast Scots in his 50s with a natural, engaging quality across e-learning and commercial work."
+      "description": "Confident East Coast Scots in his 50s with a natural, engaging quality across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Derek-Murray.jpg"
     },
     {
       "name": "Deirdre Davis",

@@ -7569,33 +7569,6 @@
       "description": "Experienced, characterful East Coast Scots female in her 50s with a warm, natural quality and strong commercial and character instincts."
     },
     {
-      "name": "Julie Finch",
-      "accent": "Scottish West Coast",
-      "gender": "female",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "corporate",
-        "documentary"
-      ],
-      "genreLabels": [
-        "Corporate",
-        "Documentary"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726200437"
-        }
-      ],
-      "description": "Natural and earthy West Coast Scots female in her 40s — honest, grounded, and well suited to corporate and documentary content."
-    },
-    {
       "name": "Julie Duncanson",
       "accent": "Scottish West Coast",
       "gender": "female",

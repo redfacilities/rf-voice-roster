@@ -10841,11 +10841,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -10853,7 +10855,8 @@
           "trackId": "725166976"
         }
       ],
-      "description": "Natural East Coast Scots female in her 40s with a clear, confident quality across corporate and documentary content."
+      "description": "Natural East Coast Scots female in her 40s with a clear, confident quality across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Debbie-Cannon.jpg"
     },
     {
       "name": "David Monteath",

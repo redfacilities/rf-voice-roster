@@ -9800,19 +9800,21 @@
       "gender": "female",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -9824,7 +9826,8 @@
           "trackId": "725683198"
         }
       ],
-      "description": "Supremely capable East Coast Scots female in her 40s — documentary and character reels both demonstrating a genuinely extraordinary range."
+      "description": "Supremely capable East Coast Scots female in her 40s — documentary and character reels both demonstrating a genuinely extraordinary range.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gayanne-Potter.jpg"
     },
     {
       "name": "Gavin Paul",

@@ -9736,31 +9736,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Graeme-Easton.jpg"
     },
     {
-      "name": "Gosia Zbudniewek",
-      "accent": "Scottish · Polish",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [],
-      "languages": [
-        "polish"
-      ],
-      "genres": [
-        "commercial",
-        "character"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Character"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725689783"
-        }
-      ],
-      "description": "Native Polish speaker with a clear, natural Scots-Polish English quality. Factual, direct, and particularly strong for documentary work."
-    },
-    {
       "name": "Glenna Morrison",
       "accent": "Scottish West Coast",
       "gender": "female",

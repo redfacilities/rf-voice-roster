@@ -8762,11 +8762,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -8774,7 +8776,8 @@
           "trackId": "1491670954"
         }
       ],
-      "description": "Natural North Scots in his 20s with a clear, honest quality across corporate and documentary content."
+      "description": "Handsome natural North Scots from Inverness with a clear, honest quality across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/James-Walker.jpg"
     },
     {
       "name": "James Frame",

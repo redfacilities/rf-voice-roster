@@ -2520,12 +2520,12 @@
       ],
       "demos": [
         {
-          "label": "Voice Reel - Full",
+          "label": "Commercial Reel",
           "trackId": "1100449927"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg",
-      "description": "South East English female with a warm, polished quality across a full voice reel. Commercial and corporate instincts both well developed."
+      "description": "South East English female with a warm, polished quality across a full voice reel. Commercial and corporate instincts both well developed.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lisa-Houston.jpg"
     },
     {
       "name": "Sarah Gudgeon",

@@ -7191,11 +7191,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -7203,7 +7205,8 @@
           "trackId": "726793072"
         }
       ],
-      "description": "Natural East Coast Scots in his 40s with a warm, clear quality across documentary and e-learning work."
+      "description": "Natural East Coast Scots in his 40s with a warm, clear quality across documentary and e-learning work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Keith-Mcleish.jpg"
     },
     {
       "name": "Keith Macpherson",

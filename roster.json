@@ -622,7 +622,7 @@
       "description": "Thoughtful and measured East Coast delivery with strong documentary and e-learning credentials. One of those voices that gets out of the way of the content."
     },
     {
-      "name": "Roy Entwhistle",
+      "name": "Roy Entwistle",
       "accent": "Scottish East Coast",
       "gender": "male",
       "age": "20s",
@@ -646,7 +646,8 @@
           "trackId": "1955038127"
         }
       ],
-      "description": "Loads of energy and a natural talent for commercial character work. Roy's enthusiasm is the kind that reads as genuine rather than produced."
+      "description": "Loads of energy and a natural talent for commercial character work. Roy's enthusiasm is the kind that reads as genuine rather than produced.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Roy-Entwistle.jpg"
     },
     {
       "name": "Kim Chapman",

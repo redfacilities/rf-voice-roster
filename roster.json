@@ -4222,33 +4222,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Steph-Bower.jpg"
     },
     {
-      "name": "Spider Miller",
-      "accent": "Scottish West Coast",
-      "gender": "male",
-      "age": "50s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728615176"
-        }
-      ],
-      "description": "Distinctive West Coast Scots in his 50s with a characterful, grounded quality across documentary and e-learning work."
-    },
-    {
       "name": "Sophia Mclean",
       "accent": "Scottish North East",
       "gender": "female",

@@ -11906,10 +11906,12 @@
       "gender": "female",
       "age": "50s",
       "accentGroup": [
-        "english"
+        "english",
+        "international"
       ],
       "languages": [
-        "english"
+        "english",
+        "spanish"
       ],
       "genres": [
         "corporate",

@@ -5862,33 +5862,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Neil-Macgillivray.jpg"
     },
     {
-      "name": "Neil Barber",
-      "accent": "Scottish North",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "character"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Character"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "727240225"
-        }
-      ],
-      "description": "Natural North Scots male in his 40s with a clean, confident delivery across commercial and character briefs."
-    },
-    {
       "name": "Natalie Toyne",
       "accent": "South African",
       "gender": "female",

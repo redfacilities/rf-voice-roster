@@ -8690,33 +8690,6 @@
       "description": "Composed English RP female in her 30s with a clear, assured delivery across corporate and documentary work."
     },
     {
-      "name": "Iona MacInnes",
-      "accent": "Scottish North West",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "elearning",
-        "commercial"
-      ],
-      "genreLabels": [
-        "E-Learning",
-        "Commercial"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725711794"
-        }
-      ],
-      "description": "Bright and charming North West Scots female in her 30s — friendly and natural across e-learning and commercial briefs."
-    },
-    {
       "name": "Ian Sexon",
       "accent": "English Generic",
       "gender": "male",

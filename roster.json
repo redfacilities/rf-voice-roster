@@ -11913,11 +11913,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -11925,7 +11927,8 @@
           "trackId": "723692047"
         }
       ],
-      "description": "Direct and factual English RP female in her 50s in the Radio 4 tradition. Composed, authoritative, and well suited to corporate and documentary briefs."
+      "description": "Direct and factual English RP female in her 50s in the Radio 4 tradition. Composed, authoritative, and well suited to corporate and documentary briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Angela-Duthie.jpg"
     },
     {
       "name": "Angela Darcy",

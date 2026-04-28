@@ -6423,11 +6423,13 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
@@ -6435,7 +6437,8 @@
           "trackId": "726845149"
         }
       ],
-      "description": "Intelligent and smooth English Southern female in her 40s — engaging, warm, and well suited to corporate and documentary work."
+      "description": "Intelligent and smooth English Southern female in her 40s — engaging, warm, and well suited to corporate and documentary work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Lucy-Patterson.jpg"
     },
     {
       "name": "Lorna Mitchell",

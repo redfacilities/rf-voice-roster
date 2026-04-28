@@ -7794,33 +7794,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Hannibal.jpg"
     },
     {
-      "name": "John Cugley",
-      "accent": "English RP",
-      "gender": "male",
-      "age": "50s",
-      "accentGroup": [
-        "english"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726182254"
-        }
-      ],
-      "description": "Polished English RP in his 50s with a composed, professional delivery and real range across commercial and corporate content."
-    },
-    {
       "name": "John Colee",
       "accent": "American",
       "gender": "male",

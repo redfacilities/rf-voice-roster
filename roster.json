@@ -2119,12 +2119,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -2144,7 +2144,8 @@
           "trackId": "1347250537"
         }
       ],
-      "description": "Northern English with SpaceX and Tesco Mobile on her credits alongside health and public sector narration. Characterful, genuine, and super friendly."
+      "description": "Northern English with SpaceX and Tesco Mobile on her credits alongside health and public sector narration. Characterful, genuine, and super friendly.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Vanashree-Thapliyal.jpg"
     },
     {
       "name": "Georgia-Lee Roberts",

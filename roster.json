@@ -3416,33 +3416,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/William-Mounsey.jpg"
     },
     {
-      "name": "Wendy Woolfson",
-      "accent": "Scottish West Coast",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "character"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Character"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "729098608"
-        }
-      ],
-      "description": "Natural West Coast Scots female with an honest, relatable quality across commercial and character work."
-    },
-    {
       "name": "Wendy Lap",
       "accent": "Scottish East Coast",
       "gender": "female",

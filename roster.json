@@ -10209,12 +10209,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -10226,8 +10226,8 @@
           "trackId": "725204584"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Elisa-Canas.jpg",
-      "description": "Natural English Southern female in her 40s with a characterful quality and real range across commercial and character work."
+      "description": "Natural English Southern female in her 40s with a characterful quality and real range across commercial and character work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Elisa-Canas.jpg"
     },
     {
       "name": "Edward Hinks",

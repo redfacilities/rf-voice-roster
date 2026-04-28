@@ -3844,12 +3844,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -3857,7 +3857,8 @@
           "trackId": "728628757"
         }
       ],
-      "description": "Gently lilting East Coast Scots female with a natural softness that works particularly well for health, wellness, and consumer campaigns."
+      "description": "Gently lilting East Coast Scots female with a natural softness that works particularly well for health, wellness, and consumer campaigns.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Teri-Lally.jpg"
     },
     {
       "name": "Tania Dron",

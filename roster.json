@@ -3620,33 +3620,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Tracy-Wiles.jpg"
     },
     {
-      "name": "Tonya Macari",
-      "accent": "Scottish East Coast",
-      "gender": "female",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728633329"
-        }
-      ],
-      "description": "East Coast Scots storyteller in her 40s with a natural, intelligent quality — particularly strong for factual and documentary content."
-    },
-    {
       "name": "Tony McQue",
       "accent": "Scottish East Coast",
       "gender": "male",

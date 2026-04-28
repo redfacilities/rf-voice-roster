@@ -2201,11 +2201,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -2225,7 +2227,8 @@
           "trackId": "1313492914"
         }
       ],
-      "description": "Natural West Coast Scots male with Tesco Mobile and Scottish Sun alongside documentary narration. Clean contemporary delivery."
+      "description": "Natural West Coast Scots male with Tesco Mobile and Scottish Sun alongside documentary narration. Clean contemporary delivery.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Craig-Telfer.jpg"
     },
     {
       "name": "Jim Cassidy",

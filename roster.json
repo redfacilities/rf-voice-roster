@@ -5141,11 +5141,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -5153,7 +5155,8 @@
           "trackId": "727262596"
         }
       ],
-      "description": "Clear English Southern female in her 40s with a naturally soft quality and a warmth suited to documentary and e-learning narration."
+      "description": "Clear English Southern female in her 40s with a naturally soft quality and a warmth suited to documentary and e-learning narration.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Rachel-Colles.jpg"
     },
     {
       "name": "Pierre Maubouche",

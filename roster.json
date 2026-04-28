@@ -4705,33 +4705,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ronnie-Leek.jpg"
     },
     {
-      "name": "Ronce Horton",
-      "accent": "Australian",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [
-        "international"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "documentary",
-        "elearning"
-      ],
-      "genreLabels": [
-        "Documentary",
-        "E-Learning"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "728566414"
-        }
-      ],
-      "description": "Fresh Australian female in her 30s with a warm, clear delivery well suited to documentary and e-learning work."
-    },
-    {
       "name": "Ron Donachie",
       "accent": "English Northern · German",
       "gender": "male",

@@ -3951,12 +3951,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -3964,7 +3964,8 @@
           "trackId": "728625223"
         }
       ],
-      "description": "Clear East Coast Scots female in her 40s with a confident, natural quality across e-learning and commercial briefs."
+      "description": "Clear East Coast Scots female in her 40s with a confident, natural quality across e-learning and commercial briefs.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Susan-Coyle.jpg"
     },
     {
       "name": "Stuart Hepburn",

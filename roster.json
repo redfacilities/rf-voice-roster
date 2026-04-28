@@ -11409,7 +11409,7 @@
       "name": "Brian James O’Sullivan",
       "accent": "Scottish West Coast",
       "gender": "male",
-      "age": null,
+      "age": "",
       "accentGroup": [
         "scottish"
       ],
@@ -11430,7 +11430,8 @@
           "trackId": "724924672"
         }
       ],
-      "description": "Natural West Coast Scots male with a friendly, warm quality and solid instincts across commercial and corporate content."
+      "description": "Natural West Coast Scots male with a friendly, warm quality and solid instincts across commercial and corporate content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Brian-James-OSullivan.jpg"
     },
     {
       "name": "Blanche Anderson",

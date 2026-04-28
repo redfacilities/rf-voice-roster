@@ -3005,33 +3005,6 @@
       "description": "West Country female with Audible and Heinz on her credits alongside narration and commercial work. Natural, warm, and well-rounded."
     },
     {
-      "name": "Christy Johansen",
-      "accent": "Scottish East Coast",
-      "gender": "female",
-      "age": "30s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "elearning",
-        "commercial"
-      ],
-      "genreLabels": [
-        "E-Learning",
-        "Commercial"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Showreel Chrissy Jones",
-          "trackId": "875709457"
-        }
-      ],
-      "description": "Fresh East Coast Scots female with a warm, natural quality that works particularly well for consumer and e-learning briefs."
-    },
-    {
       "name": "Kelly McGregor",
       "accent": "Scottish East Coast",
       "gender": "female",

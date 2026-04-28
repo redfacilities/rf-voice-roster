@@ -7675,11 +7675,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -7687,7 +7689,8 @@
           "trackId": "726185956"
         }
       ],
-      "description": "Smooth American in his 50s with a confident, engaging quality across documentary and e-learning content."
+      "description": "Smooth American in his 50s with a confident, engaging quality across documentary and e-learning content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-P-Arnold.jpg"
     },
     {
       "name": "John Kielty",

@@ -10822,19 +10822,21 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -10842,8 +10844,8 @@
           "trackId": "725008588"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Daren-Adam.jpg",
-      "description": "Natural English RP in his 40s with a composed, engaging quality across documentary and e-learning content."
+      "description": "Natural English RP in his 40s with a composed, engaging quality across documentary and e-learning content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Darren-Adam.jpg"
     },
     {
       "name": "Daniela Nardini",

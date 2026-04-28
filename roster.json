@@ -7017,33 +7017,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kenny-Blyth.jpg"
     },
     {
-      "name": "Keith Tocher",
-      "accent": "Scottish East Coast",
-      "gender": "male",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "726797278"
-        }
-      ],
-      "description": "Strong, direct East Coast Scots in his 40s — a confident, no-nonsense delivery across commercial and corporate content."
-    },
-    {
       "name": "Keith Mcleish",
       "accent": "Scottish East Coast",
       "gender": "male",

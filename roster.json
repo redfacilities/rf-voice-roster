@@ -9470,12 +9470,12 @@
         "english"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -9483,7 +9483,8 @@
           "trackId": "725688043"
         }
       ],
-      "description": "Natural East Coast Scots female in her 30s with lovely, warm deliveries across e-learning and commercial work."
+      "description": "Natural East Coast Scots female in her 30s with lovely, warm deliveries across e-learning and commercial work.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Gillian-Kerr.jpg"
     },
     {
       "name": "Gilbert Martin",

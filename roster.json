@@ -4542,8 +4542,8 @@
       "gender": "male",
       "age": "40s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
@@ -4562,7 +4562,8 @@
           "trackId": "728572699"
         }
       ],
-      "description": "Warm, upbeat English RP in his 40s with a believable, commercial quality and impressive range. He also plays the tuba. Very well."
+      "description": "Warm, upbeat English RP in his 40s with a believable, commercial quality and impressive range. He also plays the tuba. Very well.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Sam-Laydon.jpg"
     },
     {
       "name": "Ryan Ferrie",

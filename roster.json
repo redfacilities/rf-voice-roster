@@ -6505,21 +6505,24 @@
       "name": "Matthew Dudley",
       "accent": "English RP",
       "gender": "male",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
-        "english",
-        "international"
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {

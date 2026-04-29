@@ -4445,9 +4445,12 @@
       "name": "Stephanie Turner",
       "accent": "Australian",
       "gender": "female",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
-        "international"
+        "english",
+        "australian"
       ],
       "languages": [
         "english"

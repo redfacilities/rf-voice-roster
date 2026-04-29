@@ -357,7 +357,7 @@
           "trackId": "2092875120"
         },
         {
-          "label": "Charater English Reel",
+          "label": "Character English Reel",
           "trackId": "2092875117"
         }
       ],
@@ -2548,7 +2548,7 @@
       ],
       "demos": [
         {
-          "label": "Voice Reel - Full",
+          "label": "Narration and Commercial Reel",
           "trackId": "1100449927"
         }
       ],
@@ -3035,15 +3035,15 @@
           "trackId": "871125445"
         },
         {
-          "label": "Dramatic VO",
+          "label": "Dramatic Reel",
           "trackId": "871125442"
         },
         {
-          "label": "Straight VO",
+          "label": "Straight Reel",
           "trackId": "871125439"
         },
         {
-          "label": "Character VO",
+          "label": "Character Reel",
           "trackId": "871125448"
         }
       ],
@@ -9959,7 +9959,7 @@
           "trackId": "1504499191"
         },
         {
-          "label": "Elearning Reel",
+          "label": "E-Learning Reel",
           "trackId": "1504498660"
         }
       ],
@@ -10495,7 +10495,7 @@
           "trackId": "1624830684"
         },
         {
-          "label": "ELearning",
+          "label": "E-Learning",
           "trackId": "1624830678"
         }
       ],

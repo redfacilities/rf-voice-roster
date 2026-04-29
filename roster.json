@@ -9759,19 +9759,22 @@
       "name": "Greg Baker",
       "accent": "American",
       "gender": "male",
-      "age": "50s",
+      "age": [
+        "50s"
+      ],
       "accentGroup": [
-        "american",
-        "international"
+        "american"
       ],
       "languages": [
         "english"
       ],
       "genres": [
+        "commercial",
         "corporate",
         "documentary"
       ],
       "genreLabels": [
+        "Commercial",
         "Corporate",
         "Documentary"
       ],
@@ -9782,7 +9785,8 @@
           "url": "https://soundcloud.com/red-facilities/commercial-reel-greg-baker"
         }
       ],
-      "description": "Warm American in his 50s with a composed, authoritative quality across corporate and documentary content."
+      "description": "Warm American in his 50s with a composed, authoritative quality across corporate and documentary content.",
+      "image": ""
     },
     {
       "name": "Grant Stott",

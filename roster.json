@@ -13101,11 +13101,14 @@
       "name": "Max Howarth",
       "accent": "Scottish Generic",
       "gender": "male",
-      "age": "50s",
+      "age": [
+        "40s",
+        "50s"
+      ],
       "accentGroup": [
+        "scottish",
         "english",
-        "irish",
-        "scottish"
+        "irish"
       ],
       "languages": [
         "english"
@@ -13151,8 +13154,8 @@
           "url": "https://soundcloud.com/red-facilities/max-howarth-e-learning-and-training"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg",
-      "description": "Warm Scottish male in his 50s with a wide-ranging voice and serious depth — commercials, narration, game trailers, Irish accents, and e-learning all covered."
+      "description": "Warm Scottish male in his 50s with a wide-ranging voice and serious depth — commercials, narration, game trailers, Irish accents, and e-learning all covered.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg"
     }
   ]
 }

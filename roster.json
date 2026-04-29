@@ -4540,7 +4540,9 @@
       "name": "Silvia Garcia Martinez",
       "accent": "Scottish · Spanish",
       "gender": "female",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
         "international"
       ],
@@ -4548,12 +4550,12 @@
         "spanish"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
@@ -4562,7 +4564,8 @@
           "url": "https://soundcloud.com/red-facilities/commercial-reel-silvia-garcia-martinez"
         }
       ],
-      "description": "Native Spanish speaker with a nicely understated Scottish-Spanish quality in English. Real bilingual capability for European and multilingual campaigns."
+      "description": "Native Spanish speaker with a nicely understated Scottish-Spanish quality in English. Real bilingual capability for European and multilingual campaigns.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Silvia-Garcia-Martinez.jpg"
     },
     {
       "name": "Shirley Rennie",

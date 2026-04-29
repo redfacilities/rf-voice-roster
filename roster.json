@@ -12097,17 +12097,19 @@
       "gender": "male",
       "age": "20s",
       "accentGroup": [
-        "english",
-        "scottish"
+        "scottish",
+        "english"
       ],
       "languages": [
         "english"
       ],
       "genres": [
+        "commercial",
         "documentary",
         "elearning"
       ],
       "genreLabels": [
+        "Commercial",
         "Documentary",
         "E-Learning"
       ],
@@ -12118,7 +12120,8 @@
           "url": "https://soundcloud.com/red-facilities/commercial-reel-ben-howarth"
         }
       ],
-      "description": "Fresh East Coast Scots male with a warm, engaging quality across documentary and e-learning work."
+      "description": "Fresh East Coast Scots male with a youthful, bright and engaging quality across commercial, documentary and e-learning work.",
+      "image": ""
     },
     {
       "name": "Ben Clifford",

@@ -3935,10 +3935,11 @@
       "name": "Tony Kearney",
       "accent": "Scottish East Coast · Gaelic",
       "gender": "male",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
-        "scottish",
-        "international"
+        "scottish"
       ],
       "languages": [
         "english",
@@ -3946,14 +3947,14 @@
         "spanish"
       ],
       "genres": [
+        "commercial",
         "corporate",
-        "documentary",
-        "commercial"
+        "documentary"
       ],
       "genreLabels": [
+        "Commercial",
         "Corporate",
-        "Documentary",
-        "Commercial"
+        "Documentary"
       ],
       "demos": [
         {

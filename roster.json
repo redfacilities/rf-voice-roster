@@ -5300,7 +5300,9 @@
       "name": "Richard De Prey",
       "accent": "English RP",
       "gender": "male",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
         "english"
       ],
@@ -5309,11 +5311,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -5322,7 +5326,8 @@
           "url": "https://soundcloud.com/red-facilities/commercial-reel-richard-deprey"
         }
       ],
-      "description": "Informative, precise English RP in his 40s with an internationally clean delivery. Strong e-learning and global corporate credentials."
+      "description": "Informative, precise English RP in his 40s with an internationally clean delivery. Strong e-learning and global corporate credentials.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Richard-De-Prey.jpg"
     },
     {
       "name": "Richard Addison",

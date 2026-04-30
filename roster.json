@@ -1983,7 +1983,9 @@
       "name": "Moray Hunter",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": "40s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -1991,14 +1993,14 @@
         "english"
       ],
       "genres": [
+        "commercial",
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
+        "Commercial",
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
@@ -2007,7 +2009,7 @@
           "url": "https://soundcloud.com/red-facilities/moray-hunter-commercial-reel"
         },
         {
-          "label": "Charater Reel",
+          "label": "Character Reel",
           "trackId": "1489759117",
           "url": "https://soundcloud.com/red-facilities/moray-hunter-charater-reel"
         },

@@ -1748,7 +1748,9 @@
       "name": "Colin Brown",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": "50s",
+      "age": [
+        "50s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -1780,13 +1782,13 @@
           "url": "https://soundcloud.com/red-facilities/nhs-colin-brown"
         },
         {
-          "label": "Narrtion Reel",
+          "label": "Narration Reel",
           "trackId": "1607787825",
           "url": "https://soundcloud.com/red-facilities/narrtion-reel-colin-brown"
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Brown.jpg",
-      "description": "Measured East Coast Scots authority in his 50s with experience ranging from Cycling Scotland to NHS narration. Solid and dependable."
+      "description": "Measured East Coast Scots authority in his 50s with experience ranging from Cycling Scotland to NHS narration. Solid and dependable.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Colin-Brown.jpg"
     },
     {
       "name": "Harry McDowell",

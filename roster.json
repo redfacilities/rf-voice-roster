@@ -7179,7 +7179,9 @@
       "name": "Laura Howarth",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": "30s",
+      "age": [
+        "40s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -7188,11 +7190,13 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
@@ -7206,7 +7210,8 @@
           "url": "https://soundcloud.com/red-facilities/corporate-reel-laura-howarth"
         }
       ],
-      "description": "Bright and charming East Coast Scots female in her 30s. The voice of Sonos — and a strong choice for corporate and e-learning alongside consumer brands."
+      "description": "Bright and charming East Coast Scots female in her 30s. The voice of Sonos — and a strong choice for corporate and e-learning alongside consumer brands.",
+      "image": ""
     },
     {
       "name": "Lance Fuller",

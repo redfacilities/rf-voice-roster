@@ -7191,29 +7191,27 @@
         "english"
       ],
       "genres": [
+        "commercial",
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
+        "Commercial",
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
           "label": "Commercial Reed",
-          "trackId": "726811636",
-          "url": "https://soundcloud.com/red-facilities/commercial-reed-laura-howarth"
+          "trackId": ""
         },
         {
           "label": "Corporate Reel",
-          "trackId": "726811633",
-          "url": "https://soundcloud.com/red-facilities/corporate-reel-laura-howarth"
+          "trackId": ""
         }
       ],
       "description": "Bright and charming East Coast Scots female in her 30s. The voice of Sonos — and a strong choice for corporate and e-learning alongside consumer brands.",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Laura-Howarth.jpg"
     },
     {
       "name": "Lance Fuller",

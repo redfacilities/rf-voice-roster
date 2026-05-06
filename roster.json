@@ -9629,7 +9629,9 @@
       "name": "Hamish Wyllie",
       "accent": "Scottish North East",
       "gender": "male",
-      "age": "30s",
+      "age": [
+        "30s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -9638,21 +9640,17 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "725697811",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-hamish-wyllie"
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hamish-Wyllie.jpg",
-      "description": "Fresh North East Scots male in his 30s with a clear, confident quality across corporate and documentary content."
+      "demos": [],
+      "description": "Fresh North East Scots male in his 30s with a clear, confident quality across corporate and documentary content.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hamish-Wyllie.jpg"
     },
     {
       "name": "Guy Satchwell",

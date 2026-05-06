@@ -9648,7 +9648,12 @@
         "Documentary",
         "Commercial"
       ],
-      "demos": [],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": ""
+        }
+      ],
       "description": "Fresh North East Scots male in his 30s with a clear, confident quality across corporate and documentary content.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Hamish-Wyllie.jpg"
     },

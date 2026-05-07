@@ -2692,7 +2692,9 @@
       "name": "Akari Yamamoto",
       "accent": "Japanese · Japanese",
       "gender": "female",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "english",
         "international"
@@ -2702,33 +2704,29 @@
         "japanese"
       ],
       "genres": [
-        "elearning",
-        "commercial"
+        "commercial",
+        "elearning"
       ],
       "genreLabels": [
-        "E-Learning",
-        "Commercial"
+        "Commercial",
+        "E-Learning"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "1112458552",
-          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-commercial-reel"
+          "trackId": ""
         },
         {
-          "label": "Charater",
-          "trackId": "1112458558",
-          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-charater"
+          "label": "Character Reel",
+          "trackId": ""
         },
         {
-          "label": "Japanese",
-          "trackId": "1112458549",
-          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-japanese"
+          "label": "Japanese Reel",
+          "trackId": ""
         },
         {
-          "label": "Narrative",
-          "trackId": "1112458540",
-          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-narrative"
+          "label": "Narrative Reel",
+          "trackId": ""
         }
       ],
       "description": "Native Japanese speaker with natural English delivery and real range — character, narrative, and e-learning reels all present. A genuinely rare find.",

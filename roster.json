@@ -4,9 +4,7 @@
       "name": "Rachel Moyle",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "scottish"
       ],
@@ -23,8 +21,9 @@
       ],
       "demos": [
         {
-          "label": "Commercial Reel",
-          "trackId": ""
+          "label": "Voiceover Reel Commercial Reel",
+          "trackId": "2271691802",
+          "url": "https://soundcloud.com/red-facilities/voiceover-reel-commercial-reel"
         }
       ],
       "description": "Bright and bouncy with an infectious East Coast energy. Rachel's the one you reach for when a brief needs to feel genuinely alive rather than just upbeat.",
@@ -399,7 +398,9 @@
       "name": "Rory Mason",
       "accent": "American",
       "gender": "male",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "american"
       ],
@@ -417,23 +418,19 @@
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "2088274329",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-rory-mason-1"
+          "trackId": ""
         },
         {
           "label": "US Power",
-          "trackId": "2088274326",
-          "url": "https://soundcloud.com/red-facilities/us-power-rory-mason-4"
+          "trackId": ""
         },
         {
-          "label": "Somking Cessation",
-          "trackId": "2088274323",
-          "url": "https://soundcloud.com/red-facilities/somking-cessation-rory-mason-2"
+          "label": "Smoking Cessation",
+          "trackId": ""
         },
         {
           "label": "The Kingfisher",
-          "trackId": "2088274320",
-          "url": "https://soundcloud.com/red-facilities/the-kingfisher-rory-mason-3"
+          "trackId": ""
         }
       ],
       "description": "Easy American warmth with a storytelling quality that never feels like it's trying. Credits include US Power and The Kingfisher alongside strong commercial and corporate work.",
@@ -572,9 +569,7 @@
       "name": "Dylan Neilson",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "scottish"
       ],
@@ -591,20 +586,24 @@
       ],
       "demos": [
         {
-          "label": "Commercial Reel",
-          "trackId": ""
+          "label": "Commercial Showreel",
+          "trackId": "1992502515",
+          "url": "https://soundcloud.com/red-facilities/commercial-showreel-dylan"
         },
         {
           "label": "Police Scotland",
-          "trackId": ""
+          "trackId": "1992502519",
+          "url": "https://soundcloud.com/red-facilities/police-scotland-dylan-neilson"
         },
         {
           "label": "SNBTS",
-          "trackId": ""
+          "trackId": "1992502527",
+          "url": "https://soundcloud.com/red-facilities/snbts-dylan-neilson"
         },
         {
-          "label": "Narration Reel",
-          "trackId": ""
+          "label": "Narration",
+          "trackId": "1992502523",
+          "url": "https://soundcloud.com/red-facilities/narration-dylan-neilson"
         }
       ],
       "description": "Credits include Police Scotland and SNBTS. Dylan's contemporary East Coast delivery has a quiet authority that public sector clients return to repeatedly.",
@@ -1417,9 +1416,7 @@
       "name": "Samuela Noumtchuet",
       "accent": "American",
       "gender": "female",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "american"
       ],
@@ -1428,30 +1425,32 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "1731903171",
+          "url": "https://soundcloud.com/red-facilities/commercial-reel-samuela"
         },
         {
           "label": "Character",
-          "trackId": ""
+          "trackId": "1731903174",
+          "url": "https://soundcloud.com/red-facilities/character-samuela-noumtchuet"
         },
         {
           "label": "Narration",
-          "trackId": ""
+          "trackId": "1731903159",
+          "url": "https://soundcloud.com/red-facilities/narration-samuela-noumtchuet"
         },
         {
-          "label": "E-Learning",
-          "trackId": ""
+          "label": "E - Learning",
+          "trackId": "1731903162",
+          "url": "https://soundcloud.com/red-facilities/e-learning-samuela-noumtchuet"
         }
       ],
       "description": "Strong, energetic American with genuine range — character, narration, and e-learning reels all present. Real presence and proper acting instincts.",
@@ -1793,9 +1792,7 @@
       "name": "Harry McDowell",
       "accent": "Scottish West Coast",
       "gender": "male",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "scottish"
       ],
@@ -1804,30 +1801,32 @@
       ],
       "genres": [
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "1607754651",
+          "url": "https://soundcloud.com/red-facilities/commercial-reel-harry-mcdowell"
         },
         {
           "label": "Scottish Sun",
-          "trackId": ""
+          "trackId": "1607754633",
+          "url": "https://soundcloud.com/red-facilities/scottish-sun-harry-mcdowell"
         },
         {
           "label": "Tesco Mobile",
-          "trackId": ""
+          "trackId": "1607754627",
+          "url": "https://soundcloud.com/red-facilities/tesco-mobile-harry-mcdowell"
         },
         {
-          "label": "Narration Reel",
-          "trackId": ""
+          "label": "Narration",
+          "trackId": "1607754645",
+          "url": "https://soundcloud.com/red-facilities/narration-harry-mcdowell"
         }
       ],
       "description": "Natural West Coast Scots warmth with credits including Scottish Sun, Tesco Mobile, and public sector narration. Caring, unhurried delivery.",
@@ -2240,9 +2239,7 @@
       "name": "Paul Warren",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "scottish"
       ],
@@ -2251,34 +2248,36 @@
       ],
       "genres": [
         "corporate",
-        "documentary",
-        "commercial"
+        "documentary"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary",
-        "Commercial"
+        "Documentary"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "1356621598",
+          "url": "https://soundcloud.com/red-facilities/commercial-reel-paul-warren"
         },
         {
           "label": "Character Accent Reel",
-          "trackId": ""
+          "trackId": "1374141982",
+          "url": "https://soundcloud.com/red-facilities/character-accent-reel-paul-warren"
         },
         {
           "label": "Audiobook Reel",
-          "trackId": ""
+          "trackId": "1371802585",
+          "url": "https://soundcloud.com/red-facilities/audiobook-reel-paul-warren"
         },
         {
-          "label": "E-Learning Reel",
-          "trackId": ""
+          "label": "ELearning Reel",
+          "trackId": "1371803029",
+          "url": "https://soundcloud.com/red-facilities/elearning-reel-paul-warren"
         }
       ],
-      "description": "Young East Coast Scots male with audiobook, character accent, and e-learning reels already in his locker. More range than his age suggests.",
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg"
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg",
+      "description": "Young East Coast Scots male with audiobook, character accent, and e-learning reels already in his locker. More range than his age suggests."
     },
     {
       "name": "Vanashree Thapliyal",
@@ -2693,9 +2692,7 @@
       "name": "Akari Yamamoto",
       "accent": "Japanese · Japanese",
       "gender": "female",
-      "age": [
-        "20s"
-      ],
+      "age": "20s",
       "accentGroup": [
         "english",
         "international"
@@ -2705,29 +2702,33 @@
         "japanese"
       ],
       "genres": [
-        "commercial",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
-        "Commercial",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "1112458552",
+          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-commercial-reel"
         },
         {
-          "label": "Character Reel",
-          "trackId": ""
+          "label": "Charater",
+          "trackId": "1112458558",
+          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-charater"
         },
         {
-          "label": "Japanese Reel",
-          "trackId": ""
+          "label": "Japanese",
+          "trackId": "1112458549",
+          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-japanese"
         },
         {
-          "label": "Narrative Reel",
-          "trackId": ""
+          "label": "Narrative",
+          "trackId": "1112458540",
+          "url": "https://soundcloud.com/red-facilities/akari-yamamoto-narrative"
         }
       ],
       "description": "Native Japanese speaker with natural English delivery and real range — character, narrative, and e-learning reels all present. A genuinely rare find.",
@@ -4894,29 +4895,20 @@
       "name": "Ryan Ferrie",
       "accent": "Scottish",
       "gender": "male",
-      "age": [
-        "20s"
-      ],
-      "accentGroup": [
-        "scottish"
-      ],
+      "age": "20s",
+      "accentGroup": [],
       "languages": [],
       "genres": [
-        "commercial",
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
-        "Commercial",
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": ""
-        }
-      ],
+      "demos": [],
       "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Ryan-Ferrie.jpg"
     },
@@ -8540,9 +8532,7 @@
       "name": "Jenny Ewart-Robb",
       "accent": "English RP",
       "gender": "female",
-      "age": [
-        "50s"
-      ],
+      "age": "50s",
       "accentGroup": [
         "english"
       ],
@@ -8550,29 +8540,33 @@
         "english"
       ],
       "genres": [
-        "commercial",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
-        "Commercial",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "725792596",
+          "url": "https://soundcloud.com/red-facilities/commercial-reel-jenny-ewartrobb"
         },
         {
           "label": "Character Reel",
-          "trackId": ""
+          "trackId": "2127740451",
+          "url": "https://soundcloud.com/red-facilities/charater_reel_jenny_ewart_robb-1"
         },
         {
           "label": "Renfrew Nursing Agency",
-          "trackId": ""
+          "trackId": "2127740448",
+          "url": "https://soundcloud.com/red-facilities/renfrew_nursing_agency_jenny_ewart_robb-3"
         },
         {
-          "label": "Narration Reel",
-          "trackId": ""
+          "label": "Narration",
+          "trackId": "2127740445",
+          "url": "https://soundcloud.com/red-facilities/narration_jenny_ewart_robb-2"
         }
       ],
       "description": "Wonderfully sophisticated English RP female in her 50s — character, nursing agency, and narration reels all in her locker. A real touch of class.",

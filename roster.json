@@ -4,7 +4,9 @@
       "name": "Rachel Moyle",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -21,9 +23,8 @@
       ],
       "demos": [
         {
-          "label": "Voiceover Reel Commercial Reel",
-          "trackId": "2271691802",
-          "url": "https://soundcloud.com/red-facilities/voiceover-reel-commercial-reel"
+          "label": "Commercial Reel",
+          "trackId": ""
         }
       ],
       "description": "Bright and bouncy with an infectious East Coast energy. Rachel's the one you reach for when a brief needs to feel genuinely alive rather than just upbeat.",

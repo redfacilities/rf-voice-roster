@@ -1794,7 +1794,9 @@
       "name": "Harry McDowell",
       "accent": "Scottish West Coast",
       "gender": "male",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -1803,32 +1805,30 @@
       ],
       "genres": [
         "documentary",
-        "elearning"
+        "elearning",
+        "commercial"
       ],
       "genreLabels": [
         "Documentary",
-        "E-Learning"
+        "E-Learning",
+        "Commercial"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "1607754651",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-harry-mcdowell"
+          "trackId": ""
         },
         {
           "label": "Scottish Sun",
-          "trackId": "1607754633",
-          "url": "https://soundcloud.com/red-facilities/scottish-sun-harry-mcdowell"
+          "trackId": ""
         },
         {
           "label": "Tesco Mobile",
-          "trackId": "1607754627",
-          "url": "https://soundcloud.com/red-facilities/tesco-mobile-harry-mcdowell"
+          "trackId": ""
         },
         {
-          "label": "Narration",
-          "trackId": "1607754645",
-          "url": "https://soundcloud.com/red-facilities/narration-harry-mcdowell"
+          "label": "Narration Reel",
+          "trackId": ""
         }
       ],
       "description": "Natural West Coast Scots warmth with credits including Scottish Sun, Tesco Mobile, and public sector narration. Caring, unhurried delivery.",

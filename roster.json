@@ -5933,7 +5933,9 @@
       "name": "Nicola Jo Cully",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -5941,35 +5943,31 @@
         "english"
       ],
       "genres": [
+        "commercial",
         "corporate",
-        "documentary",
-        "commercial"
+        "documentary"
       ],
       "genreLabels": [
+        "Commercial",
         "Corporate",
-        "Documentary",
-        "Commercial"
+        "Documentary"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "1019792032",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-nicola-jo-1"
+          "trackId": ""
         },
         {
           "label": "Spotlight Reel",
-          "trackId": "1019792011",
-          "url": "https://soundcloud.com/red-facilities/spotlight-reel-nicola-jo-1"
+          "trackId": ""
         },
         {
           "label": "SNBTS",
-          "trackId": "1019792776",
-          "url": "https://soundcloud.com/red-facilities/snbts-nicola-jo-cully-2"
+          "trackId": ""
         },
         {
-          "label": "Narrative",
-          "trackId": "1019792770",
-          "url": "https://soundcloud.com/red-facilities/narrative-nicola-jo-cully-2"
+          "label": "Narrative Reel",
+          "trackId": ""
         }
       ],
       "description": "Young East Coast Scots female with Spotlight, SNBTS, and narrative work already showing excellent early range.",

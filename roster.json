@@ -2240,7 +2240,9 @@
       "name": "Paul Warren",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -2249,36 +2251,34 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "1356621598",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-paul-warren"
+          "trackId": ""
         },
         {
           "label": "Character Accent Reel",
-          "trackId": "1374141982",
-          "url": "https://soundcloud.com/red-facilities/character-accent-reel-paul-warren"
+          "trackId": ""
         },
         {
           "label": "Audiobook Reel",
-          "trackId": "1371802585",
-          "url": "https://soundcloud.com/red-facilities/audiobook-reel-paul-warren"
+          "trackId": ""
         },
         {
-          "label": "ELearning Reel",
-          "trackId": "1371803029",
-          "url": "https://soundcloud.com/red-facilities/elearning-reel-paul-warren"
+          "label": "E-Learning Reel",
+          "trackId": ""
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg",
-      "description": "Young East Coast Scots male with audiobook, character accent, and e-learning reels already in his locker. More range than his age suggests."
+      "description": "Young East Coast Scots male with audiobook, character accent, and e-learning reels already in his locker. More range than his age suggests.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul-Warren.jpg"
     },
     {
       "name": "Vanashree Thapliyal",

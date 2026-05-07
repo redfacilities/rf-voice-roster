@@ -11011,7 +11011,9 @@
       "name": "Derek Smith",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": "30s",
+      "age": [
+        "30s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -11020,36 +11022,34 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
-          "label": "Commercial Montage",
-          "trackId": "1624830699",
-          "url": "https://soundcloud.com/red-facilities/commercial-montage-derek-smith"
+          "label": "Commercial reel",
+          "trackId": ""
         },
         {
           "label": "Continuity Montage",
-          "trackId": "1624830690",
-          "url": "https://soundcloud.com/red-facilities/continuity-montage-derek-smith"
+          "trackId": ""
         },
         {
           "label": "Cycling Scotland",
-          "trackId": "1624830684",
-          "url": "https://soundcloud.com/red-facilities/cycling-scotland-derek-smith"
+          "trackId": ""
         },
         {
           "label": "E-Learning",
-          "trackId": "1624830678",
-          "url": "https://soundcloud.com/red-facilities/elearning-derek-smith"
+          "trackId": ""
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Derek-Smith.jpg",
-      "description": "Versatile East Coast Scots in his 30s — continuity, cycling, e-learning, and commercial montage all in his credits. Proper all-rounder."
+      "description": "Versatile East Coast Scots in his 30s — continuity, cycling, e-learning, and commercial montage all in his credits. Proper all-rounder.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Derek-Smith.jpg"
     },
     {
       "name": "Derek Murray",

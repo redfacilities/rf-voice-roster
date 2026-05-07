@@ -571,7 +571,9 @@
       "name": "Dylan Neilson",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": "20s",
+      "age": [
+        "20s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -588,24 +590,20 @@
       ],
       "demos": [
         {
-          "label": "Commercial Showreel",
-          "trackId": "1992502515",
-          "url": "https://soundcloud.com/red-facilities/commercial-showreel-dylan"
+          "label": "Commercial Reel",
+          "trackId": ""
         },
         {
           "label": "Police Scotland",
-          "trackId": "1992502519",
-          "url": "https://soundcloud.com/red-facilities/police-scotland-dylan-neilson"
+          "trackId": ""
         },
         {
           "label": "SNBTS",
-          "trackId": "1992502527",
-          "url": "https://soundcloud.com/red-facilities/snbts-dylan-neilson"
+          "trackId": ""
         },
         {
-          "label": "Narration",
-          "trackId": "1992502523",
-          "url": "https://soundcloud.com/red-facilities/narration-dylan-neilson"
+          "label": "Narration Reel",
+          "trackId": ""
         }
       ],
       "description": "Credits include Police Scotland and SNBTS. Dylan's contemporary East Coast delivery has a quiet authority that public sector clients return to repeatedly.",

@@ -7213,7 +7213,9 @@
       "name": "Lance Fuller",
       "accent": "American",
       "gender": "male",
-      "age": "30s",
+      "age": [
+        "30s"
+      ],
       "accentGroup": [
         "american",
         "international"
@@ -7232,8 +7234,7 @@
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "726809722",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-lance-fuller"
+          "trackId": ""
         }
       ],
       "description": "Considered and thoughtful American male in his 30s with a measured, intelligent delivery across commercial and character work.",

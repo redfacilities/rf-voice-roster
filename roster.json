@@ -3435,9 +3435,7 @@
       "name": "Vari Sylvester",
       "accent": "English Southern",
       "gender": "female",
-      "age": [
-        "50s"
-      ],
+      "age": "50s",
       "accentGroup": [
         "english"
       ],
@@ -3455,19 +3453,23 @@
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": ""
+          "trackId": "766313110",
+          "url": "https://soundcloud.com/red-facilities/commercial-reel-vari-sylvester"
         },
         {
           "label": "Book Reading",
-          "trackId": ""
+          "trackId": "766313899",
+          "url": "https://soundcloud.com/red-facilities/book-reading-vari-sylvester"
         },
         {
-          "label": "Mid-Atlantic Reel",
-          "trackId": ""
+          "label": "MidAtlantic",
+          "trackId": "766313230",
+          "url": "https://soundcloud.com/red-facilities/mid-atlantic-vari-sylvester"
         },
         {
-          "label": "Narration Reel",
-          "trackId": ""
+          "label": "Narration",
+          "trackId": "766313437",
+          "url": "https://soundcloud.com/red-facilities/narration-vari-sylvester"
         }
       ],
       "description": "Book readings, Mid-Atlantic, narration, commercial — Vari's range is genuinely unusual. Southern English female with exceptional flexibility.",

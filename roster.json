@@ -6277,34 +6277,6 @@
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Natalie-Barrett.jpg"
     },
     {
-      "name": "Naomi Cornwall",
-      "accent": "Scottish East Coast",
-      "gender": "female",
-      "age": "40s",
-      "accentGroup": [
-        "scottish"
-      ],
-      "languages": [
-        "english"
-      ],
-      "genres": [
-        "commercial",
-        "corporate"
-      ],
-      "genreLabels": [
-        "Commercial",
-        "Corporate"
-      ],
-      "demos": [
-        {
-          "label": "Commercial Reel",
-          "trackId": "727237105",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-naomi-cornwall"
-        }
-      ],
-      "description": "Totally natural East Coast Scots female in her 40s — enthusiastic without overselling it, warm without being cloying."
-    },
-    {
       "name": "Monica Gibb",
       "accent": "Scottish East Coast",
       "gender": "female",

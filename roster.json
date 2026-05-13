@@ -13093,6 +13093,34 @@
       ],
       "description": "Warm Scottish male in his 50s with a wide-ranging voice and serious depth — commercials, narration, game trailers, Irish accents, and e-learning all covered.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Max-Howarth.jpg"
+    },
+    {
+      "name": "Jay Ramji",
+      "accent": "English, Midlands",
+      "gender": "",
+      "age": [
+        "20s",
+        "30s"
+      ],
+      "accentGroup": [
+        "english"
+      ],
+      "languages": [],
+      "genres": [
+        "commercial",
+        "corporate",
+        "documentary",
+        "character"
+      ],
+      "genreLabels": [
+        "Commercial",
+        "Corporate",
+        "Documentary",
+        "Character"
+      ],
+      "demos": [],
+      "description": "Young, cool and engaging.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jay-Ramji.jpg"
     }
   ]
 }

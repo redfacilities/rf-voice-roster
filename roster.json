@@ -4904,18 +4904,24 @@
       "name": "Ryan Ferrie",
       "accent": "Scottish",
       "gender": "male",
-      "age": "20s",
-      "accentGroup": [],
-      "languages": [],
+      "age": [
+        "20s"
+      ],
+      "accentGroup": [
+        "scottish"
+      ],
+      "languages": [
+        "english"
+      ],
       "genres": [
+        "commercial",
         "documentary",
-        "elearning",
-        "commercial"
+        "elearning"
       ],
       "genreLabels": [
+        "Commercial",
         "Documentary",
-        "E-Learning",
-        "Commercial"
+        "E-Learning"
       ],
       "demos": [],
       "description": "Young Scots male with a fresh, natural quality and real potential across documentary and e-learning work.",

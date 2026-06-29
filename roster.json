@@ -13182,6 +13182,48 @@
       ],
       "description": "Warm, caring and softly spoken.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Kerri-Clarence.jpg"
+    },
+    {
+      "name": "Matt Lanigan",
+      "accent": "English Northern",
+      "gender": "male",
+      "age": [
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "accentGroup": [
+        "english"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "commercial",
+        "corporate",
+        "elearning"
+      ],
+      "genreLabels": [
+        "Commercial",
+        "Corporate",
+        "E-Learning"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": ""
+        },
+        {
+          "label": "Corporate Reel",
+          "trackId": ""
+        },
+        {
+          "label": "Explainer Reel",
+          "trackId": ""
+        }
+      ],
+      "description": "Down to earth trustworthy northerner.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Matt-Lanigan.jpg"
     }
   ]
 }

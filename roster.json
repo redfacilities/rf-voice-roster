@@ -13224,6 +13224,31 @@
       ],
       "description": "Down to earth and honest.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Matt-Lanigan.jpg"
+    },
+    {
+      "name": "John Lee",
+      "accent": "English Northern",
+      "gender": "male",
+      "age": [
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "accentGroup": [
+        "english"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "commercial"
+      ],
+      "genreLabels": [
+        "Commercial"
+      ],
+      "demos": [],
+      "description": "Rich, warm, down to earth northerner.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Lee.jpg"
     }
   ]
 }

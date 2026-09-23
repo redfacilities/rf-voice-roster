@@ -8183,7 +8183,9 @@
       "name": "Jodie Campbell",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": "30s",
+      "age": [
+        "30s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -8192,32 +8194,30 @@
       ],
       "genres": [
         "corporate",
-        "documentary"
+        "documentary",
+        "commercial"
       ],
       "genreLabels": [
         "Corporate",
-        "Documentary"
+        "Documentary",
+        "Commercial"
       ],
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "1374834745",
-          "url": "https://soundcloud.com/red-facilities/commercial-reel-jodie-campbell-1"
+          "trackId": ""
         },
         {
           "label": "Character Read",
-          "trackId": "1374834964",
-          "url": "https://soundcloud.com/red-facilities/character-read-jodie-campbell"
+          "trackId": ""
         },
         {
           "label": "Happy Read",
-          "trackId": "1374835090",
-          "url": "https://soundcloud.com/red-facilities/happy-read-jodie-campbell"
+          "trackId": ""
         },
         {
-          "label": "Narative Read",
-          "trackId": "1374835453",
-          "url": "https://soundcloud.com/red-facilities/narative-read-jodie-campbell"
+          "label": "Narrative Read",
+          "trackId": ""
         }
       ],
       "description": "Enthusiastic and slightly quirky East Coast Scots female in her 30s — character, happy, and narrative reads all covered, plus a straight commercial reel.",

@@ -13265,6 +13265,50 @@
       ],
       "description": "Rich, warm, down to earth northerner.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/John-Lee.jpg"
+    },
+    {
+      "name": "Jules Mcinnon",
+      "accent": "Scottish Generic",
+      "gender": "",
+      "age": [],
+      "accentGroup": [
+        "scottish"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "commercial",
+        "corporate",
+        "documentary",
+        "elearning"
+      ],
+      "genreLabels": [
+        "Commercial",
+        "Corporate",
+        "Documentary",
+        "E-Learning"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Showreel",
+          "trackId": ""
+        },
+        {
+          "label": "Long-form Showreel",
+          "trackId": ""
+        },
+        {
+          "label": "Porridge Commercial",
+          "trackId": ""
+        },
+        {
+          "label": "Audio Book Reading",
+          "trackId": ""
+        }
+      ],
+      "description": "Warm and gentle East Coast Scots VO. Great at natural, confident reads.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jules-Mcinnon.jpg"
     }
   ]
 }

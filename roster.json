@@ -13269,8 +13269,11 @@
     {
       "name": "Jules Mcinnon",
       "accent": "Scottish Generic",
-      "gender": "",
-      "age": [],
+      "gender": "female",
+      "age": [
+        "30s",
+        "40s"
+      ],
       "accentGroup": [
         "scottish"
       ],

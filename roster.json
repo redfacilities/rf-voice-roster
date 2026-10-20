@@ -2801,7 +2801,9 @@
       "name": "Daisy Walker-Lyon",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": [],
+      "age": [
+        "under 20"
+      ],
       "accentGroup": [
         "scottish"
       ],

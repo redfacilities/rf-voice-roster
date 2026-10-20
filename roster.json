@@ -9323,7 +9323,9 @@
       "name": "Henry Walker-Lyon",
       "accent": "Scottish East Coast",
       "gender": "male",
-      "age": [],
+      "age": [
+        "under 20"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -9331,14 +9333,10 @@
         "english"
       ],
       "genres": [
-        "commercial",
-        "corporate",
-        "documentary"
+        "commercial"
       ],
       "genreLabels": [
-        "Commercial",
-        "Corporate",
-        "Documentary"
+        "Commercial"
       ],
       "demos": [
         {

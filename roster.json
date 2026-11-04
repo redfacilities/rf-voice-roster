@@ -10942,7 +10942,9 @@
       "name": "Diane Brooks",
       "accent": "Scottish East Coast",
       "gender": "female",
-      "age": "50s",
+      "age": [
+        "50s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -10960,22 +10962,19 @@
       "demos": [
         {
           "label": "Commercial Showreel",
-          "trackId": "991833502",
-          "url": "https://soundcloud.com/red-facilities/commercial-showreel-diane"
+          "trackId": ""
         },
         {
           "label": "Corporate Reel",
-          "trackId": "725186905",
-          "url": "https://soundcloud.com/red-facilities/corporate-reel-diane-brookes"
+          "trackId": ""
         },
         {
           "label": "Gaming Montage",
-          "trackId": "991833499",
-          "url": "https://soundcloud.com/red-facilities/diane-brooks-gaming-montage"
+          "trackId": ""
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Brooks.jpg",
-      "description": "Experienced East Coast Scots female in her 50s with commercial, corporate, and gaming reels all showing real range."
+      "description": "Experienced East Coast Scots female in her 50s with commercial, corporate, and gaming reels all showing real range.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Diane-Brooks.jpg"
     },
     {
       "name": "Derek Smith",

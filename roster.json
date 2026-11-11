@@ -13327,6 +13327,43 @@
       ],
       "description": "Warm and gentle East Coast Scots VO. Great at natural, confident reads.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Jules-Mcinnon.jpg"
+    },
+    {
+      "name": "Scarlet Mack",
+      "accent": "Scottish Generic",
+      "gender": "female",
+      "age": [
+        "40s",
+        "50s"
+      ],
+      "accentGroup": [
+        "scottish"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "commercial"
+      ],
+      "genreLabels": [
+        "Commercial"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": ""
+        },
+        {
+          "label": "Audiobook Reel",
+          "trackId": ""
+        },
+        {
+          "label": "Dramatic Reel",
+          "trackId": ""
+        }
+      ],
+      "description": "Clear, confident and direct.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Scarlet-Mack.jpg"
     }
   ]
 }

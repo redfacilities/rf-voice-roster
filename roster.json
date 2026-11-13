@@ -13365,6 +13365,47 @@
       ],
       "description": "Clear, confident and direct.",
       "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Scarlet-Mack.jpg"
+    },
+    {
+      "name": "Paul",
+      "accent": "English Northern",
+      "gender": "male",
+      "age": [
+        "40s",
+        "50s"
+      ],
+      "accentGroup": [
+        "english"
+      ],
+      "languages": [
+        "english"
+      ],
+      "genres": [
+        "commercial"
+      ],
+      "genreLabels": [
+        "Commercial"
+      ],
+      "demos": [
+        {
+          "label": "Commercial Reel",
+          "trackId": ""
+        },
+        {
+          "label": "Book Reading",
+          "trackId": ""
+        },
+        {
+          "label": "Dream Mobile",
+          "trackId": ""
+        },
+        {
+          "label": "Leeds Rhinos",
+          "trackId": ""
+        }
+      ],
+      "description": "Friendly, trustworthy and just great fun.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Paul.jpg"
     }
   ]
 }

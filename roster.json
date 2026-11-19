@@ -1637,7 +1637,9 @@
       "name": "Calum Barbour",
       "accent": "Scottish West Coast",
       "gender": "male",
-      "age": "30s",
+      "age": [
+        "30s"
+      ],
       "accentGroup": [
         "scottish"
       ],
@@ -1655,17 +1657,15 @@
       "demos": [
         {
           "label": "Commercial Reel",
-          "trackId": "2022807680",
-          "url": "https://soundcloud.com/red-facilities/calum-barbour-commercial-reel"
+          "trackId": ""
         },
         {
           "label": "Documentary Reel",
-          "trackId": "2022808372",
-          "url": "https://soundcloud.com/red-facilities/calum-barbour-documentary-reel"
+          "trackId": ""
         }
       ],
-      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Calum%20Barbour.jpg",
-      "description": "Warm, honest and believable, with separate commercial and documentary reels."
+      "description": "Warm, honest and believable, with separate commercial and documentary reels.",
+      "image": "https://raw.githubusercontent.com/redfacilities/rf-voice-roster/main/images/Calum%20Barbour.jpg"
     },
     {
       "name": "Christine Kammerer",
